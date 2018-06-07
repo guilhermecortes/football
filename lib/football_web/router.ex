@@ -20,7 +20,10 @@ defmodule FootballWeb.Router do
   end
 
   # Other scopes may use custom stacks.
-  # scope "/api", FootballWeb do
-  #   pipe_through :api
-  # end
+  scope "/api", FootballWeb do
+    pipe_through :api
+
+    get "/leagues", LeaguesController, :index
+    get "/leagues/:division/:season", LeaguesController, :show
+  end
 end
