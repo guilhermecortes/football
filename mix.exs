@@ -42,6 +42,7 @@ defmodule Football.Mixfile do
       {:gettext, "~> 0.11"},
       {:cowboy, "~> 1.0"},
       {:ex_machina, "~> 2.2", only: :test},
+      {:csv, "~> 1.2.4"}
     ]
   end
 
