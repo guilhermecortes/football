@@ -1,0 +1,36 @@
+<div>
+  <h2>Results for league <%= @division %> - season <%= @season%></h2>
+</div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Division</th>
+      <th scope="col">Season</th>
+      <th scope="col">Date</th>
+      <th scope="col">Home Team</th>
+      <th scope="col">Away Team</th>
+      <th scope="col">FTHG</th>
+      <th scope="col">FTAG</th>
+      <th scope="col">FTR</th>
+      <th scope="col">HTHG</th>
+      <th scope="col">HTAG</th>
+      <th scope="col">HTR</th>
+    </tr>
+  </thead>
+  <%= for result <- @results do %>
+      <tr>
+        <td><%= result.division %></td>
+        <td><%= result.season %></td>
+        <td><%= result.game_date %></td>
+        <td><%= result.home_team %></td>
+        <td><%= result.away_team %></td>
+        <td><%= result.fthg %></td>
+        <td><%= result.ftag %></td>
+        <td><%= result.ftr %></td>
+        <td><%= result.hthg %></td>
+        <td><%= result.htag %></td>
+        <td><%= result.htr %></td>
+      </tr>
+  <% end %>
+</table>

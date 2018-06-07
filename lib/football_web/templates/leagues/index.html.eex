@@ -1,0 +1,22 @@
+<div>
+  <h2>Choose the list to see the results</h2>
+</div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">League</th>
+      <th scope="col">Season</th>
+      <th scope="col">Details</th>
+    </tr>
+  </thead>
+  <%= for result <- @results do %>
+      <tr>
+        <td><%= result.division %></td>
+        <td><%= result.season %></td>
+        <td>
+          <%= link "Show", to: "/leagues/#{result.division}/#{result.season}" %>
+        </td>
+      </tr>
+  <% end %>
+</table>
