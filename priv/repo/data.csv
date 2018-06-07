@@ -1,0 +1,2371 @@
+Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SP1,201617,19/08/16,La Coruna,Eibar,2,1,H,0,0,D
+SP1,201617,19/08/16,Malaga,Osasuna,1,1,D,0,0,D
+SP1,201617,20/08/16,Barcelona,Betis,6,2,H,3,1,H
+SP1,201617,20/08/16,Granada,Villarreal,1,1,D,0,0,D
+SP1,201617,20/08/16,Sevilla,Espanol,6,4,H,3,3,D
+SP1,201617,21/08/16,Ath Madrid,Alaves,1,1,D,0,0,D
+SP1,201617,21/08/16,Sociedad,Real Madrid,0,3,A,0,2,A
+SP1,201617,21/08/16,Sp Gijon,Ath Bilbao,2,1,H,0,0,D
+SP1,201617,22/08/16,Celta,Leganes,0,1,A,0,0,D
+SP1,201617,22/08/16,Valencia,Las Palmas,2,4,A,2,3,A
+SP1,201617,26/08/16,Betis,La Coruna,0,0,D,0,0,D
+SP1,201617,26/08/16,Espanol,Malaga,2,2,D,1,0,H
+SP1,201617,27/08/16,Eibar,Valencia,1,0,H,0,0,D
+SP1,201617,27/08/16,Leganes,Ath Madrid,0,0,D,0,0,D
+SP1,201617,27/08/16,Osasuna,Sociedad,0,2,A,0,1,A
+SP1,201617,27/08/16,Real Madrid,Celta,2,1,H,0,0,D
+SP1,201617,28/08/16,Alaves,Sp Gijon,0,0,D,0,0,D
+SP1,201617,28/08/16,Ath Bilbao,Barcelona,0,1,A,0,1,A
+SP1,201617,28/08/16,Las Palmas,Granada,5,1,H,1,1,D
+SP1,201617,28/08/16,Villarreal,Sevilla,0,0,D,0,0,D
+SP1,201617,09/09/16,Sociedad,Espanol,1,1,D,0,0,D
+SP1,201617,10/09/16,Barcelona,Alaves,1,2,A,0,1,A
+SP1,201617,10/09/16,Celta,Ath Madrid,0,4,A,0,0,D
+SP1,201617,10/09/16,Malaga,Villarreal,0,2,A,0,2,A
+SP1,201617,10/09/16,Real Madrid,Osasuna,5,2,H,3,0,H
+SP1,201617,10/09/16,Sevilla,Las Palmas,2,1,H,0,1,A
+SP1,201617,11/09/16,Granada,Eibar,1,2,A,0,1,A
+SP1,201617,11/09/16,La Coruna,Ath Bilbao,0,1,A,0,1,A
+SP1,201617,11/09/16,Sp Gijon,Leganes,2,1,H,2,0,H
+SP1,201617,11/09/16,Valencia,Betis,2,3,A,0,1,A
+SP1,201617,16/09/16,Betis,Granada,2,2,D,1,2,A
+SP1,201617,17/09/16,Ath Madrid,Sp Gijon,5,0,H,3,0,H
+SP1,201617,17/09/16,Eibar,Sevilla,1,1,D,0,1,A
+SP1,201617,17/09/16,Las Palmas,Malaga,1,0,H,1,0,H
+SP1,201617,17/09/16,Leganes,Barcelona,1,5,A,0,3,A
+SP1,201617,18/09/16,Ath Bilbao,Valencia,2,1,H,2,1,H
+SP1,201617,18/09/16,Espanol,Real Madrid,0,2,A,0,1,A
+SP1,201617,18/09/16,Osasuna,Celta,0,0,D,0,0,D
+SP1,201617,18/09/16,Villarreal,Sociedad,2,1,H,2,1,H
+SP1,201617,19/09/16,Alaves,La Coruna,0,0,D,0,0,D
+SP1,201617,20/09/16,Malaga,Eibar,2,1,H,1,1,D
+SP1,201617,20/09/16,Sevilla,Betis,1,0,H,0,0,D
+SP1,201617,21/09/16,Barcelona,Ath Madrid,1,1,D,1,0,H
+SP1,201617,21/09/16,Celta,Sp Gijon,2,1,H,0,0,D
+SP1,201617,21/09/16,Granada,Ath Bilbao,1,2,A,1,1,D
+SP1,201617,21/09/16,Real Madrid,Villarreal,1,1,D,0,1,A
+SP1,201617,21/09/16,Sociedad,Las Palmas,4,1,H,3,0,H
+SP1,201617,22/09/16,La Coruna,Leganes,1,2,A,1,0,H
+SP1,201617,22/09/16,Osasuna,Espanol,1,2,A,0,1,A
+SP1,201617,22/09/16,Valencia,Alaves,2,1,H,1,1,D
+SP1,201617,23/09/16,Betis,Malaga,1,0,H,1,0,H
+SP1,201617,24/09/16,Ath Bilbao,Sevilla,3,1,H,1,0,H
+SP1,201617,24/09/16,Eibar,Sociedad,2,0,H,0,0,D
+SP1,201617,24/09/16,Las Palmas,Real Madrid,2,2,D,1,1,D
+SP1,201617,24/09/16,Sp Gijon,Barcelona,0,5,A,0,2,A
+SP1,201617,25/09/16,Ath Madrid,La Coruna,1,0,H,0,0,D
+SP1,201617,25/09/16,Espanol,Celta,0,2,A,0,0,D
+SP1,201617,25/09/16,Leganes,Valencia,1,2,A,1,1,D
+SP1,201617,25/09/16,Villarreal,Osasuna,3,1,H,3,1,H
+SP1,201617,26/09/16,Alaves,Granada,3,1,H,0,0,D
+SP1,201617,30/09/16,Sociedad,Betis,1,0,H,0,0,D
+SP1,201617,01/10/16,Granada,Leganes,0,1,A,0,0,D
+SP1,201617,01/10/16,La Coruna,Sp Gijon,2,1,H,1,0,H
+SP1,201617,01/10/16,Osasuna,Las Palmas,2,2,D,2,0,H
+SP1,201617,01/10/16,Sevilla,Alaves,2,1,H,0,0,D
+SP1,201617,02/10/16,Celta,Barcelona,4,3,H,3,0,H
+SP1,201617,02/10/16,Espanol,Villarreal,0,0,D,0,0,D
+SP1,201617,02/10/16,Malaga,Ath Bilbao,2,1,H,0,1,A
+SP1,201617,02/10/16,Real Madrid,Eibar,1,1,D,1,1,D
+SP1,201617,02/10/16,Valencia,Ath Madrid,0,2,A,0,0,D
+SP1,201617,14/10/16,Las Palmas,Espanol,0,0,D,0,0,D
+SP1,201617,15/10/16,Ath Madrid,Granada,7,1,H,2,1,H
+SP1,201617,15/10/16,Barcelona,La Coruna,4,0,H,3,0,H
+SP1,201617,15/10/16,Betis,Real Madrid,1,6,A,0,4,A
+SP1,201617,15/10/16,Leganes,Sevilla,2,3,A,0,1,A
+SP1,201617,16/10/16,Alaves,Malaga,1,1,D,1,0,H
+SP1,201617,16/10/16,Ath Bilbao,Sociedad,3,2,H,0,1,A
+SP1,201617,16/10/16,Sp Gijon,Valencia,1,2,A,1,1,D
+SP1,201617,16/10/16,Villarreal,Celta,5,0,H,3,0,H
+SP1,201617,17/10/16,Eibar,Osasuna,2,3,A,2,2,D
+SP1,201617,21/10/16,Osasuna,Betis,1,2,A,0,1,A
+SP1,201617,22/10/16,Espanol,Eibar,3,3,D,0,3,A
+SP1,201617,22/10/16,Granada,Sp Gijon,0,0,D,0,0,D
+SP1,201617,22/10/16,Sociedad,Alaves,3,0,H,1,0,H
+SP1,201617,22/10/16,Valencia,Barcelona,2,3,A,0,1,A
+SP1,201617,23/10/16,Celta,La Coruna,4,1,H,1,1,D
+SP1,201617,23/10/16,Malaga,Leganes,4,0,H,2,0,H
+SP1,201617,23/10/16,Real Madrid,Ath Bilbao,2,1,H,1,1,D
+SP1,201617,23/10/16,Sevilla,Ath Madrid,1,0,H,0,0,D
+SP1,201617,23/10/16,Villarreal,Las Palmas,2,1,H,0,1,A
+SP1,201617,28/10/16,Leganes,Sociedad,0,2,A,0,1,A
+SP1,201617,29/10/16,Alaves,Real Madrid,1,4,A,1,2,A
+SP1,201617,29/10/16,Ath Madrid,Malaga,4,2,H,3,1,H
+SP1,201617,29/10/16,Barcelona,Granada,1,0,H,0,0,D
+SP1,201617,29/10/16,Sp Gijon,Sevilla,1,1,D,1,1,D
+SP1,201617,30/10/16,Ath Bilbao,Osasuna,1,1,D,1,1,D
+SP1,201617,30/10/16,Betis,Espanol,0,1,A,0,0,D
+SP1,201617,30/10/16,Eibar,Villarreal,2,1,H,0,1,A
+SP1,201617,30/10/16,Las Palmas,Celta,3,3,D,0,3,A
+SP1,201617,31/10/16,La Coruna,Valencia,1,1,D,1,0,H
+SP1,201617,04/11/16,Malaga,Sp Gijon,3,2,H,1,1,D
+SP1,201617,05/11/16,Granada,La Coruna,1,1,D,0,0,D
+SP1,201617,05/11/16,Las Palmas,Eibar,1,0,H,0,0,D
+SP1,201617,05/11/16,Osasuna,Alaves,0,1,A,0,0,D
+SP1,201617,05/11/16,Sociedad,Ath Madrid,2,0,H,0,0,D
+SP1,201617,06/11/16,Celta,Valencia,2,1,H,1,1,D
+SP1,201617,06/11/16,Espanol,Ath Bilbao,0,0,D,0,0,D
+SP1,201617,06/11/16,Real Madrid,Leganes,3,0,H,2,0,H
+SP1,201617,06/11/16,Sevilla,Barcelona,1,2,A,1,1,D
+SP1,201617,06/11/16,Villarreal,Betis,2,0,H,1,0,H
+SP1,201617,18/11/16,Betis,Las Palmas,2,0,H,2,0,H
+SP1,201617,19/11/16,Ath Madrid,Real Madrid,0,3,A,0,1,A
+SP1,201617,19/11/16,Barcelona,Malaga,0,0,D,0,0,D
+SP1,201617,19/11/16,Eibar,Celta,1,0,H,1,0,H
+SP1,201617,19/11/16,La Coruna,Sevilla,2,3,A,2,1,H
+SP1,201617,20/11/16,Alaves,Espanol,0,1,A,0,0,D
+SP1,201617,20/11/16,Ath Bilbao,Villarreal,1,0,H,0,0,D
+SP1,201617,20/11/16,Sp Gijon,Sociedad,1,3,A,1,1,D
+SP1,201617,20/11/16,Valencia,Granada,1,1,D,0,1,A
+SP1,201617,21/11/16,Leganes,Osasuna,2,0,H,1,0,H
+SP1,201617,25/11/16,Eibar,Betis,3,1,H,2,0,H
+SP1,201617,26/11/16,Espanol,Leganes,3,0,H,0,0,D
+SP1,201617,26/11/16,Malaga,La Coruna,4,3,H,2,1,H
+SP1,201617,26/11/16,Real Madrid,Sp Gijon,2,1,H,2,1,H
+SP1,201617,26/11/16,Sevilla,Valencia,2,1,H,0,0,D
+SP1,201617,27/11/16,Celta,Granada,3,1,H,2,0,H
+SP1,201617,27/11/16,Osasuna,Ath Madrid,0,3,A,0,2,A
+SP1,201617,27/11/16,Sociedad,Barcelona,1,1,D,0,0,D
+SP1,201617,27/11/16,Villarreal,Alaves,0,2,A,0,2,A
+SP1,201617,28/11/16,Las Palmas,Ath Bilbao,3,1,H,1,0,H
+SP1,201617,03/12/16,Ath Madrid,Espanol,0,0,D,0,0,D
+SP1,201617,03/12/16,Barcelona,Real Madrid,1,1,D,0,0,D
+SP1,201617,03/12/16,Granada,Sevilla,2,1,H,1,0,H
+SP1,201617,03/12/16,Leganes,Villarreal,0,0,D,0,0,D
+SP1,201617,04/12/16,Alaves,Las Palmas,1,1,D,1,0,H
+SP1,201617,04/12/16,Ath Bilbao,Eibar,3,1,H,1,0,H
+SP1,201617,04/12/16,Betis,Celta,3,3,D,1,1,D
+SP1,201617,04/12/16,Sp Gijon,Osasuna,3,1,H,1,0,H
+SP1,201617,04/12/16,Valencia,Malaga,2,2,D,2,1,H
+SP1,201617,05/12/16,La Coruna,Sociedad,5,1,H,3,0,H
+SP1,201617,09/12/16,Malaga,Granada,1,1,D,1,0,H
+SP1,201617,10/12/16,Las Palmas,Leganes,1,1,D,1,0,H
+SP1,201617,10/12/16,Osasuna,Barcelona,0,3,A,0,0,D
+SP1,201617,10/12/16,Real Madrid,La Coruna,3,2,H,0,0,D
+SP1,201617,10/12/16,Sociedad,Valencia,3,2,H,2,1,H
+SP1,201617,11/12/16,Betis,Ath Bilbao,1,0,H,1,0,H
+SP1,201617,11/12/16,Celta,Sevilla,0,3,A,0,0,D
+SP1,201617,11/12/16,Eibar,Alaves,0,0,D,0,0,D
+SP1,201617,11/12/16,Espanol,Sp Gijon,2,1,H,0,0,D
+SP1,201617,12/12/16,Villarreal,Ath Madrid,3,0,H,2,0,H
+SP1,201617,16/12/16,Alaves,Betis,1,0,H,0,0,D
+SP1,201617,17/12/16,Ath Madrid,Las Palmas,1,0,H,0,0,D
+SP1,201617,17/12/16,Granada,Sociedad,0,2,A,0,0,D
+SP1,201617,17/12/16,Sevilla,Malaga,4,1,H,4,0,H
+SP1,201617,17/12/16,Sp Gijon,Villarreal,1,3,A,0,2,A
+SP1,201617,18/12/16,Barcelona,Espanol,4,1,H,1,0,H
+SP1,201617,18/12/16,La Coruna,Osasuna,2,0,H,2,0,H
+SP1,201617,18/12/16,Leganes,Eibar,1,1,D,1,0,H
+SP1,201617,19/12/16,Ath Bilbao,Celta,2,1,H,0,0,D
+SP1,201617,06/01/17,Espanol,La Coruna,1,1,D,0,0,D
+SP1,201617,07/01/17,Eibar,Ath Madrid,0,2,A,0,0,D
+SP1,201617,07/01/17,Las Palmas,Sp Gijon,1,0,H,0,0,D
+SP1,201617,07/01/17,Real Madrid,Granada,5,0,H,4,0,H
+SP1,201617,07/01/17,Sociedad,Sevilla,0,4,A,0,2,A
+SP1,201617,08/01/17,Ath Bilbao,Alaves,0,0,D,0,0,D
+SP1,201617,08/01/17,Betis,Leganes,2,0,H,0,0,D
+SP1,201617,08/01/17,Celta,Malaga,3,1,H,1,0,H
+SP1,201617,08/01/17,Villarreal,Barcelona,1,1,D,0,0,D
+SP1,201617,09/01/17,Osasuna,Valencia,3,3,D,1,2,A
+SP1,201617,14/01/17,Ath Madrid,Betis,1,0,H,1,0,H
+SP1,201617,14/01/17,Barcelona,Las Palmas,5,0,H,1,0,H
+SP1,201617,14/01/17,La Coruna,Villarreal,0,0,D,0,0,D
+SP1,201617,14/01/17,Leganes,Ath Bilbao,0,0,D,0,0,D
+SP1,201617,15/01/17,Celta,Alaves,1,0,H,0,0,D
+SP1,201617,15/01/17,Granada,Osasuna,1,1,D,0,1,A
+SP1,201617,15/01/17,Sevilla,Real Madrid,2,1,H,0,0,D
+SP1,201617,15/01/17,Sp Gijon,Eibar,2,3,A,1,3,A
+SP1,201617,15/01/17,Valencia,Espanol,2,1,H,1,0,H
+SP1,201617,16/01/17,Malaga,Sociedad,0,2,A,0,0,D
+SP1,201617,20/01/17,Las Palmas,La Coruna,1,1,D,1,0,H
+SP1,201617,21/01/17,Alaves,Leganes,2,2,D,1,1,D
+SP1,201617,21/01/17,Espanol,Granada,3,1,H,2,1,H
+SP1,201617,21/01/17,Real Madrid,Malaga,2,1,H,2,0,H
+SP1,201617,21/01/17,Villarreal,Valencia,0,2,A,0,2,A
+SP1,201617,22/01/17,Ath Bilbao,Ath Madrid,2,2,D,1,1,D
+SP1,201617,22/01/17,Betis,Sp Gijon,0,0,D,0,0,D
+SP1,201617,22/01/17,Eibar,Barcelona,0,4,A,0,1,A
+SP1,201617,22/01/17,Osasuna,Sevilla,3,4,A,1,1,D
+SP1,201617,22/01/17,Sociedad,Celta,1,0,H,0,0,D
+SP1,201617,27/01/17,Osasuna,Malaga,1,1,D,0,0,D
+SP1,201617,28/01/17,Alaves,Ath Madrid,0,0,D,0,0,D
+SP1,201617,28/01/17,Eibar,La Coruna,3,1,H,2,1,H
+SP1,201617,28/01/17,Leganes,Celta,0,2,A,0,1,A
+SP1,201617,28/01/17,Villarreal,Granada,2,0,H,1,0,H
+SP1,201617,29/01/17,Ath Bilbao,Sp Gijon,2,1,H,0,1,A
+SP1,201617,29/01/17,Betis,Barcelona,1,1,D,0,0,D
+SP1,201617,29/01/17,Espanol,Sevilla,3,1,H,2,1,H
+SP1,201617,29/01/17,Real Madrid,Sociedad,3,0,H,1,0,H
+SP1,201617,30/01/17,Las Palmas,Valencia,3,1,H,1,1,D
+SP1,201617,04/02/17,Ath Madrid,Leganes,2,0,H,1,0,H
+SP1,201617,04/02/17,Barcelona,Ath Bilbao,3,0,H,2,0,H
+SP1,201617,04/02/17,Malaga,Espanol,0,1,A,0,1,A
+SP1,201617,04/02/17,Valencia,Eibar,0,4,A,0,2,A
+SP1,201617,05/02/17,Sevilla,Villarreal,0,0,D,0,0,D
+SP1,201617,05/02/17,Sociedad,Osasuna,3,2,H,0,1,A
+SP1,201617,05/02/17,Sp Gijon,Alaves,2,4,A,0,1,A
+SP1,201617,06/02/17,Granada,Las Palmas,1,0,H,1,0,H
+SP1,201617,10/02/17,Espanol,Sociedad,1,2,A,1,1,D
+SP1,201617,11/02/17,Alaves,Barcelona,0,6,A,0,2,A
+SP1,201617,11/02/17,Ath Bilbao,La Coruna,2,1,H,0,1,A
+SP1,201617,11/02/17,Betis,Valencia,0,0,D,0,0,D
+SP1,201617,11/02/17,Osasuna,Real Madrid,1,3,A,1,1,D
+SP1,201617,12/02/17,Ath Madrid,Celta,3,2,H,1,1,D
+SP1,201617,12/02/17,Las Palmas,Sevilla,0,1,A,0,0,D
+SP1,201617,12/02/17,Leganes,Sp Gijon,0,2,A,0,0,D
+SP1,201617,12/02/17,Villarreal,Malaga,1,1,D,0,1,A
+SP1,201617,13/02/17,Eibar,Granada,4,0,H,2,0,H
+SP1,201617,17/02/17,Granada,Betis,4,1,H,3,0,H
+SP1,201617,18/02/17,La Coruna,Alaves,0,1,A,0,0,D
+SP1,201617,18/02/17,Real Madrid,Espanol,2,0,H,1,0,H
+SP1,201617,18/02/17,Sevilla,Eibar,2,0,H,1,0,H
+SP1,201617,18/02/17,Sp Gijon,Ath Madrid,1,4,A,0,0,D
+SP1,201617,19/02/17,Barcelona,Leganes,2,1,H,1,0,H
+SP1,201617,19/02/17,Celta,Osasuna,3,0,H,1,0,H
+SP1,201617,19/02/17,Sociedad,Villarreal,0,1,A,0,0,D
+SP1,201617,19/02/17,Valencia,Ath Bilbao,2,0,H,2,0,H
+SP1,201617,20/02/17,Malaga,Las Palmas,2,1,H,2,1,H
+SP1,201617,22/02/17,Valencia,Real Madrid,2,1,H,2,1,H
+SP1,201617,24/02/17,Las Palmas,Sociedad,0,1,A,0,0,D
+SP1,201617,25/02/17,Alaves,Valencia,2,1,H,0,0,D
+SP1,201617,25/02/17,Betis,Sevilla,1,2,A,1,0,H
+SP1,201617,25/02/17,Eibar,Malaga,3,0,H,1,0,H
+SP1,201617,25/02/17,Leganes,La Coruna,4,0,H,2,0,H
+SP1,201617,26/02/17,Ath Bilbao,Granada,3,1,H,2,1,H
+SP1,201617,26/02/17,Ath Madrid,Barcelona,1,2,A,0,0,D
+SP1,201617,26/02/17,Espanol,Osasuna,3,0,H,1,0,H
+SP1,201617,26/02/17,Sp Gijon,Celta,1,1,D,0,0,D
+SP1,201617,26/02/17,Villarreal,Real Madrid,2,3,A,0,0,D
+SP1,201617,28/02/17,Malaga,Betis,1,2,A,1,0,H
+SP1,201617,28/02/17,Sociedad,Eibar,2,2,D,1,1,D
+SP1,201617,28/02/17,Valencia,Leganes,1,0,H,1,0,H
+SP1,201617,01/03/17,Barcelona,Sp Gijon,6,1,H,3,1,H
+SP1,201617,01/03/17,Celta,Espanol,2,2,D,2,2,D
+SP1,201617,01/03/17,Granada,Alaves,2,1,H,1,0,H
+SP1,201617,01/03/17,Osasuna,Villarreal,1,4,A,0,2,A
+SP1,201617,01/03/17,Real Madrid,Las Palmas,3,3,D,1,1,D
+SP1,201617,02/03/17,La Coruna,Ath Madrid,1,1,D,1,0,H
+SP1,201617,02/03/17,Sevilla,Ath Bilbao,1,0,H,1,0,H
+SP1,201617,03/03/17,Betis,Sociedad,2,3,A,1,2,A
+SP1,201617,04/03/17,Barcelona,Celta,5,0,H,2,0,H
+SP1,201617,04/03/17,Eibar,Real Madrid,1,4,A,0,3,A
+SP1,201617,04/03/17,Leganes,Granada,1,0,H,0,0,D
+SP1,201617,04/03/17,Villarreal,Espanol,2,0,H,1,0,H
+SP1,201617,05/03/17,Ath Bilbao,Malaga,1,0,H,0,0,D
+SP1,201617,05/03/17,Ath Madrid,Valencia,3,0,H,1,0,H
+SP1,201617,05/03/17,Las Palmas,Osasuna,5,2,H,1,2,A
+SP1,201617,05/03/17,Sp Gijon,La Coruna,0,1,A,0,1,A
+SP1,201617,06/03/17,Alaves,Sevilla,1,1,D,0,1,A
+SP1,201617,08/03/17,La Coruna,Betis,1,1,D,0,0,D
+SP1,201617,10/03/17,Espanol,Las Palmas,4,3,H,2,1,H
+SP1,201617,11/03/17,Granada,Ath Madrid,0,1,A,0,0,D
+SP1,201617,11/03/17,Malaga,Alaves,1,2,A,0,1,A
+SP1,201617,11/03/17,Sevilla,Leganes,1,1,D,1,1,D
+SP1,201617,11/03/17,Valencia,Sp Gijon,1,1,D,0,0,D
+SP1,201617,12/03/17,Celta,Villarreal,0,1,A,0,1,A
+SP1,201617,12/03/17,La Coruna,Barcelona,2,1,H,1,0,H
+SP1,201617,12/03/17,Real Madrid,Betis,2,1,H,1,1,D
+SP1,201617,12/03/17,Sociedad,Ath Bilbao,0,2,A,0,1,A
+SP1,201617,13/03/17,Osasuna,Eibar,1,1,D,0,0,D
+SP1,201617,17/03/17,Las Palmas,Villarreal,1,0,H,1,0,H
+SP1,201617,18/03/17,Alaves,Sociedad,1,0,H,1,0,H
+SP1,201617,18/03/17,Ath Bilbao,Real Madrid,1,2,A,0,1,A
+SP1,201617,18/03/17,Betis,Osasuna,2,0,H,2,0,H
+SP1,201617,18/03/17,Eibar,Espanol,1,1,D,1,0,H
+SP1,201617,19/03/17,Ath Madrid,Sevilla,3,1,H,1,0,H
+SP1,201617,19/03/17,Barcelona,Valencia,4,2,H,2,2,D
+SP1,201617,19/03/17,La Coruna,Celta,0,1,A,0,0,D
+SP1,201617,19/03/17,Leganes,Malaga,0,0,D,0,0,D
+SP1,201617,19/03/17,Sp Gijon,Granada,3,1,H,0,0,D
+SP1,201617,31/03/17,Espanol,Betis,2,1,H,0,0,D
+SP1,201617,01/04/17,Malaga,Ath Madrid,0,2,A,0,1,A
+SP1,201617,01/04/17,Osasuna,Ath Bilbao,1,2,A,0,2,A
+SP1,201617,01/04/17,Sociedad,Leganes,1,1,D,0,1,A
+SP1,201617,01/04/17,Villarreal,Eibar,2,3,A,1,0,H
+SP1,201617,02/04/17,Granada,Barcelona,1,4,A,0,1,A
+SP1,201617,02/04/17,Real Madrid,Alaves,3,0,H,1,0,H
+SP1,201617,02/04/17,Sevilla,Sp Gijon,0,0,D,0,0,D
+SP1,201617,02/04/17,Valencia,La Coruna,3,0,H,2,0,H
+SP1,201617,03/04/17,Celta,Las Palmas,3,1,H,2,0,H
+SP1,201617,04/04/17,Ath Bilbao,Espanol,2,0,H,2,0,H
+SP1,201617,04/04/17,Ath Madrid,Sociedad,1,0,H,1,0,H
+SP1,201617,04/04/17,Betis,Villarreal,0,1,A,0,0,D
+SP1,201617,05/04/17,Alaves,Osasuna,0,1,A,0,0,D
+SP1,201617,05/04/17,Barcelona,Sevilla,3,0,H,3,0,H
+SP1,201617,05/04/17,La Coruna,Granada,0,0,D,0,0,D
+SP1,201617,05/04/17,Leganes,Real Madrid,2,4,A,2,3,A
+SP1,201617,05/04/17,Sp Gijon,Malaga,0,1,A,0,1,A
+SP1,201617,06/04/17,Eibar,Las Palmas,3,1,H,2,0,H
+SP1,201617,06/04/17,Valencia,Celta,3,2,H,1,1,D
+SP1,201617,07/04/17,Villarreal,Ath Bilbao,3,1,H,1,1,D
+SP1,201617,08/04/17,Espanol,Alaves,1,0,H,0,0,D
+SP1,201617,08/04/17,Malaga,Barcelona,2,0,H,1,0,H
+SP1,201617,08/04/17,Real Madrid,Ath Madrid,1,1,D,0,0,D
+SP1,201617,08/04/17,Sevilla,La Coruna,4,2,H,3,2,H
+SP1,201617,09/04/17,Celta,Eibar,0,2,A,0,1,A
+SP1,201617,09/04/17,Granada,Valencia,1,3,A,0,2,A
+SP1,201617,09/04/17,Las Palmas,Betis,4,1,H,1,0,H
+SP1,201617,09/04/17,Osasuna,Leganes,2,1,H,1,1,D
+SP1,201617,10/04/17,Sociedad,Sp Gijon,3,1,H,2,0,H
+SP1,201617,14/04/17,Ath Bilbao,Las Palmas,5,1,H,3,1,H
+SP1,201617,15/04/17,Ath Madrid,Osasuna,3,0,H,1,0,H
+SP1,201617,15/04/17,Barcelona,Sociedad,3,2,H,3,2,H
+SP1,201617,15/04/17,La Coruna,Malaga,2,0,H,0,0,D
+SP1,201617,15/04/17,Sp Gijon,Real Madrid,2,3,A,1,1,D
+SP1,201617,16/04/17,Betis,Eibar,2,0,H,1,0,H
+SP1,201617,16/04/17,Granada,Celta,0,3,A,0,1,A
+SP1,201617,16/04/17,Leganes,Espanol,0,1,A,0,0,D
+SP1,201617,16/04/17,Valencia,Sevilla,0,0,D,0,0,D
+SP1,201617,17/04/17,Alaves,Villarreal,2,1,H,2,0,H
+SP1,201617,21/04/17,Sevilla,Granada,2,0,H,1,0,H
+SP1,201617,22/04/17,Espanol,Ath Madrid,0,1,A,0,0,D
+SP1,201617,22/04/17,Malaga,Valencia,2,0,H,2,0,H
+SP1,201617,22/04/17,Osasuna,Sp Gijon,2,2,D,1,0,H
+SP1,201617,22/04/17,Villarreal,Leganes,2,1,H,0,0,D
+SP1,201617,23/04/17,Celta,Betis,0,1,A,0,0,D
+SP1,201617,23/04/17,Las Palmas,Alaves,1,1,D,1,0,H
+SP1,201617,23/04/17,Real Madrid,Barcelona,2,3,A,1,1,D
+SP1,201617,23/04/17,Sociedad,La Coruna,1,0,H,1,0,H
+SP1,201617,24/04/17,Eibar,Ath Bilbao,0,1,A,0,0,D
+SP1,201617,25/04/17,Ath Madrid,Villarreal,0,1,A,0,0,D
+SP1,201617,25/04/17,Granada,Malaga,0,2,A,0,0,D
+SP1,201617,25/04/17,Sp Gijon,Espanol,1,1,D,1,0,H
+SP1,201617,26/04/17,Barcelona,Osasuna,7,1,H,2,0,H
+SP1,201617,26/04/17,La Coruna,Real Madrid,2,6,A,1,3,A
+SP1,201617,26/04/17,Leganes,Las Palmas,3,0,H,0,0,D
+SP1,201617,26/04/17,Valencia,Sociedad,2,3,A,0,2,A
+SP1,201617,27/04/17,Alaves,Eibar,0,0,D,0,0,D
+SP1,201617,27/04/17,Ath Bilbao,Betis,2,1,H,0,0,D
+SP1,201617,27/04/17,Sevilla,Celta,2,1,H,0,0,D
+SP1,201617,28/04/17,Villarreal,Sp Gijon,3,1,H,1,0,H
+SP1,201617,29/04/17,Espanol,Barcelona,0,3,A,0,0,D
+SP1,201617,29/04/17,Las Palmas,Ath Madrid,0,5,A,0,3,A
+SP1,201617,29/04/17,Real Madrid,Valencia,2,1,H,1,0,H
+SP1,201617,29/04/17,Sociedad,Granada,2,1,H,1,0,H
+SP1,201617,30/04/17,Betis,Alaves,1,4,A,1,0,H
+SP1,201617,30/04/17,Celta,Ath Bilbao,0,3,A,0,1,A
+SP1,201617,30/04/17,Eibar,Leganes,2,0,H,0,0,D
+SP1,201617,30/04/17,Osasuna,La Coruna,2,2,D,1,1,D
+SP1,201617,01/05/17,Malaga,Sevilla,4,2,H,1,1,D
+SP1,201617,05/05/17,Sevilla,Sociedad,1,1,D,1,0,H
+SP1,201617,06/05/17,Ath Madrid,Eibar,1,0,H,0,0,D
+SP1,201617,06/05/17,Barcelona,Villarreal,4,1,H,2,1,H
+SP1,201617,06/05/17,Granada,Real Madrid,0,4,A,0,4,A
+SP1,201617,06/05/17,Sp Gijon,Las Palmas,1,0,H,0,0,D
+SP1,201617,07/05/17,Alaves,Ath Bilbao,1,0,H,0,0,D
+SP1,201617,07/05/17,La Coruna,Espanol,1,2,A,0,2,A
+SP1,201617,07/05/17,Malaga,Celta,3,0,H,1,0,H
+SP1,201617,07/05/17,Valencia,Osasuna,4,1,H,2,0,H
+SP1,201617,08/05/17,Leganes,Betis,4,0,H,2,0,H
+SP1,201617,13/05/17,Espanol,Valencia,0,1,A,0,0,D
+SP1,201617,13/05/17,Osasuna,Granada,2,1,H,1,1,D
+SP1,201617,14/05/17,Alaves,Celta,3,1,H,3,0,H
+SP1,201617,14/05/17,Ath Bilbao,Leganes,1,1,D,1,0,H
+SP1,201617,14/05/17,Betis,Ath Madrid,1,1,D,0,0,D
+SP1,201617,14/05/17,Eibar,Sp Gijon,0,1,A,0,1,A
+SP1,201617,14/05/17,Las Palmas,Barcelona,1,4,A,0,2,A
+SP1,201617,14/05/17,Real Madrid,Sevilla,4,1,H,2,0,H
+SP1,201617,14/05/17,Sociedad,Malaga,2,2,D,1,1,D
+SP1,201617,14/05/17,Villarreal,La Coruna,0,0,D,0,0,D
+SP1,201617,17/05/17,Celta,Real Madrid,1,4,A,0,1,A
+SP1,201617,19/05/17,Granada,Espanol,1,2,A,1,2,A
+SP1,201617,20/05/17,La Coruna,Las Palmas,3,0,H,3,0,H
+SP1,201617,20/05/17,Leganes,Alaves,1,1,D,0,0,D
+SP1,201617,20/05/17,Sevilla,Osasuna,5,0,H,3,0,H
+SP1,201617,20/05/17,Sp Gijon,Betis,2,2,D,1,1,D
+SP1,201617,21/05/17,Ath Madrid,Ath Bilbao,3,1,H,2,0,H
+SP1,201617,21/05/17,Barcelona,Eibar,4,2,H,0,1,A
+SP1,201617,21/05/17,Celta,Sociedad,2,2,D,0,0,D
+SP1,201617,21/05/17,Malaga,Real Madrid,0,2,A,0,1,A
+SP1,201617,21/05/17,Valencia,Villarreal,1,3,A,0,1,A
+SP1,201516,21/08/15,Malaga,Sevilla,0,0,D,0,0,D
+SP1,201516,22/08/15,Ath Madrid,Las Palmas,1,0,H,1,0,H
+SP1,201516,22/08/15,Espanol,Getafe,1,0,H,1,0,H
+SP1,201516,22/08/15,La Coruna,Sociedad,0,0,D,0,0,D
+SP1,201516,22/08/15,Vallecano,Valencia,0,0,D,0,0,D
+SP1,201516,23/08/15,Ath Bilbao,Barcelona,0,1,A,0,0,D
+SP1,201516,23/08/15,Betis,Villarreal,1,1,D,0,1,A
+SP1,201516,23/08/15,Levante,Celta,1,2,A,0,1,A
+SP1,201516,23/08/15,Sp Gijon,Real Madrid,0,0,D,0,0,D
+SP1,201516,24/08/15,Granada,Eibar,1,3,A,0,2,A
+SP1,201516,28/08/15,Villarreal,Espanol,3,1,H,0,1,A
+SP1,201516,29/08/15,Barcelona,Malaga,1,0,H,0,0,D
+SP1,201516,29/08/15,Celta,Vallecano,3,0,H,1,0,H
+SP1,201516,29/08/15,Real Madrid,Betis,5,0,H,2,0,H
+SP1,201516,29/08/15,Sociedad,Sp Gijon,0,0,D,0,0,D
+SP1,201516,30/08/15,Eibar,Ath Bilbao,2,0,H,1,0,H
+SP1,201516,30/08/15,Getafe,Granada,1,2,A,0,2,A
+SP1,201516,30/08/15,Las Palmas,Levante,0,0,D,0,0,D
+SP1,201516,30/08/15,Sevilla,Ath Madrid,0,3,A,0,1,A
+SP1,201516,30/08/15,Valencia,La Coruna,1,1,D,1,1,D
+SP1,201516,11/09/15,Levante,Sevilla,1,1,D,0,1,A
+SP1,201516,12/09/15,Ath Madrid,Barcelona,1,2,A,0,0,D
+SP1,201516,12/09/15,Betis,Sociedad,1,0,H,1,0,H
+SP1,201516,12/09/15,Espanol,Real Madrid,0,6,A,0,4,A
+SP1,201516,12/09/15,Sp Gijon,Valencia,0,1,A,0,0,D
+SP1,201516,13/09/15,Ath Bilbao,Getafe,3,1,H,2,0,H
+SP1,201516,13/09/15,Celta,Las Palmas,3,3,D,2,1,H
+SP1,201516,13/09/15,Granada,Villarreal,1,3,A,0,0,D
+SP1,201516,13/09/15,Malaga,Eibar,0,0,D,0,0,D
+SP1,201516,14/09/15,Vallecano,La Coruna,1,3,A,1,2,A
+SP1,201516,18/09/15,Getafe,Malaga,1,0,H,1,0,H
+SP1,201516,19/09/15,Eibar,Ath Madrid,0,2,A,0,0,D
+SP1,201516,19/09/15,Real Madrid,Granada,1,0,H,0,0,D
+SP1,201516,19/09/15,Sociedad,Espanol,2,3,A,1,1,D
+SP1,201516,19/09/15,Valencia,Betis,0,0,D,0,0,D
+SP1,201516,20/09/15,Barcelona,Levante,4,1,H,0,0,D
+SP1,201516,20/09/15,La Coruna,Sp Gijon,2,3,A,2,3,A
+SP1,201516,20/09/15,Las Palmas,Vallecano,0,1,A,0,1,A
+SP1,201516,20/09/15,Sevilla,Celta,1,2,A,0,2,A
+SP1,201516,20/09/15,Villarreal,Ath Bilbao,3,1,H,1,0,H
+SP1,201516,22/09/15,Ath Madrid,Getafe,2,0,H,1,0,H
+SP1,201516,22/09/15,Espanol,Valencia,1,0,H,1,0,H
+SP1,201516,22/09/15,Granada,Sociedad,0,3,A,0,2,A
+SP1,201516,23/09/15,Ath Bilbao,Real Madrid,1,2,A,0,1,A
+SP1,201516,23/09/15,Celta,Barcelona,4,1,H,2,0,H
+SP1,201516,23/09/15,Las Palmas,Sevilla,2,0,H,1,0,H
+SP1,201516,23/09/15,Levante,Eibar,2,2,D,0,1,A
+SP1,201516,23/09/15,Malaga,Villarreal,0,1,A,0,0,D
+SP1,201516,23/09/15,Vallecano,Sp Gijon,2,1,H,1,0,H
+SP1,201516,24/09/15,Betis,La Coruna,1,2,A,0,0,D
+SP1,201516,25/09/15,Valencia,Granada,1,0,H,1,0,H
+SP1,201516,26/09/15,Barcelona,Las Palmas,2,1,H,1,0,H
+SP1,201516,26/09/15,Eibar,Celta,1,1,D,1,0,H
+SP1,201516,26/09/15,Real Madrid,Malaga,0,0,D,0,0,D
+SP1,201516,26/09/15,Sevilla,Vallecano,3,2,H,2,0,H
+SP1,201516,26/09/15,Villarreal,Ath Madrid,1,0,H,1,0,H
+SP1,201516,27/09/15,Getafe,Levante,3,0,H,0,0,D
+SP1,201516,27/09/15,La Coruna,Espanol,3,0,H,2,0,H
+SP1,201516,27/09/15,Sociedad,Ath Bilbao,0,0,D,0,0,D
+SP1,201516,27/09/15,Sp Gijon,Betis,1,2,A,1,0,H
+SP1,201516,02/10/15,Celta,Getafe,0,0,D,0,0,D
+SP1,201516,03/10/15,Espanol,Sp Gijon,1,2,A,0,1,A
+SP1,201516,03/10/15,Granada,La Coruna,1,1,D,0,1,A
+SP1,201516,03/10/15,Las Palmas,Eibar,0,2,A,0,1,A
+SP1,201516,03/10/15,Malaga,Sociedad,3,1,H,2,1,H
+SP1,201516,03/10/15,Sevilla,Barcelona,2,1,H,0,0,D
+SP1,201516,04/10/15,Ath Bilbao,Valencia,3,1,H,1,1,D
+SP1,201516,04/10/15,Ath Madrid,Real Madrid,1,1,D,0,1,A
+SP1,201516,04/10/15,Levante,Villarreal,1,0,H,0,0,D
+SP1,201516,04/10/15,Vallecano,Betis,0,2,A,0,1,A
+SP1,201516,17/10/15,Barcelona,Vallecano,5,2,H,2,1,H
+SP1,201516,17/10/15,Betis,Espanol,1,3,A,0,1,A
+SP1,201516,17/10/15,Eibar,Sevilla,1,1,D,1,0,H
+SP1,201516,17/10/15,Real Madrid,Levante,3,0,H,2,0,H
+SP1,201516,17/10/15,Valencia,Malaga,3,0,H,2,0,H
+SP1,201516,18/10/15,Getafe,Las Palmas,4,0,H,2,0,H
+SP1,201516,18/10/15,La Coruna,Ath Bilbao,2,2,D,0,1,A
+SP1,201516,18/10/15,Sociedad,Ath Madrid,0,2,A,0,1,A
+SP1,201516,18/10/15,Villarreal,Celta,1,2,A,0,1,A
+SP1,201516,19/10/15,Sp Gijon,Granada,3,3,D,1,2,A
+SP1,201516,23/10/15,Vallecano,Espanol,3,0,H,1,0,H
+SP1,201516,24/10/15,Celta,Real Madrid,1,3,A,0,2,A
+SP1,201516,24/10/15,Granada,Betis,1,1,D,1,1,D
+SP1,201516,24/10/15,Malaga,La Coruna,2,0,H,0,0,D
+SP1,201516,24/10/15,Sevilla,Getafe,5,0,H,2,0,H
+SP1,201516,25/10/15,Ath Madrid,Valencia,2,1,H,2,0,H
+SP1,201516,25/10/15,Barcelona,Eibar,3,1,H,1,1,D
+SP1,201516,25/10/15,Las Palmas,Villarreal,0,0,D,0,0,D
+SP1,201516,25/10/15,Levante,Sociedad,0,4,A,0,2,A
+SP1,201516,26/10/15,Ath Bilbao,Sp Gijon,3,0,H,2,0,H
+SP1,201516,30/10/15,La Coruna,Ath Madrid,1,1,D,0,1,A
+SP1,201516,31/10/15,Getafe,Barcelona,0,2,A,0,1,A
+SP1,201516,31/10/15,Real Madrid,Las Palmas,3,1,H,3,1,H
+SP1,201516,31/10/15,Sociedad,Celta,2,3,A,2,1,H
+SP1,201516,31/10/15,Valencia,Levante,3,0,H,0,0,D
+SP1,201516,31/10/15,Villarreal,Sevilla,2,1,H,1,0,H
+SP1,201516,01/11/15,Betis,Ath Bilbao,1,3,A,0,2,A
+SP1,201516,01/11/15,Eibar,Vallecano,1,0,H,1,0,H
+SP1,201516,01/11/15,Espanol,Granada,1,1,D,0,0,D
+SP1,201516,01/11/15,Sp Gijon,Malaga,1,0,H,1,0,H
+SP1,201516,06/11/15,Las Palmas,Sociedad,2,0,H,1,0,H
+SP1,201516,07/11/15,Celta,Valencia,1,5,A,1,2,A
+SP1,201516,07/11/15,Eibar,Getafe,3,1,H,2,1,H
+SP1,201516,07/11/15,Levante,La Coruna,1,1,D,0,1,A
+SP1,201516,07/11/15,Malaga,Betis,0,1,A,0,0,D
+SP1,201516,07/11/15,Vallecano,Granada,2,1,H,2,0,H
+SP1,201516,08/11/15,Ath Bilbao,Espanol,2,1,H,1,0,H
+SP1,201516,08/11/15,Ath Madrid,Sp Gijon,1,0,H,0,0,D
+SP1,201516,08/11/15,Barcelona,Villarreal,3,0,H,0,0,D
+SP1,201516,08/11/15,Sevilla,Real Madrid,3,2,H,1,1,D
+SP1,201516,21/11/15,Espanol,Malaga,2,0,H,2,0,H
+SP1,201516,21/11/15,La Coruna,Celta,2,0,H,1,0,H
+SP1,201516,21/11/15,Real Madrid,Barcelona,0,4,A,0,2,A
+SP1,201516,21/11/15,Sociedad,Sevilla,2,0,H,0,0,D
+SP1,201516,21/11/15,Valencia,Las Palmas,1,1,D,1,0,H
+SP1,201516,22/11/15,Betis,Ath Madrid,0,1,A,0,1,A
+SP1,201516,22/11/15,Granada,Ath Bilbao,2,0,H,1,0,H
+SP1,201516,22/11/15,Sp Gijon,Levante,0,3,A,0,3,A
+SP1,201516,22/11/15,Villarreal,Eibar,1,1,D,0,1,A
+SP1,201516,23/11/15,Getafe,Vallecano,1,1,D,0,0,D
+SP1,201516,27/11/15,Levante,Betis,0,1,A,0,1,A
+SP1,201516,28/11/15,Ath Madrid,Espanol,1,0,H,1,0,H
+SP1,201516,28/11/15,Barcelona,Sociedad,4,0,H,2,0,H
+SP1,201516,28/11/15,Celta,Sp Gijon,2,1,H,1,0,H
+SP1,201516,28/11/15,Las Palmas,La Coruna,0,2,A,0,1,A
+SP1,201516,28/11/15,Malaga,Granada,2,2,D,1,0,H
+SP1,201516,29/11/15,Eibar,Real Madrid,0,2,A,0,1,A
+SP1,201516,29/11/15,Getafe,Villarreal,2,0,H,1,0,H
+SP1,201516,29/11/15,Sevilla,Valencia,1,0,H,0,0,D
+SP1,201516,29/11/15,Vallecano,Ath Bilbao,0,3,A,0,2,A
+SP1,201516,05/12/15,Betis,Celta,1,1,D,0,1,A
+SP1,201516,05/12/15,Granada,Ath Madrid,0,2,A,0,1,A
+SP1,201516,05/12/15,La Coruna,Sevilla,1,1,D,1,0,H
+SP1,201516,05/12/15,Real Madrid,Getafe,4,1,H,4,0,H
+SP1,201516,05/12/15,Valencia,Barcelona,1,1,D,0,0,D
+SP1,201516,06/12/15,Ath Bilbao,Malaga,0,0,D,0,0,D
+SP1,201516,06/12/15,Sociedad,Eibar,2,1,H,1,1,D
+SP1,201516,06/12/15,Sp Gijon,Las Palmas,3,1,H,1,1,D
+SP1,201516,06/12/15,Villarreal,Vallecano,2,1,H,0,1,A
+SP1,201516,07/12/15,Espanol,Levante,1,1,D,0,1,A
+SP1,201516,11/12/15,Getafe,Sociedad,1,1,D,0,0,D
+SP1,201516,12/12/15,Barcelona,La Coruna,2,2,D,1,0,H
+SP1,201516,12/12/15,Celta,Espanol,1,0,H,1,0,H
+SP1,201516,12/12/15,Las Palmas,Betis,1,0,H,0,0,D
+SP1,201516,12/12/15,Levante,Granada,1,2,A,0,0,D
+SP1,201516,12/12/15,Sevilla,Sp Gijon,2,0,H,0,0,D
+SP1,201516,13/12/15,Ath Madrid,Ath Bilbao,2,1,H,1,1,D
+SP1,201516,13/12/15,Eibar,Valencia,1,1,D,1,0,H
+SP1,201516,13/12/15,Vallecano,Malaga,1,2,A,1,0,H
+SP1,201516,13/12/15,Villarreal,Real Madrid,1,0,H,1,0,H
+SP1,201516,19/12/15,Betis,Sevilla,0,0,D,0,0,D
+SP1,201516,19/12/15,Espanol,Las Palmas,1,0,H,0,0,D
+SP1,201516,19/12/15,La Coruna,Eibar,2,0,H,1,0,H
+SP1,201516,19/12/15,Valencia,Getafe,2,2,D,2,2,D
+SP1,201516,20/12/15,Ath Bilbao,Levante,2,0,H,0,0,D
+SP1,201516,20/12/15,Granada,Celta,0,2,A,0,2,A
+SP1,201516,20/12/15,Malaga,Ath Madrid,1,0,H,0,0,D
+SP1,201516,20/12/15,Real Madrid,Vallecano,10,2,H,4,2,H
+SP1,201516,20/12/15,Sociedad,Villarreal,0,2,A,0,1,A
+SP1,201516,30/12/15,Barcelona,Betis,4,0,H,2,0,H
+SP1,201516,30/12/15,Celta,Ath Bilbao,0,1,A,0,0,D
+SP1,201516,30/12/15,Eibar,Sp Gijon,2,0,H,0,0,D
+SP1,201516,30/12/15,Getafe,La Coruna,0,0,D,0,0,D
+SP1,201516,30/12/15,Las Palmas,Granada,4,1,H,1,0,H
+SP1,201516,30/12/15,Levante,Malaga,0,1,A,0,0,D
+SP1,201516,30/12/15,Real Madrid,Sociedad,3,1,H,1,0,H
+SP1,201516,30/12/15,Sevilla,Espanol,2,0,H,2,0,H
+SP1,201516,30/12/15,Vallecano,Ath Madrid,0,2,A,0,0,D
+SP1,201516,31/12/15,Villarreal,Valencia,1,0,H,0,0,D
+SP1,201516,02/01/16,Ath Madrid,Levante,1,0,H,0,0,D
+SP1,201516,02/01/16,Espanol,Barcelona,0,0,D,0,0,D
+SP1,201516,02/01/16,Malaga,Celta,2,0,H,2,0,H
+SP1,201516,03/01/16,Ath Bilbao,Las Palmas,2,2,D,1,0,H
+SP1,201516,03/01/16,Betis,Eibar,0,4,A,0,2,A
+SP1,201516,03/01/16,Granada,Sevilla,2,1,H,2,1,H
+SP1,201516,03/01/16,La Coruna,Villarreal,1,2,A,0,1,A
+SP1,201516,03/01/16,Valencia,Real Madrid,2,2,D,1,1,D
+SP1,201516,03/01/16,Vallecano,Sociedad,2,2,D,1,1,D
+SP1,201516,04/01/16,Sp Gijon,Getafe,1,2,A,1,0,H
+SP1,201516,09/01/16,Barcelona,Granada,4,0,H,2,0,H
+SP1,201516,09/01/16,Getafe,Betis,1,0,H,0,0,D
+SP1,201516,09/01/16,Levante,Vallecano,2,1,H,0,0,D
+SP1,201516,09/01/16,Real Madrid,La Coruna,5,0,H,2,0,H
+SP1,201516,09/01/16,Sevilla,Ath Bilbao,2,0,H,1,0,H
+SP1,201516,10/01/16,Celta,Ath Madrid,0,2,A,0,0,D
+SP1,201516,10/01/16,Eibar,Espanol,2,1,H,1,1,D
+SP1,201516,10/01/16,Las Palmas,Malaga,1,1,D,0,0,D
+SP1,201516,10/01/16,Sociedad,Valencia,2,0,H,0,0,D
+SP1,201516,10/01/16,Villarreal,Sp Gijon,2,0,H,1,0,H
+SP1,201516,16/01/16,Celta,Levante,4,3,H,2,0,H
+SP1,201516,16/01/16,Sevilla,Malaga,2,1,H,2,0,H
+SP1,201516,16/01/16,Sociedad,La Coruna,1,1,D,0,1,A
+SP1,201516,16/01/16,Villarreal,Betis,0,0,D,0,0,D
+SP1,201516,17/01/16,Barcelona,Ath Bilbao,6,0,H,2,0,H
+SP1,201516,17/01/16,Getafe,Espanol,3,1,H,2,1,H
+SP1,201516,17/01/16,Las Palmas,Ath Madrid,0,3,A,0,1,A
+SP1,201516,17/01/16,Real Madrid,Sp Gijon,5,1,H,5,0,H
+SP1,201516,17/01/16,Valencia,Vallecano,2,2,D,0,1,A
+SP1,201516,18/01/16,Eibar,Granada,5,1,H,2,0,H
+SP1,201516,22/01/16,Sp Gijon,Sociedad,5,1,H,3,1,H
+SP1,201516,23/01/16,Espanol,Villarreal,2,2,D,2,1,H
+SP1,201516,23/01/16,Granada,Getafe,3,2,H,2,0,H
+SP1,201516,23/01/16,Malaga,Barcelona,1,2,A,1,1,D
+SP1,201516,23/01/16,Vallecano,Celta,3,0,H,3,0,H
+SP1,201516,24/01/16,Ath Bilbao,Eibar,5,2,H,3,1,H
+SP1,201516,24/01/16,Ath Madrid,Sevilla,0,0,D,0,0,D
+SP1,201516,24/01/16,Betis,Real Madrid,1,1,D,1,0,H
+SP1,201516,24/01/16,La Coruna,Valencia,1,1,D,1,0,H
+SP1,201516,25/01/16,Levante,Las Palmas,3,2,H,1,0,H
+SP1,201516,30/01/16,Barcelona,Ath Madrid,2,1,H,2,1,H
+SP1,201516,30/01/16,Eibar,Malaga,1,2,A,0,1,A
+SP1,201516,30/01/16,Getafe,Ath Bilbao,0,1,A,0,1,A
+SP1,201516,30/01/16,Sociedad,Betis,2,1,H,2,0,H
+SP1,201516,30/01/16,Villarreal,Granada,1,0,H,0,0,D
+SP1,201516,31/01/16,Las Palmas,Celta,2,1,H,1,1,D
+SP1,201516,31/01/16,Real Madrid,Espanol,6,0,H,4,0,H
+SP1,201516,31/01/16,Sevilla,Levante,3,1,H,1,0,H
+SP1,201516,31/01/16,Valencia,Sp Gijon,0,1,A,0,0,D
+SP1,201516,01/02/16,La Coruna,Vallecano,2,2,D,1,2,A
+SP1,201516,05/02/16,Malaga,Getafe,3,0,H,3,0,H
+SP1,201516,06/02/16,Ath Bilbao,Villarreal,0,0,D,0,0,D
+SP1,201516,06/02/16,Ath Madrid,Eibar,3,1,H,0,0,D
+SP1,201516,06/02/16,Sp Gijon,La Coruna,1,1,D,1,1,D
+SP1,201516,06/02/16,Vallecano,Las Palmas,2,0,H,1,0,H
+SP1,201516,07/02/16,Betis,Valencia,1,0,H,0,0,D
+SP1,201516,07/02/16,Celta,Sevilla,1,1,D,0,1,A
+SP1,201516,07/02/16,Granada,Real Madrid,1,2,A,0,1,A
+SP1,201516,07/02/16,Levante,Barcelona,0,2,A,0,1,A
+SP1,201516,08/02/16,Espanol,Sociedad,0,5,A,0,2,A
+SP1,201516,12/02/16,Sp Gijon,Vallecano,2,2,D,2,1,H
+SP1,201516,13/02/16,La Coruna,Betis,2,2,D,1,2,A
+SP1,201516,13/02/16,Real Madrid,Ath Bilbao,4,2,H,3,1,H
+SP1,201516,13/02/16,Valencia,Espanol,2,1,H,0,0,D
+SP1,201516,13/02/16,Villarreal,Malaga,1,0,H,1,0,H
+SP1,201516,14/02/16,Barcelona,Celta,6,1,H,1,1,D
+SP1,201516,14/02/16,Eibar,Levante,2,0,H,1,0,H
+SP1,201516,14/02/16,Getafe,Ath Madrid,0,1,A,0,1,A
+SP1,201516,14/02/16,Sevilla,Las Palmas,2,0,H,0,0,D
+SP1,201516,14/02/16,Sociedad,Granada,3,0,H,2,0,H
+SP1,201516,17/02/16,Sp Gijon,Barcelona,1,3,A,1,2,A
+SP1,201516,19/02/16,Levante,Getafe,3,0,H,2,0,H
+SP1,201516,20/02/16,Betis,Sp Gijon,1,1,D,0,0,D
+SP1,201516,20/02/16,Celta,Eibar,3,2,H,2,0,H
+SP1,201516,20/02/16,Espanol,La Coruna,1,0,H,0,0,D
+SP1,201516,20/02/16,Las Palmas,Barcelona,1,2,A,1,2,A
+SP1,201516,21/02/16,Ath Bilbao,Sociedad,0,1,A,0,1,A
+SP1,201516,21/02/16,Ath Madrid,Villarreal,0,0,D,0,0,D
+SP1,201516,21/02/16,Granada,Valencia,1,2,A,0,0,D
+SP1,201516,21/02/16,Malaga,Real Madrid,1,1,D,0,1,A
+SP1,201516,21/02/16,Vallecano,Sevilla,2,2,D,1,2,A
+SP1,201516,26/02/16,Eibar,Las Palmas,0,1,A,0,1,A
+SP1,201516,27/02/16,Betis,Vallecano,2,2,D,2,0,H
+SP1,201516,27/02/16,Getafe,Celta,0,1,A,0,0,D
+SP1,201516,27/02/16,Real Madrid,Ath Madrid,0,1,A,0,0,D
+SP1,201516,27/02/16,Sociedad,Malaga,1,1,D,0,0,D
+SP1,201516,27/02/16,Sp Gijon,Espanol,2,4,A,1,1,D
+SP1,201516,28/02/16,Barcelona,Sevilla,2,1,H,1,1,D
+SP1,201516,28/02/16,La Coruna,Granada,0,1,A,0,1,A
+SP1,201516,28/02/16,Valencia,Ath Bilbao,0,3,A,0,0,D
+SP1,201516,28/02/16,Villarreal,Levante,3,0,H,2,0,H
+SP1,201516,01/03/16,Ath Madrid,Sociedad,3,0,H,1,0,H
+SP1,201516,01/03/16,Las Palmas,Getafe,4,0,H,2,0,H
+SP1,201516,02/03/16,Ath Bilbao,La Coruna,4,1,H,2,0,H
+SP1,201516,02/03/16,Celta,Villarreal,0,0,D,0,0,D
+SP1,201516,02/03/16,Levante,Real Madrid,1,3,A,1,2,A
+SP1,201516,02/03/16,Malaga,Valencia,1,2,A,1,1,D
+SP1,201516,02/03/16,Sevilla,Eibar,1,0,H,1,0,H
+SP1,201516,03/03/16,Espanol,Betis,0,3,A,0,2,A
+SP1,201516,03/03/16,Granada,Sp Gijon,2,0,H,0,0,D
+SP1,201516,03/03/16,Vallecano,Barcelona,1,5,A,0,2,A
+SP1,201516,05/03/16,Getafe,Sevilla,1,1,D,0,0,D
+SP1,201516,05/03/16,La Coruna,Malaga,3,3,D,1,1,D
+SP1,201516,05/03/16,Real Madrid,Celta,7,1,H,1,0,H
+SP1,201516,05/03/16,Villarreal,Las Palmas,0,1,A,0,1,A
+SP1,201516,06/03/16,Betis,Granada,2,0,H,0,0,D
+SP1,201516,06/03/16,Eibar,Barcelona,0,4,A,0,2,A
+SP1,201516,06/03/16,Sociedad,Levante,1,1,D,1,1,D
+SP1,201516,06/03/16,Sp Gijon,Ath Bilbao,0,2,A,0,1,A
+SP1,201516,06/03/16,Valencia,Ath Madrid,1,3,A,1,1,D
+SP1,201516,07/03/16,Espanol,Vallecano,2,1,H,1,0,H
+SP1,201516,11/03/16,Malaga,Sp Gijon,1,0,H,1,0,H
+SP1,201516,12/03/16,Ath Madrid,La Coruna,3,0,H,1,0,H
+SP1,201516,12/03/16,Barcelona,Getafe,6,0,H,4,0,H
+SP1,201516,12/03/16,Celta,Sociedad,1,0,H,1,0,H
+SP1,201516,12/03/16,Vallecano,Eibar,1,1,D,1,1,D
+SP1,201516,13/03/16,Ath Bilbao,Betis,3,1,H,2,0,H
+SP1,201516,13/03/16,Las Palmas,Real Madrid,1,2,A,0,1,A
+SP1,201516,13/03/16,Levante,Valencia,1,0,H,0,0,D
+SP1,201516,13/03/16,Sevilla,Villarreal,4,2,H,1,2,A
+SP1,201516,14/03/16,Granada,Espanol,1,1,D,1,0,H
+SP1,201516,18/03/16,Getafe,Eibar,1,1,D,1,0,H
+SP1,201516,19/03/16,Betis,Malaga,0,1,A,0,0,D
+SP1,201516,19/03/16,Granada,Vallecano,2,2,D,1,1,D
+SP1,201516,19/03/16,La Coruna,Levante,2,1,H,1,0,H
+SP1,201516,19/03/16,Sociedad,Las Palmas,0,1,A,0,1,A
+SP1,201516,19/03/16,Sp Gijon,Ath Madrid,2,1,H,0,1,A
+SP1,201516,20/03/16,Espanol,Ath Bilbao,2,1,H,0,1,A
+SP1,201516,20/03/16,Real Madrid,Sevilla,4,0,H,1,0,H
+SP1,201516,20/03/16,Valencia,Celta,0,2,A,0,0,D
+SP1,201516,20/03/16,Villarreal,Barcelona,2,2,D,0,2,A
+SP1,201516,01/04/16,Vallecano,Getafe,2,0,H,1,0,H
+SP1,201516,02/04/16,Ath Madrid,Betis,5,1,H,2,0,H
+SP1,201516,02/04/16,Barcelona,Real Madrid,1,2,A,0,0,D
+SP1,201516,02/04/16,Celta,La Coruna,1,1,D,1,1,D
+SP1,201516,02/04/16,Las Palmas,Valencia,2,1,H,0,1,A
+SP1,201516,03/04/16,Ath Bilbao,Granada,1,1,D,1,0,H
+SP1,201516,03/04/16,Eibar,Villarreal,1,2,A,1,1,D
+SP1,201516,03/04/16,Malaga,Espanol,1,1,D,1,1,D
+SP1,201516,03/04/16,Sevilla,Sociedad,1,2,A,0,2,A
+SP1,201516,04/04/16,Levante,Sp Gijon,0,0,D,0,0,D
+SP1,201516,08/04/16,Granada,Malaga,0,0,D,0,0,D
+SP1,201516,09/04/16,Betis,Levante,1,0,H,0,0,D
+SP1,201516,09/04/16,Espanol,Ath Madrid,1,3,A,1,1,D
+SP1,201516,09/04/16,Real Madrid,Eibar,4,0,H,4,0,H
+SP1,201516,09/04/16,Sociedad,Barcelona,1,0,H,1,0,H
+SP1,201516,10/04/16,Ath Bilbao,Vallecano,1,0,H,0,0,D
+SP1,201516,10/04/16,Sp Gijon,Celta,0,1,A,0,0,D
+SP1,201516,10/04/16,Valencia,Sevilla,2,1,H,1,0,H
+SP1,201516,10/04/16,Villarreal,Getafe,2,0,H,1,0,H
+SP1,201516,11/04/16,La Coruna,Las Palmas,1,3,A,0,0,D
+SP1,201516,15/04/16,Levante,Espanol,2,1,H,1,1,D
+SP1,201516,16/04/16,Celta,Betis,1,1,D,0,1,A
+SP1,201516,16/04/16,Eibar,Sociedad,2,1,H,1,1,D
+SP1,201516,16/04/16,Getafe,Real Madrid,1,5,A,0,2,A
+SP1,201516,16/04/16,Las Palmas,Sp Gijon,1,1,D,1,0,H
+SP1,201516,17/04/16,Ath Madrid,Granada,3,0,H,1,0,H
+SP1,201516,17/04/16,Barcelona,Valencia,1,2,A,0,2,A
+SP1,201516,17/04/16,Malaga,Ath Bilbao,0,1,A,0,0,D
+SP1,201516,17/04/16,Sevilla,La Coruna,1,1,D,1,0,H
+SP1,201516,17/04/16,Vallecano,Villarreal,2,1,H,1,1,D
+SP1,201516,19/04/16,Betis,Las Palmas,1,0,H,0,0,D
+SP1,201516,19/04/16,Espanol,Celta,1,1,D,1,1,D
+SP1,201516,20/04/16,Ath Bilbao,Ath Madrid,0,1,A,0,1,A
+SP1,201516,20/04/16,La Coruna,Barcelona,0,8,A,0,2,A
+SP1,201516,20/04/16,Malaga,Vallecano,1,1,D,0,0,D
+SP1,201516,20/04/16,Real Madrid,Villarreal,3,0,H,1,0,H
+SP1,201516,20/04/16,Sp Gijon,Sevilla,2,1,H,1,1,D
+SP1,201516,20/04/16,Valencia,Eibar,4,0,H,3,0,H
+SP1,201516,21/04/16,Granada,Levante,5,1,H,3,0,H
+SP1,201516,21/04/16,Sociedad,Getafe,1,2,A,1,1,D
+SP1,201516,22/04/16,Las Palmas,Espanol,4,0,H,1,0,H
+SP1,201516,23/04/16,Ath Madrid,Malaga,1,0,H,0,0,D
+SP1,201516,23/04/16,Barcelona,Sp Gijon,6,0,H,1,0,H
+SP1,201516,23/04/16,Eibar,La Coruna,1,1,D,1,0,H
+SP1,201516,23/04/16,Vallecano,Real Madrid,2,3,A,2,1,H
+SP1,201516,24/04/16,Getafe,Valencia,2,2,D,0,0,D
+SP1,201516,24/04/16,Levante,Ath Bilbao,2,2,D,1,0,H
+SP1,201516,24/04/16,Sevilla,Betis,2,0,H,0,0,D
+SP1,201516,24/04/16,Villarreal,Sociedad,0,0,D,0,0,D
+SP1,201516,25/04/16,Celta,Granada,2,1,H,1,0,H
+SP1,201516,29/04/16,Sp Gijon,Eibar,2,0,H,1,0,H
+SP1,201516,30/04/16,Ath Madrid,Vallecano,1,0,H,0,0,D
+SP1,201516,30/04/16,Betis,Barcelona,0,2,A,0,0,D
+SP1,201516,30/04/16,Granada,Las Palmas,3,2,H,2,2,D
+SP1,201516,30/04/16,Sociedad,Real Madrid,0,1,A,0,0,D
+SP1,201516,01/05/16,Ath Bilbao,Celta,2,1,H,1,1,D
+SP1,201516,01/05/16,Espanol,Sevilla,1,0,H,0,0,D
+SP1,201516,01/05/16,La Coruna,Getafe,0,2,A,0,1,A
+SP1,201516,01/05/16,Valencia,Villarreal,0,2,A,0,2,A
+SP1,201516,02/05/16,Malaga,Levante,3,1,H,1,1,D
+SP1,201516,08/05/16,Barcelona,Espanol,5,0,H,1,0,H
+SP1,201516,08/05/16,Celta,Malaga,1,0,H,1,0,H
+SP1,201516,08/05/16,Eibar,Betis,1,1,D,0,1,A
+SP1,201516,08/05/16,Getafe,Sp Gijon,1,1,D,0,0,D
+SP1,201516,08/05/16,Las Palmas,Ath Bilbao,0,0,D,0,0,D
+SP1,201516,08/05/16,Levante,Ath Madrid,2,1,H,1,1,D
+SP1,201516,08/05/16,Real Madrid,Valencia,3,2,H,2,0,H
+SP1,201516,08/05/16,Sevilla,Granada,1,4,A,0,1,A
+SP1,201516,08/05/16,Sociedad,Vallecano,2,1,H,1,0,H
+SP1,201516,08/05/16,Villarreal,La Coruna,0,2,A,0,1,A
+SP1,201516,13/05/16,Valencia,Sociedad,0,1,A,0,0,D
+SP1,201516,14/05/16,Ath Bilbao,Sevilla,3,1,H,2,0,H
+SP1,201516,14/05/16,Ath Madrid,Celta,2,0,H,0,0,D
+SP1,201516,14/05/16,Granada,Barcelona,0,3,A,0,2,A
+SP1,201516,14/05/16,La Coruna,Real Madrid,0,2,A,0,2,A
+SP1,201516,15/05/16,Betis,Getafe,2,1,H,0,0,D
+SP1,201516,15/05/16,Espanol,Eibar,4,2,H,2,0,H
+SP1,201516,15/05/16,Malaga,Las Palmas,4,1,H,2,1,H
+SP1,201516,15/05/16,Sp Gijon,Villarreal,2,0,H,1,0,H
+SP1,201516,15/05/16,Vallecano,Levante,3,1,H,2,0,H
+SP2,201617,19/08/16,Almeria,Cadiz,1,1,D,0,0,D
+SP2,201617,19/08/16,Mirandes,Getafe,1,1,D,0,0,D
+SP2,201617,20/08/16,Alcorcon,Huesca,0,0,D,0,0,D
+SP2,201617,20/08/16,Cordoba,Tenerife,1,0,H,1,0,H
+SP2,201617,20/08/16,Elche,Vallecano,2,1,H,2,1,H
+SP2,201617,20/08/16,Mallorca,Reus Deportiu,0,1,A,0,0,D
+SP2,201617,21/08/16,Gimnastic,Lugo,2,2,D,0,2,A
+SP2,201617,21/08/16,Numancia,Levante,0,1,A,0,0,D
+SP2,201617,21/08/16,Sevilla B,Girona,3,3,D,1,0,H
+SP2,201617,21/08/16,Valladolid,Oviedo,1,0,H,1,0,H
+SP2,201617,22/08/16,Zaragoza,UCAM Murcia,3,1,H,3,0,H
+SP2,201617,26/08/16,Getafe,Numancia,0,0,D,0,0,D
+SP2,201617,26/08/16,Tenerife,Sevilla B,1,1,D,0,1,A
+SP2,201617,27/08/16,Girona,Elche,3,1,H,2,0,H
+SP2,201617,27/08/16,Lugo,Zaragoza,3,3,D,1,1,D
+SP2,201617,27/08/16,Oviedo,Almeria,2,0,H,0,0,D
+SP2,201617,27/08/16,Reus Deportiu,Mirandes,1,1,D,1,1,D
+SP2,201617,28/08/16,Cadiz,Mallorca,1,1,D,1,0,H
+SP2,201617,28/08/16,Huesca,Gimnastic,1,1,D,0,0,D
+SP2,201617,28/08/16,Levante,Alcorcon,2,0,H,2,0,H
+SP2,201617,28/08/16,UCAM Murcia,Cordoba,1,1,D,0,0,D
+SP2,201617,28/08/16,Vallecano,Valladolid,0,0,D,0,0,D
+SP2,201617,02/09/16,Cordoba,Lugo,3,3,D,1,1,D
+SP2,201617,02/09/16,Sevilla B,UCAM Murcia,1,1,D,0,0,D
+SP2,201617,03/09/16,Almeria,Vallecano,3,0,H,2,0,H
+SP2,201617,03/09/16,Elche,Tenerife,3,1,H,1,0,H
+SP2,201617,03/09/16,Getafe,Reus Deportiu,1,1,D,0,0,D
+SP2,201617,03/09/16,Mirandes,Cadiz,3,2,H,0,2,A
+SP2,201617,03/09/16,Valladolid,Girona,2,1,H,2,0,H
+SP2,201617,04/09/16,Gimnastic,Levante,1,1,D,0,0,D
+SP2,201617,04/09/16,Mallorca,Oviedo,0,0,D,0,0,D
+SP2,201617,04/09/16,Numancia,Alcorcon,1,1,D,1,1,D
+SP2,201617,04/09/16,Zaragoza,Huesca,1,0,H,0,0,D
+SP2,201617,10/09/16,Levante,Zaragoza,4,2,H,3,1,H
+SP2,201617,10/09/16,Lugo,Sevilla B,1,0,H,0,0,D
+SP2,201617,10/09/16,Reus Deportiu,Numancia,1,1,D,0,0,D
+SP2,201617,10/09/16,Tenerife,Valladolid,1,0,H,1,0,H
+SP2,201617,11/09/16,Alcorcon,Gimnastic,1,0,H,0,0,D
+SP2,201617,11/09/16,Cadiz,Getafe,3,0,H,1,0,H
+SP2,201617,11/09/16,Girona,Almeria,3,3,D,2,1,H
+SP2,201617,11/09/16,Huesca,Cordoba,3,0,H,2,0,H
+SP2,201617,11/09/16,Oviedo,Mirandes,0,0,D,0,0,D
+SP2,201617,11/09/16,UCAM Murcia,Elche,1,1,D,0,1,A
+SP2,201617,11/09/16,Vallecano,Mallorca,1,0,H,0,0,D
+SP2,201617,17/09/16,Cordoba,Levante,1,0,H,1,0,H
+SP2,201617,17/09/16,Elche,Lugo,0,3,A,0,2,A
+SP2,201617,17/09/16,Numancia,Gimnastic,1,0,H,1,0,H
+SP2,201617,17/09/16,Reus Deportiu,Cadiz,1,0,H,0,0,D
+SP2,201617,17/09/16,Valladolid,UCAM Murcia,0,1,A,0,0,D
+SP2,201617,17/09/16,Zaragoza,Alcorcon,2,0,H,1,0,H
+SP2,201617,18/09/16,Almeria,Tenerife,0,1,A,0,0,D
+SP2,201617,18/09/16,Getafe,Oviedo,2,1,H,0,1,A
+SP2,201617,18/09/16,Mallorca,Girona,1,0,H,1,0,H
+SP2,201617,18/09/16,Mirandes,Vallecano,2,1,H,1,1,D
+SP2,201617,18/09/16,Sevilla B,Huesca,2,0,H,0,0,D
+SP2,201617,20/09/16,Alcorcon,Cordoba,0,1,A,0,0,D
+SP2,201617,20/09/16,Cadiz,Numancia,1,0,H,0,0,D
+SP2,201617,20/09/16,Gimnastic,Zaragoza,0,0,D,0,0,D
+SP2,201617,20/09/16,Lugo,Valladolid,1,0,H,1,0,H
+SP2,201617,21/09/16,Huesca,Elche,0,3,A,0,0,D
+SP2,201617,21/09/16,Levante,Sevilla B,1,0,H,0,0,D
+SP2,201617,21/09/16,UCAM Murcia,Almeria,4,0,H,1,0,H
+SP2,201617,22/09/16,Girona,Mirandes,1,1,D,0,0,D
+SP2,201617,22/09/16,Oviedo,Reus Deportiu,0,1,A,0,0,D
+SP2,201617,22/09/16,Tenerife,Mallorca,0,0,D,0,0,D
+SP2,201617,22/09/16,Vallecano,Getafe,2,0,H,1,0,H
+SP2,201617,24/09/16,Almeria,Lugo,0,0,D,0,0,D
+SP2,201617,24/09/16,Cordoba,Gimnastic,2,0,H,1,0,H
+SP2,201617,24/09/16,Elche,Levante,0,1,A,0,0,D
+SP2,201617,24/09/16,Sevilla B,Alcorcon,1,1,D,1,0,H
+SP2,201617,24/09/16,Valladolid,Huesca,1,2,A,0,0,D
+SP2,201617,25/09/16,Cadiz,Oviedo,0,2,A,0,2,A
+SP2,201617,25/09/16,Getafe,Girona,0,2,A,0,1,A
+SP2,201617,25/09/16,Mallorca,UCAM Murcia,0,0,D,0,0,D
+SP2,201617,25/09/16,Mirandes,Tenerife,3,2,H,2,0,H
+SP2,201617,25/09/16,Numancia,Zaragoza,2,1,H,1,1,D
+SP2,201617,25/09/16,Reus Deportiu,Vallecano,1,1,D,1,0,H
+SP2,201617,01/10/16,Alcorcon,Elche,1,0,H,0,0,D
+SP2,201617,01/10/16,Gimnastic,Sevilla B,1,1,D,1,1,D
+SP2,201617,01/10/16,Huesca,Almeria,2,0,H,1,0,H
+SP2,201617,01/10/16,Lugo,Mallorca,3,1,H,2,1,H
+SP2,201617,01/10/16,Zaragoza,Cordoba,1,1,D,1,1,D
+SP2,201617,02/10/16,Girona,Reus Deportiu,1,0,H,0,0,D
+SP2,201617,02/10/16,Levante,Valladolid,3,2,H,1,1,D
+SP2,201617,02/10/16,Oviedo,Numancia,2,2,D,1,1,D
+SP2,201617,02/10/16,Tenerife,Getafe,0,0,D,0,0,D
+SP2,201617,02/10/16,UCAM Murcia,Mirandes,2,2,D,1,2,A
+SP2,201617,02/10/16,Vallecano,Cadiz,3,0,H,1,0,H
+SP2,201617,08/10/16,Elche,Gimnastic,4,4,D,2,1,H
+SP2,201617,08/10/16,Getafe,UCAM Murcia,2,0,H,0,0,D
+SP2,201617,08/10/16,Numancia,Cordoba,1,1,D,1,0,H
+SP2,201617,08/10/16,Reus Deportiu,Tenerife,0,0,D,0,0,D
+SP2,201617,08/10/16,Sevilla B,Zaragoza,2,1,H,0,0,D
+SP2,201617,08/10/16,Valladolid,Alcorcon,2,0,H,2,0,H
+SP2,201617,09/10/16,Almeria,Levante,2,2,D,1,0,H
+SP2,201617,09/10/16,Cadiz,Girona,0,0,D,0,0,D
+SP2,201617,09/10/16,Mallorca,Huesca,3,0,H,2,0,H
+SP2,201617,09/10/16,Mirandes,Lugo,2,2,D,0,2,A
+SP2,201617,09/10/16,Oviedo,Vallecano,2,0,H,1,0,H
+SP2,201617,15/10/16,Alcorcon,Almeria,0,0,D,0,0,D
+SP2,201617,15/10/16,Girona,Oviedo,0,0,D,0,0,D
+SP2,201617,15/10/16,Huesca,Mirandes,3,0,H,1,0,H
+SP2,201617,15/10/16,Levante,Mallorca,2,1,H,1,1,D
+SP2,201617,15/10/16,Lugo,Getafe,0,1,A,0,0,D
+SP2,201617,16/10/16,Cordoba,Sevilla B,0,1,A,0,0,D
+SP2,201617,16/10/16,Gimnastic,Valladolid,1,2,A,1,1,D
+SP2,201617,16/10/16,Tenerife,Cadiz,1,1,D,0,0,D
+SP2,201617,16/10/16,UCAM Murcia,Reus Deportiu,0,2,A,0,2,A
+SP2,201617,16/10/16,Vallecano,Numancia,3,3,D,1,1,D
+SP2,201617,16/10/16,Zaragoza,Elche,1,3,A,0,3,A
+SP2,201617,22/10/16,Elche,Cordoba,1,1,D,1,0,H
+SP2,201617,22/10/16,Getafe,Huesca,1,1,D,0,0,D
+SP2,201617,22/10/16,Numancia,Sevilla B,1,2,A,1,1,D
+SP2,201617,22/10/16,Reus Deportiu,Lugo,2,1,H,2,0,H
+SP2,201617,22/10/16,Vallecano,Girona,1,0,H,0,0,D
+SP2,201617,23/10/16,Almeria,Gimnastic,3,0,H,1,0,H
+SP2,201617,23/10/16,Cadiz,UCAM Murcia,2,2,D,2,0,H
+SP2,201617,23/10/16,Mallorca,Alcorcon,1,0,H,0,0,D
+SP2,201617,23/10/16,Mirandes,Levante,0,3,A,0,1,A
+SP2,201617,23/10/16,Oviedo,Tenerife,2,0,H,1,0,H
+SP2,201617,23/10/16,Valladolid,Zaragoza,0,0,D,0,0,D
+SP2,201617,29/10/16,Cordoba,Valladolid,1,1,D,1,1,D
+SP2,201617,29/10/16,Huesca,Reus Deportiu,2,1,H,0,1,A
+SP2,201617,29/10/16,Tenerife,Vallecano,3,2,H,2,1,H
+SP2,201617,29/10/16,Zaragoza,Almeria,2,1,H,1,0,H
+SP2,201617,30/10/16,Alcorcon,Mirandes,1,0,H,0,0,D
+SP2,201617,30/10/16,Gimnastic,Mallorca,2,2,D,1,0,H
+SP2,201617,30/10/16,Girona,Numancia,3,0,H,3,0,H
+SP2,201617,30/10/16,Levante,Getafe,1,1,D,1,1,D
+SP2,201617,30/10/16,Lugo,Cadiz,0,1,A,0,0,D
+SP2,201617,30/10/16,Sevilla B,Elche,2,0,H,0,0,D
+SP2,201617,30/10/16,UCAM Murcia,Oviedo,0,1,A,0,1,A
+SP2,201617,05/11/16,Cadiz,Huesca,1,0,H,0,0,D
+SP2,201617,05/11/16,Girona,Tenerife,1,1,D,1,1,D
+SP2,201617,05/11/16,Mallorca,Zaragoza,2,2,D,0,1,A
+SP2,201617,05/11/16,Valladolid,Sevilla B,2,0,H,0,0,D
+SP2,201617,05/11/16,Vallecano,UCAM Murcia,0,1,A,0,0,D
+SP2,201617,06/11/16,Almeria,Cordoba,3,1,H,3,1,H
+SP2,201617,06/11/16,Getafe,Alcorcon,1,0,H,0,0,D
+SP2,201617,06/11/16,Mirandes,Gimnastic,0,1,A,0,0,D
+SP2,201617,06/11/16,Numancia,Elche,2,2,D,2,0,H
+SP2,201617,06/11/16,Oviedo,Lugo,1,1,D,0,1,A
+SP2,201617,06/11/16,Reus Deportiu,Levante,0,1,A,0,0,D
+SP2,201617,11/11/16,Cordoba,Mallorca,0,2,A,0,0,D
+SP2,201617,12/11/16,Alcorcon,Reus Deportiu,1,0,H,0,0,D
+SP2,201617,12/11/16,Elche,Valladolid,2,0,H,1,0,H
+SP2,201617,12/11/16,Gimnastic,Getafe,1,0,H,1,0,H
+SP2,201617,12/11/16,Huesca,Oviedo,4,0,H,3,0,H
+SP2,201617,12/11/16,Levante,Cadiz,0,0,D,0,0,D
+SP2,201617,12/11/16,Tenerife,Numancia,1,1,D,1,0,H
+SP2,201617,13/11/16,Lugo,Vallecano,1,0,H,1,0,H
+SP2,201617,13/11/16,Sevilla B,Almeria,1,0,H,1,0,H
+SP2,201617,13/11/16,UCAM Murcia,Girona,0,1,A,0,0,D
+SP2,201617,13/11/16,Zaragoza,Mirandes,2,0,H,2,0,H
+SP2,201617,18/11/16,Almeria,Elche,2,1,H,1,1,D
+SP2,201617,19/11/16,Girona,Lugo,3,1,H,2,1,H
+SP2,201617,19/11/16,Mallorca,Sevilla B,2,2,D,0,2,A
+SP2,201617,19/11/16,Numancia,Valladolid,2,1,H,1,0,H
+SP2,201617,19/11/16,Oviedo,Levante,2,0,H,0,0,D
+SP2,201617,20/11/16,Cadiz,Alcorcon,4,1,H,0,1,A
+SP2,201617,20/11/16,Getafe,Zaragoza,1,0,H,0,0,D
+SP2,201617,20/11/16,Mirandes,Cordoba,1,1,D,1,0,H
+SP2,201617,20/11/16,Reus Deportiu,Gimnastic,1,0,H,0,0,D
+SP2,201617,20/11/16,Tenerife,UCAM Murcia,2,1,H,2,1,H
+SP2,201617,20/11/16,Vallecano,Huesca,2,2,D,1,1,D
+SP2,201617,25/11/16,Gimnastic,Cadiz,1,0,H,0,0,D
+SP2,201617,26/11/16,Alcorcon,Oviedo,5,1,H,2,0,H
+SP2,201617,26/11/16,Lugo,Tenerife,1,3,A,1,1,D
+SP2,201617,26/11/16,UCAM Murcia,Numancia,3,2,H,0,1,A
+SP2,201617,26/11/16,Valladolid,Almeria,0,0,D,0,0,D
+SP2,201617,26/11/16,Zaragoza,Reus Deportiu,2,2,D,1,0,H
+SP2,201617,27/11/16,Cordoba,Getafe,1,3,A,0,1,A
+SP2,201617,27/11/16,Elche,Mallorca,1,0,H,0,0,D
+SP2,201617,27/11/16,Huesca,Girona,1,2,A,1,2,A
+SP2,201617,27/11/16,Sevilla B,Mirandes,1,0,H,1,0,H
+SP2,201617,02/12/16,Getafe,Sevilla B,2,0,H,1,0,H
+SP2,201617,03/12/16,Cadiz,Zaragoza,3,0,H,1,0,H
+SP2,201617,03/12/16,Mirandes,Elche,1,0,H,1,0,H
+SP2,201617,03/12/16,Numancia,Almeria,1,0,H,1,0,H
+SP2,201617,03/12/16,UCAM Murcia,Lugo,1,2,A,1,1,D
+SP2,201617,04/12/16,Girona,Levante,2,1,H,1,0,H
+SP2,201617,04/12/16,Mallorca,Valladolid,0,3,A,0,0,D
+SP2,201617,04/12/16,Oviedo,Gimnastic,1,0,H,1,0,H
+SP2,201617,04/12/16,Reus Deportiu,Cordoba,1,2,A,0,1,A
+SP2,201617,04/12/16,Tenerife,Huesca,1,1,D,1,0,H
+SP2,201617,04/12/16,Vallecano,Alcorcon,2,0,H,0,0,D
+SP2,201617,09/12/16,Sevilla B,Reus Deportiu,0,1,A,0,0,D
+SP2,201617,10/12/16,Elche,Getafe,2,2,D,0,2,A
+SP2,201617,10/12/16,Gimnastic,Vallecano,0,1,A,0,0,D
+SP2,201617,10/12/16,Huesca,UCAM Murcia,5,2,H,2,1,H
+SP2,201617,10/12/16,Levante,Tenerife,1,0,H,0,0,D
+SP2,201617,11/12/16,Alcorcon,Girona,2,1,H,2,0,H
+SP2,201617,11/12/16,Almeria,Mallorca,2,1,H,1,0,H
+SP2,201617,11/12/16,Cordoba,Cadiz,1,3,A,0,0,D
+SP2,201617,11/12/16,Lugo,Numancia,3,1,H,1,1,D
+SP2,201617,11/12/16,Valladolid,Mirandes,5,0,H,2,0,H
+SP2,201617,11/12/16,Zaragoza,Oviedo,2,1,H,1,0,H
+SP2,201617,14/12/16,Levante,Vallecano,1,0,H,1,0,H
+SP2,201617,16/12/16,Reus Deportiu,Elche,0,1,A,0,0,D
+SP2,201617,17/12/16,Getafe,Valladolid,3,1,H,0,0,D
+SP2,201617,17/12/16,Girona,Gimnastic,4,2,H,1,2,A
+SP2,201617,17/12/16,Lugo,Huesca,1,1,D,0,1,A
+SP2,201617,17/12/16,Oviedo,Cordoba,1,2,A,0,1,A
+SP2,201617,17/12/16,Tenerife,Alcorcon,2,0,H,1,0,H
+SP2,201617,18/12/16,Cadiz,Sevilla B,4,1,H,1,0,H
+SP2,201617,18/12/16,Mirandes,Almeria,2,1,H,0,0,D
+SP2,201617,18/12/16,Numancia,Mallorca,3,1,H,2,1,H
+SP2,201617,18/12/16,Vallecano,Zaragoza,1,2,A,0,0,D
+SP2,201617,06/01/17,Almeria,Getafe,0,1,A,0,0,D
+SP2,201617,06/01/17,Mallorca,Mirandes,2,0,H,0,0,D
+SP2,201617,06/01/17,Numancia,Huesca,0,0,D,0,0,D
+SP2,201617,06/01/17,Valladolid,Reus Deportiu,1,0,H,0,0,D
+SP2,201617,07/01/17,Cordoba,Vallecano,0,0,D,0,0,D
+SP2,201617,07/01/17,Levante,Lugo,1,0,H,0,0,D
+SP2,201617,08/01/17,Alcorcon,UCAM Murcia,0,0,D,0,0,D
+SP2,201617,08/01/17,Elche,Cadiz,2,3,A,1,1,D
+SP2,201617,08/01/17,Gimnastic,Tenerife,1,1,D,0,1,A
+SP2,201617,08/01/17,Sevilla B,Oviedo,5,3,H,3,0,H
+SP2,201617,08/01/17,Zaragoza,Girona,0,2,A,0,0,D
+SP2,201617,11/01/17,UCAM Murcia,Levante,0,2,A,0,1,A
+SP2,201617,13/01/17,Cadiz,Valladolid,0,1,A,0,1,A
+SP2,201617,14/01/17,Mirandes,Numancia,0,3,A,0,1,A
+SP2,201617,14/01/17,Oviedo,Elche,2,1,H,0,0,D
+SP2,201617,14/01/17,Tenerife,Zaragoza,1,0,H,0,0,D
+SP2,201617,14/01/17,UCAM Murcia,Gimnastic,1,1,D,0,1,A
+SP2,201617,14/01/17,Vallecano,Sevilla B,1,1,D,0,1,A
+SP2,201617,15/01/17,Getafe,Mallorca,1,1,D,0,1,A
+SP2,201617,15/01/17,Girona,Cordoba,2,0,H,1,0,H
+SP2,201617,15/01/17,Huesca,Levante,0,2,A,0,1,A
+SP2,201617,15/01/17,Lugo,Alcorcon,1,0,H,0,0,D
+SP2,201617,15/01/17,Reus Deportiu,Almeria,1,0,H,1,0,H
+SP2,201617,21/01/17,Huesca,Alcorcon,0,1,A,0,0,D
+SP2,201617,21/01/17,Lugo,Gimnastic,2,3,A,1,0,H
+SP2,201617,21/01/17,Oviedo,Valladolid,1,0,H,1,0,H
+SP2,201617,21/01/17,Tenerife,Cordoba,2,0,H,0,0,D
+SP2,201617,21/01/17,UCAM Murcia,Zaragoza,1,0,H,1,0,H
+SP2,201617,21/01/17,Vallecano,Elche,1,1,D,0,1,A
+SP2,201617,22/01/17,Cadiz,Almeria,1,0,H,0,0,D
+SP2,201617,22/01/17,Getafe,Mirandes,1,1,D,1,0,H
+SP2,201617,22/01/17,Girona,Sevilla B,2,0,H,0,0,D
+SP2,201617,22/01/17,Levante,Numancia,1,0,H,1,0,H
+SP2,201617,22/01/17,Reus Deportiu,Mallorca,1,1,D,0,1,A
+SP2,201617,27/01/17,Elche,Girona,1,0,H,0,0,D
+SP2,201617,28/01/17,Alcorcon,Levante,2,0,H,2,0,H
+SP2,201617,28/01/17,Gimnastic,Huesca,0,0,D,0,0,D
+SP2,201617,28/01/17,Mirandes,Reus Deportiu,1,1,D,1,0,H
+SP2,201617,28/01/17,Sevilla B,Tenerife,0,0,D,0,0,D
+SP2,201617,28/01/17,Valladolid,Vallecano,2,1,H,0,1,A
+SP2,201617,29/01/17,Almeria,Oviedo,3,0,H,0,0,D
+SP2,201617,29/01/17,Cordoba,UCAM Murcia,1,1,D,1,0,H
+SP2,201617,29/01/17,Mallorca,Cadiz,0,0,D,0,0,D
+SP2,201617,29/01/17,Numancia,Getafe,2,0,H,1,0,H
+SP2,201617,29/01/17,Zaragoza,Lugo,1,1,D,0,0,D
+SP2,201617,03/02/17,UCAM Murcia,Sevilla B,1,0,H,0,0,D
+SP2,201617,04/02/17,Alcorcon,Numancia,2,3,A,1,1,D
+SP2,201617,04/02/17,Cadiz,Mirandes,2,1,H,1,1,D
+SP2,201617,04/02/17,Huesca,Zaragoza,2,3,A,0,0,D
+SP2,201617,04/02/17,Lugo,Cordoba,1,0,H,1,0,H
+SP2,201617,04/02/17,Tenerife,Elche,2,0,H,1,0,H
+SP2,201617,05/02/17,Girona,Valladolid,2,1,H,1,0,H
+SP2,201617,05/02/17,Levante,Gimnastic,2,1,H,0,0,D
+SP2,201617,05/02/17,Oviedo,Mallorca,2,1,H,1,1,D
+SP2,201617,05/02/17,Reus Deportiu,Getafe,1,1,D,0,1,A
+SP2,201617,05/02/17,Vallecano,Almeria,1,0,H,1,0,H
+SP2,201617,10/02/17,Sevilla B,Lugo,1,1,D,0,0,D
+SP2,201617,11/02/17,Almeria,Girona,0,0,D,0,0,D
+SP2,201617,11/02/17,Getafe,Cadiz,3,2,H,2,1,H
+SP2,201617,11/02/17,Gimnastic,Alcorcon,1,1,D,1,1,D
+SP2,201617,11/02/17,Zaragoza,Levante,0,1,A,0,1,A
+SP2,201617,12/02/17,Cordoba,Huesca,0,2,A,0,0,D
+SP2,201617,12/02/17,Elche,UCAM Murcia,1,1,D,1,0,H
+SP2,201617,12/02/17,Mallorca,Vallecano,2,1,H,2,0,H
+SP2,201617,12/02/17,Mirandes,Oviedo,0,2,A,0,1,A
+SP2,201617,12/02/17,Numancia,Reus Deportiu,1,0,H,1,0,H
+SP2,201617,12/02/17,Valladolid,Tenerife,0,0,D,0,0,D
+SP2,201617,17/02/17,Lugo,Elche,1,2,A,1,2,A
+SP2,201617,18/02/17,Gimnastic,Numancia,2,0,H,0,0,D
+SP2,201617,18/02/17,Girona,Mallorca,1,0,H,0,0,D
+SP2,201617,18/02/17,Levante,Cordoba,3,1,H,1,1,D
+SP2,201617,18/02/17,Tenerife,Almeria,1,0,H,1,0,H
+SP2,201617,18/02/17,UCAM Murcia,Valladolid,1,3,A,0,2,A
+SP2,201617,19/02/17,Alcorcon,Zaragoza,1,1,D,0,0,D
+SP2,201617,19/02/17,Cadiz,Reus Deportiu,0,0,D,0,0,D
+SP2,201617,19/02/17,Huesca,Sevilla B,2,1,H,2,0,H
+SP2,201617,19/02/17,Oviedo,Getafe,2,1,H,1,0,H
+SP2,201617,19/02/17,Vallecano,Mirandes,1,2,A,0,0,D
+SP2,201617,24/02/17,Reus Deportiu,Oviedo,1,1,D,1,0,H
+SP2,201617,25/02/17,Cordoba,Alcorcon,1,0,H,0,0,D
+SP2,201617,25/02/17,Elche,Huesca,1,1,D,0,1,A
+SP2,201617,25/02/17,Getafe,Vallecano,1,0,H,0,0,D
+SP2,201617,25/02/17,Mallorca,Tenerife,1,4,A,1,0,H
+SP2,201617,25/02/17,Mirandes,Girona,0,2,A,0,0,D
+SP2,201617,26/02/17,Almeria,UCAM Murcia,2,3,A,1,1,D
+SP2,201617,26/02/17,Numancia,Cadiz,0,3,A,0,0,D
+SP2,201617,26/02/17,Sevilla B,Levante,1,1,D,0,1,A
+SP2,201617,26/02/17,Valladolid,Lugo,1,1,D,1,1,D
+SP2,201617,26/02/17,Zaragoza,Gimnastic,1,2,A,1,1,D
+SP2,201617,03/03/17,Tenerife,Mirandes,1,1,D,1,1,D
+SP2,201617,04/03/17,Alcorcon,Sevilla B,0,0,D,0,0,D
+SP2,201617,04/03/17,Girona,Getafe,5,1,H,3,0,H
+SP2,201617,04/03/17,Oviedo,Cadiz,2,1,H,1,1,D
+SP2,201617,04/03/17,Vallecano,Reus Deportiu,0,0,D,0,0,D
+SP2,201617,05/03/17,Gimnastic,Cordoba,2,1,H,1,1,D
+SP2,201617,05/03/17,Huesca,Valladolid,1,0,H,0,0,D
+SP2,201617,05/03/17,Levante,Elche,2,1,H,0,1,A
+SP2,201617,05/03/17,Lugo,Almeria,1,2,A,0,1,A
+SP2,201617,05/03/17,UCAM Murcia,Mallorca,1,1,D,0,1,A
+SP2,201617,05/03/17,Zaragoza,Numancia,3,0,H,2,0,H
+SP2,201617,10/03/17,Elche,Alcorcon,0,0,D,0,0,D
+SP2,201617,11/03/17,Cordoba,Zaragoza,2,1,H,0,1,A
+SP2,201617,11/03/17,Mallorca,Lugo,1,1,D,0,1,A
+SP2,201617,11/03/17,Mirandes,UCAM Murcia,1,1,D,0,0,D
+SP2,201617,11/03/17,Numancia,Oviedo,0,0,D,0,0,D
+SP2,201617,11/03/17,Valladolid,Levante,0,4,A,0,2,A
+SP2,201617,12/03/17,Almeria,Huesca,0,0,D,0,0,D
+SP2,201617,12/03/17,Cadiz,Vallecano,1,0,H,1,0,H
+SP2,201617,12/03/17,Getafe,Tenerife,2,2,D,1,0,H
+SP2,201617,12/03/17,Reus Deportiu,Girona,1,2,A,0,0,D
+SP2,201617,12/03/17,Sevilla B,Gimnastic,2,2,D,0,1,A
+SP2,201617,17/03/17,Gimnastic,Elche,1,3,A,0,3,A
+SP2,201617,18/03/17,Cordoba,Numancia,0,0,D,0,0,D
+SP2,201617,18/03/17,Huesca,Mallorca,2,1,H,0,0,D
+SP2,201617,18/03/17,Lugo,Mirandes,2,1,H,0,0,D
+SP2,201617,18/03/17,UCAM Murcia,Getafe,2,0,H,2,0,H
+SP2,201617,18/03/17,Zaragoza,Sevilla B,1,2,A,0,1,A
+SP2,201617,19/03/17,Alcorcon,Valladolid,1,2,A,1,2,A
+SP2,201617,19/03/17,Girona,Cadiz,1,2,A,0,2,A
+SP2,201617,19/03/17,Levante,Almeria,1,0,H,1,0,H
+SP2,201617,19/03/17,Tenerife,Reus Deportiu,0,1,A,0,1,A
+SP2,201617,19/03/17,Vallecano,Oviedo,2,0,H,1,0,H
+SP2,201617,25/03/17,Almeria,Alcorcon,3,1,H,1,0,H
+SP2,201617,25/03/17,Mallorca,Levante,1,1,D,0,1,A
+SP2,201617,25/03/17,Numancia,Vallecano,0,0,D,0,0,D
+SP2,201617,25/03/17,Oviedo,Girona,2,0,H,0,0,D
+SP2,201617,25/03/17,Valladolid,Gimnastic,1,2,A,0,1,A
+SP2,201617,26/03/17,Cadiz,Tenerife,0,1,A,0,0,D
+SP2,201617,26/03/17,Elche,Zaragoza,0,3,A,0,3,A
+SP2,201617,26/03/17,Getafe,Lugo,2,0,H,1,0,H
+SP2,201617,26/03/17,Mirandes,Huesca,1,3,A,1,2,A
+SP2,201617,26/03/17,Reus Deportiu,UCAM Murcia,0,0,D,0,0,D
+SP2,201617,26/03/17,Sevilla B,Cordoba,1,0,H,1,0,H
+SP2,201617,31/03/17,Alcorcon,Mallorca,1,0,H,0,0,D
+SP2,201617,01/04/17,Girona,Vallecano,1,3,A,1,2,A
+SP2,201617,01/04/17,Huesca,Getafe,0,0,D,0,0,D
+SP2,201617,01/04/17,Levante,Mirandes,2,1,H,1,0,H
+SP2,201617,01/04/17,UCAM Murcia,Cadiz,1,1,D,1,1,D
+SP2,201617,02/04/17,Cordoba,Elche,1,0,H,0,0,D
+SP2,201617,02/04/17,Gimnastic,Almeria,0,1,A,0,0,D
+SP2,201617,02/04/17,Lugo,Reus Deportiu,1,0,H,0,0,D
+SP2,201617,02/04/17,Tenerife,Oviedo,1,0,H,1,0,H
+SP2,201617,02/04/17,Zaragoza,Valladolid,1,1,D,1,1,D
+SP2,201617,03/04/17,Sevilla B,Numancia,1,1,D,1,1,D
+SP2,201617,07/04/17,Mirandes,Alcorcon,2,0,H,0,0,D
+SP2,201617,08/04/17,Cadiz,Lugo,1,1,D,1,1,D
+SP2,201617,08/04/17,Getafe,Levante,2,0,H,2,0,H
+SP2,201617,08/04/17,Mallorca,Gimnastic,0,0,D,0,0,D
+SP2,201617,08/04/17,Vallecano,Tenerife,1,1,D,1,1,D
+SP2,201617,09/04/17,Almeria,Zaragoza,2,2,D,2,2,D
+SP2,201617,09/04/17,Elche,Sevilla B,3,2,H,1,1,D
+SP2,201617,09/04/17,Numancia,Girona,0,2,A,0,0,D
+SP2,201617,09/04/17,Oviedo,UCAM Murcia,2,0,H,1,0,H
+SP2,201617,09/04/17,Reus Deportiu,Huesca,0,1,A,0,0,D
+SP2,201617,09/04/17,Valladolid,Cordoba,2,1,H,1,0,H
+SP2,201617,15/04/17,Elche,Numancia,1,3,A,0,1,A
+SP2,201617,15/04/17,Gimnastic,Mirandes,4,1,H,1,1,D
+SP2,201617,15/04/17,Huesca,Cadiz,1,1,D,0,0,D
+SP2,201617,15/04/17,Tenerife,Girona,3,3,D,1,2,A
+SP2,201617,16/04/17,Alcorcon,Getafe,0,3,A,0,2,A
+SP2,201617,16/04/17,Cordoba,Almeria,1,0,H,1,0,H
+SP2,201617,16/04/17,Lugo,Oviedo,2,1,H,1,1,D
+SP2,201617,16/04/17,Sevilla B,Valladolid,6,2,H,4,0,H
+SP2,201617,16/04/17,UCAM Murcia,Vallecano,0,1,A,0,1,A
+SP2,201617,16/04/17,Zaragoza,Mallorca,1,0,H,1,0,H
+SP2,201617,17/04/17,Levante,Reus Deportiu,0,0,D,0,0,D
+SP2,201617,21/04/17,Oviedo,Huesca,1,1,D,1,0,H
+SP2,201617,22/04/17,Cadiz,Levante,1,1,D,0,1,A
+SP2,201617,22/04/17,Getafe,Gimnastic,1,1,D,1,0,H
+SP2,201617,22/04/17,Girona,UCAM Murcia,1,2,A,1,1,D
+SP2,201617,22/04/17,Valladolid,Elche,2,1,H,1,1,D
+SP2,201617,22/04/17,Vallecano,Lugo,2,0,H,0,0,D
+SP2,201617,23/04/17,Almeria,Sevilla B,2,1,H,1,0,H
+SP2,201617,23/04/17,Mallorca,Cordoba,1,1,D,1,1,D
+SP2,201617,23/04/17,Mirandes,Zaragoza,0,1,A,0,1,A
+SP2,201617,23/04/17,Numancia,Tenerife,1,1,D,0,0,D
+SP2,201617,23/04/17,Reus Deportiu,Alcorcon,0,0,D,0,0,D
+SP2,201617,28/04/17,Elche,Almeria,2,3,A,0,1,A
+SP2,201617,29/04/17,Levante,Oviedo,1,0,H,0,0,D
+SP2,201617,29/04/17,UCAM Murcia,Tenerife,1,0,H,1,0,H
+SP2,201617,29/04/17,Valladolid,Numancia,1,1,D,0,0,D
+SP2,201617,29/04/17,Zaragoza,Getafe,1,2,A,1,0,H
+SP2,201617,30/04/17,Alcorcon,Cadiz,0,2,A,0,1,A
+SP2,201617,30/04/17,Cordoba,Mirandes,1,1,D,0,0,D
+SP2,201617,30/04/17,Lugo,Girona,1,2,A,0,2,A
+SP2,201617,30/04/17,Sevilla B,Mallorca,2,3,A,0,1,A
+SP2,201617,01/05/17,Gimnastic,Reus Deportiu,0,1,A,0,0,D
+SP2,201617,01/05/17,Huesca,Vallecano,2,0,H,0,0,D
+SP2,201617,05/05/17,Oviedo,Alcorcon,0,1,A,0,0,D
+SP2,201617,06/05/17,Girona,Huesca,3,1,H,2,1,H
+SP2,201617,06/05/17,Mallorca,Elche,1,0,H,0,0,D
+SP2,201617,06/05/17,Numancia,UCAM Murcia,1,0,H,1,0,H
+SP2,201617,06/05/17,Vallecano,Levante,2,1,H,1,1,D
+SP2,201617,07/05/17,Almeria,Valladolid,0,3,A,0,1,A
+SP2,201617,07/05/17,Cadiz,Gimnastic,0,0,D,0,0,D
+SP2,201617,07/05/17,Getafe,Cordoba,2,0,H,1,0,H
+SP2,201617,07/05/17,Mirandes,Sevilla B,0,1,A,0,0,D
+SP2,201617,07/05/17,Reus Deportiu,Zaragoza,1,0,H,1,0,H
+SP2,201617,07/05/17,Tenerife,Lugo,2,1,H,1,0,H
+SP2,201617,12/05/17,Sevilla B,Getafe,2,1,H,1,0,H
+SP2,201617,12/05/17,Zaragoza,Cadiz,1,1,D,1,0,H
+SP2,201617,13/05/17,Alcorcon,Vallecano,2,0,H,0,0,D
+SP2,201617,13/05/17,Almeria,Numancia,2,0,H,2,0,H
+SP2,201617,13/05/17,Cordoba,Reus Deportiu,1,0,H,0,0,D
+SP2,201617,13/05/17,Elche,Mirandes,0,1,A,0,0,D
+SP2,201617,13/05/17,Gimnastic,Oviedo,2,2,D,0,2,A
+SP2,201617,13/05/17,Huesca,Tenerife,2,2,D,0,2,A
+SP2,201617,13/05/17,Levante,Girona,2,1,H,1,0,H
+SP2,201617,13/05/17,Valladolid,Mallorca,2,1,H,1,0,H
+SP2,201617,14/05/17,Lugo,UCAM Murcia,0,0,D,0,0,D
+SP2,201617,19/05/17,Getafe,Elche,2,0,H,1,0,H
+SP2,201617,19/05/17,Vallecano,Gimnastic,2,0,H,0,0,D
+SP2,201617,20/05/17,Cadiz,Cordoba,1,1,D,0,0,D
+SP2,201617,20/05/17,Girona,Alcorcon,0,0,D,0,0,D
+SP2,201617,20/05/17,Mallorca,Almeria,1,0,H,1,0,H
+SP2,201617,20/05/17,Oviedo,Zaragoza,0,0,D,0,0,D
+SP2,201617,20/05/17,Reus Deportiu,Sevilla B,2,1,H,1,0,H
+SP2,201617,20/05/17,Tenerife,Levante,0,0,D,0,0,D
+SP2,201617,20/05/17,UCAM Murcia,Huesca,3,1,H,2,0,H
+SP2,201617,21/05/17,Mirandes,Valladolid,2,2,D,0,2,A
+SP2,201617,21/05/17,Numancia,Lugo,0,1,A,0,0,D
+SP2,201617,26/05/17,Levante,UCAM Murcia,3,1,H,1,1,D
+SP2,201617,27/05/17,Almeria,Mirandes,2,0,H,1,0,H
+SP2,201617,27/05/17,Huesca,Lugo,1,0,H,1,0,H
+SP2,201617,27/05/17,Sevilla B,Cadiz,3,3,D,2,0,H
+SP2,201617,27/05/17,Valladolid,Getafe,1,0,H,0,0,D
+SP2,201617,28/05/17,Alcorcon,Tenerife,1,3,A,0,2,A
+SP2,201617,28/05/17,Cordoba,Oviedo,4,2,H,3,0,H
+SP2,201617,28/05/17,Elche,Reus Deportiu,1,1,D,0,0,D
+SP2,201617,28/05/17,Gimnastic,Girona,3,1,H,0,1,A
+SP2,201617,28/05/17,Mallorca,Numancia,0,0,D,0,0,D
+SP2,201617,28/05/17,Zaragoza,Vallecano,1,1,D,1,0,H
+SP2,201617,02/06/17,Lugo,Levante,1,0,H,0,0,D
+SP2,201617,04/06/17,Cadiz,Elche,2,1,H,0,0,D
+SP2,201617,04/06/17,Getafe,Almeria,4,0,H,2,0,H
+SP2,201617,04/06/17,Girona,Zaragoza,0,0,D,0,0,D
+SP2,201617,04/06/17,Huesca,Numancia,0,0,D,0,0,D
+SP2,201617,04/06/17,Mirandes,Mallorca,2,2,D,2,1,H
+SP2,201617,04/06/17,Oviedo,Sevilla B,1,0,H,1,0,H
+SP2,201617,04/06/17,Reus Deportiu,Valladolid,2,0,H,2,0,H
+SP2,201617,04/06/17,Tenerife,Gimnastic,0,1,A,0,0,D
+SP2,201617,04/06/17,UCAM Murcia,Alcorcon,0,1,A,0,1,A
+SP2,201617,04/06/17,Vallecano,Cordoba,1,2,A,1,1,D
+SP2,201617,09/06/17,Sevilla B,Vallecano,1,2,A,0,1,A
+SP2,201617,10/06/17,Alcorcon,Lugo,3,0,H,1,0,H
+SP2,201617,10/06/17,Almeria,Reus Deportiu,1,0,H,1,0,H
+SP2,201617,10/06/17,Cordoba,Girona,2,1,H,0,0,D
+SP2,201617,10/06/17,Elche,Oviedo,0,2,A,0,0,D
+SP2,201617,10/06/17,Gimnastic,UCAM Murcia,1,0,H,0,0,D
+SP2,201617,10/06/17,Levante,Huesca,1,2,A,0,0,D
+SP2,201617,10/06/17,Mallorca,Getafe,3,3,D,1,1,D
+SP2,201617,10/06/17,Valladolid,Cadiz,1,0,H,0,0,D
+SP2,201617,10/06/17,Zaragoza,Tenerife,1,2,A,0,1,A
+SP2,201617,11/06/17,Numancia,Mirandes,0,2,A,0,0,D
+SP2,201516,22/08/15,Alcorcon,Mallorca,2,0,H,1,0,H
+SP2,201516,22/08/15,Cordoba,Valladolid,1,0,H,0,0,D
+SP2,201516,22/08/15,Huesca,Alaves,2,3,A,0,1,A
+SP2,201516,22/08/15,Llagostera,Osasuna,0,2,A,0,0,D
+SP2,201516,23/08/15,Almeria,Leganes,3,2,H,3,0,H
+SP2,201516,23/08/15,Gimnastic,Albacete,2,2,D,0,0,D
+SP2,201516,23/08/15,Mirandes,Zaragoza,1,1,D,0,0,D
+SP2,201516,23/08/15,Numancia,Tenerife,6,3,H,1,2,A
+SP2,201516,23/08/15,Oviedo,Lugo,2,2,D,1,1,D
+SP2,201516,23/08/15,Ponferradina,Elche,2,0,H,0,0,D
+SP2,201516,24/08/15,Ath Bilbao B,Girona,0,1,A,0,0,D
+SP2,201516,29/08/15,Albacete,Huesca,1,1,D,1,1,D
+SP2,201516,29/08/15,Girona,Numancia,2,3,A,1,1,D
+SP2,201516,29/08/15,Leganes,Cordoba,3,1,H,2,0,H
+SP2,201516,29/08/15,Lugo,Llagostera,1,0,H,0,0,D
+SP2,201516,29/08/15,Zaragoza,Almeria,3,2,H,1,1,D
+SP2,201516,30/08/15,Alaves,Oviedo,2,0,H,2,0,H
+SP2,201516,30/08/15,Elche,Ath Bilbao B,2,1,H,0,0,D
+SP2,201516,30/08/15,Mallorca,Ponferradina,1,0,H,1,0,H
+SP2,201516,30/08/15,Osasuna,Mirandes,1,0,H,0,0,D
+SP2,201516,30/08/15,Tenerife,Gimnastic,1,2,A,0,0,D
+SP2,201516,30/08/15,Valladolid,Alcorcon,2,0,H,0,0,D
+SP2,201516,05/09/15,Gimnastic,Girona,1,0,H,0,0,D
+SP2,201516,05/09/15,Huesca,Tenerife,1,1,D,1,1,D
+SP2,201516,05/09/15,Mirandes,Lugo,1,1,D,0,1,A
+SP2,201516,05/09/15,Numancia,Elche,0,0,D,0,0,D
+SP2,201516,06/09/15,Almeria,Osasuna,2,1,H,0,1,A
+SP2,201516,06/09/15,Ath Bilbao B,Mallorca,3,1,H,1,1,D
+SP2,201516,06/09/15,Cordoba,Alcorcon,1,3,A,1,1,D
+SP2,201516,06/09/15,Leganes,Zaragoza,1,1,D,1,0,H
+SP2,201516,06/09/15,Llagostera,Alaves,3,0,H,1,0,H
+SP2,201516,06/09/15,Oviedo,Albacete,3,1,H,2,1,H
+SP2,201516,06/09/15,Ponferradina,Valladolid,3,0,H,1,0,H
+SP2,201516,12/09/15,Alaves,Mirandes,2,3,A,0,2,A
+SP2,201516,12/09/15,Elche,Gimnastic,1,0,H,1,0,H
+SP2,201516,12/09/15,Osasuna,Leganes,2,1,H,1,0,H
+SP2,201516,12/09/15,Valladolid,Ath Bilbao B,1,0,H,1,0,H
+SP2,201516,12/09/15,Zaragoza,Cordoba,0,1,A,0,1,A
+SP2,201516,13/09/15,Albacete,Llagostera,1,0,H,1,0,H
+SP2,201516,13/09/15,Alcorcon,Ponferradina,1,0,H,0,0,D
+SP2,201516,13/09/15,Girona,Huesca,0,0,D,0,0,D
+SP2,201516,13/09/15,Lugo,Almeria,1,0,H,0,0,D
+SP2,201516,13/09/15,Mallorca,Numancia,0,0,D,0,0,D
+SP2,201516,13/09/15,Tenerife,Oviedo,0,2,A,0,1,A
+SP2,201516,19/09/15,Ath Bilbao B,Alcorcon,1,0,H,0,0,D
+SP2,201516,19/09/15,Leganes,Lugo,0,0,D,0,0,D
+SP2,201516,19/09/15,Llagostera,Tenerife,0,2,A,0,0,D
+SP2,201516,19/09/15,Mirandes,Albacete,1,1,D,1,0,H
+SP2,201516,19/09/15,Oviedo,Girona,1,2,A,1,1,D
+SP2,201516,20/09/15,Almeria,Alaves,0,2,A,0,1,A
+SP2,201516,20/09/15,Cordoba,Ponferradina,1,0,H,1,0,H
+SP2,201516,20/09/15,Gimnastic,Mallorca,1,0,H,1,0,H
+SP2,201516,20/09/15,Huesca,Elche,1,3,A,0,1,A
+SP2,201516,20/09/15,Numancia,Valladolid,2,2,D,0,1,A
+SP2,201516,20/09/15,Zaragoza,Osasuna,0,1,A,0,1,A
+SP2,201516,26/09/15,Alcorcon,Numancia,1,1,D,1,1,D
+SP2,201516,26/09/15,Lugo,Zaragoza,0,0,D,0,0,D
+SP2,201516,26/09/15,Mallorca,Huesca,0,1,A,0,0,D
+SP2,201516,26/09/15,Osasuna,Cordoba,0,0,D,0,0,D
+SP2,201516,26/09/15,Ponferradina,Ath Bilbao B,1,0,H,0,0,D
+SP2,201516,27/09/15,Alaves,Leganes,0,0,D,0,0,D
+SP2,201516,27/09/15,Albacete,Almeria,3,0,H,2,0,H
+SP2,201516,27/09/15,Elche,Oviedo,1,1,D,1,0,H
+SP2,201516,27/09/15,Girona,Llagostera,2,2,D,1,0,H
+SP2,201516,27/09/15,Tenerife,Mirandes,3,0,H,1,0,H
+SP2,201516,27/09/15,Valladolid,Gimnastic,0,0,D,0,0,D
+SP2,201516,03/10/15,Almeria,Tenerife,2,2,D,0,1,A
+SP2,201516,03/10/15,Cordoba,Ath Bilbao B,1,0,H,1,0,H
+SP2,201516,03/10/15,Gimnastic,Alcorcon,0,2,A,0,0,D
+SP2,201516,03/10/15,Numancia,Ponferradina,1,0,H,1,0,H
+SP2,201516,03/10/15,Zaragoza,Alaves,1,0,H,1,0,H
+SP2,201516,04/10/15,Huesca,Valladolid,1,1,D,0,1,A
+SP2,201516,04/10/15,Leganes,Albacete,3,2,H,0,1,A
+SP2,201516,04/10/15,Llagostera,Elche,4,1,H,2,0,H
+SP2,201516,04/10/15,Mirandes,Girona,1,0,H,0,0,D
+SP2,201516,04/10/15,Osasuna,Lugo,4,0,H,3,0,H
+SP2,201516,04/10/15,Oviedo,Mallorca,1,1,D,1,1,D
+SP2,201516,10/10/15,Alaves,Osasuna,3,0,H,1,0,H
+SP2,201516,10/10/15,Ath Bilbao B,Numancia,0,0,D,0,0,D
+SP2,201516,10/10/15,Elche,Mirandes,1,4,A,0,0,D
+SP2,201516,10/10/15,Ponferradina,Gimnastic,2,2,D,0,0,D
+SP2,201516,10/10/15,Tenerife,Leganes,0,0,D,0,0,D
+SP2,201516,11/10/15,Albacete,Zaragoza,1,3,A,0,3,A
+SP2,201516,11/10/15,Alcorcon,Huesca,0,1,A,0,0,D
+SP2,201516,11/10/15,Girona,Almeria,1,1,D,1,1,D
+SP2,201516,11/10/15,Lugo,Cordoba,1,2,A,1,1,D
+SP2,201516,11/10/15,Mallorca,Llagostera,1,0,H,0,0,D
+SP2,201516,11/10/15,Valladolid,Oviedo,2,3,A,1,2,A
+SP2,201516,17/10/15,Gimnastic,Ath Bilbao B,2,1,H,1,0,H
+SP2,201516,17/10/15,Leganes,Girona,2,2,D,1,0,H
+SP2,201516,17/10/15,Mirandes,Mallorca,2,2,D,2,0,H
+SP2,201516,17/10/15,Osasuna,Albacete,1,0,H,1,0,H
+SP2,201516,17/10/15,Oviedo,Alcorcon,3,2,H,1,0,H
+SP2,201516,18/10/15,Almeria,Elche,2,3,A,1,1,D
+SP2,201516,18/10/15,Cordoba,Numancia,3,2,H,2,1,H
+SP2,201516,18/10/15,Huesca,Ponferradina,1,1,D,1,0,H
+SP2,201516,18/10/15,Llagostera,Valladolid,3,1,H,1,0,H
+SP2,201516,18/10/15,Lugo,Alaves,1,0,H,1,0,H
+SP2,201516,18/10/15,Zaragoza,Tenerife,2,0,H,1,0,H
+SP2,201516,24/10/15,Alaves,Cordoba,3,2,H,1,2,A
+SP2,201516,24/10/15,Alcorcon,Llagostera,6,1,H,5,0,H
+SP2,201516,24/10/15,Ath Bilbao B,Huesca,0,0,D,0,0,D
+SP2,201516,24/10/15,Elche,Leganes,0,0,D,0,0,D
+SP2,201516,24/10/15,Girona,Zaragoza,0,0,D,0,0,D
+SP2,201516,25/10/15,Albacete,Lugo,2,0,H,1,0,H
+SP2,201516,25/10/15,Mallorca,Almeria,1,0,H,0,0,D
+SP2,201516,25/10/15,Numancia,Gimnastic,1,1,D,0,0,D
+SP2,201516,25/10/15,Ponferradina,Oviedo,4,2,H,2,1,H
+SP2,201516,25/10/15,Tenerife,Osasuna,2,2,D,1,1,D
+SP2,201516,25/10/15,Valladolid,Mirandes,2,1,H,2,0,H
+SP2,201516,31/10/15,Cordoba,Gimnastic,2,0,H,2,0,H
+SP2,201516,31/10/15,Huesca,Numancia,2,0,H,1,0,H
+SP2,201516,31/10/15,Llagostera,Ponferradina,0,1,A,0,0,D
+SP2,201516,31/10/15,Lugo,Tenerife,2,0,H,2,0,H
+SP2,201516,31/10/15,Mirandes,Alcorcon,3,0,H,2,0,H
+SP2,201516,01/11/15,Alaves,Albacete,1,1,D,1,1,D
+SP2,201516,01/11/15,Almeria,Valladolid,1,1,D,0,0,D
+SP2,201516,01/11/15,Leganes,Mallorca,0,0,D,0,0,D
+SP2,201516,01/11/15,Osasuna,Girona,0,1,A,0,1,A
+SP2,201516,01/11/15,Oviedo,Ath Bilbao B,0,0,D,0,0,D
+SP2,201516,01/11/15,Zaragoza,Elche,2,0,H,0,0,D
+SP2,201516,07/11/15,Mallorca,Zaragoza,0,0,D,0,0,D
+SP2,201516,07/11/15,Ponferradina,Mirandes,2,2,D,1,1,D
+SP2,201516,07/11/15,Tenerife,Alaves,2,0,H,0,0,D
+SP2,201516,07/11/15,Valladolid,Leganes,1,1,D,1,0,H
+SP2,201516,08/11/15,Albacete,Cordoba,2,0,H,0,0,D
+SP2,201516,08/11/15,Alcorcon,Almeria,0,0,D,0,0,D
+SP2,201516,08/11/15,Elche,Osasuna,2,1,H,1,1,D
+SP2,201516,08/11/15,Gimnastic,Huesca,2,0,H,2,0,H
+SP2,201516,08/11/15,Girona,Lugo,0,1,A,0,0,D
+SP2,201516,08/11/15,Numancia,Oviedo,1,0,H,0,0,D
+SP2,201516,09/11/15,Ath Bilbao B,Llagostera,2,0,H,1,0,H
+SP2,201516,14/11/15,Alaves,Girona,1,0,H,1,0,H
+SP2,201516,14/11/15,Albacete,Tenerife,1,2,A,1,1,D
+SP2,201516,14/11/15,Leganes,Alcorcon,3,0,H,2,0,H
+SP2,201516,14/11/15,Lugo,Elche,1,1,D,1,0,H
+SP2,201516,14/11/15,Mirandes,Ath Bilbao B,3,0,H,2,0,H
+SP2,201516,15/11/15,Almeria,Ponferradina,1,1,D,1,1,D
+SP2,201516,15/11/15,Cordoba,Huesca,1,1,D,0,0,D
+SP2,201516,15/11/15,Llagostera,Numancia,2,1,H,2,0,H
+SP2,201516,15/11/15,Osasuna,Mallorca,2,1,H,2,1,H
+SP2,201516,15/11/15,Oviedo,Gimnastic,2,0,H,2,0,H
+SP2,201516,15/11/15,Zaragoza,Valladolid,0,2,A,0,1,A
+SP2,201516,21/11/15,Ath Bilbao B,Almeria,0,0,D,0,0,D
+SP2,201516,21/11/15,Elche,Alaves,0,1,A,0,0,D
+SP2,201516,21/11/15,Huesca,Oviedo,0,1,A,0,0,D
+SP2,201516,21/11/15,Mallorca,Lugo,1,1,D,0,0,D
+SP2,201516,21/11/15,Numancia,Mirandes,2,2,D,0,1,A
+SP2,201516,22/11/15,Alcorcon,Zaragoza,1,0,H,1,0,H
+SP2,201516,22/11/15,Gimnastic,Llagostera,2,0,H,1,0,H
+SP2,201516,22/11/15,Girona,Albacete,3,0,H,2,0,H
+SP2,201516,22/11/15,Ponferradina,Leganes,1,0,H,0,0,D
+SP2,201516,22/11/15,Tenerife,Cordoba,1,1,D,0,0,D
+SP2,201516,22/11/15,Valladolid,Osasuna,0,1,A,0,0,D
+SP2,201516,28/11/15,Alaves,Mallorca,1,0,H,1,0,H
+SP2,201516,28/11/15,Almeria,Numancia,1,1,D,1,0,H
+SP2,201516,28/11/15,Leganes,Ath Bilbao B,1,0,H,1,0,H
+SP2,201516,28/11/15,Llagostera,Huesca,2,0,H,1,0,H
+SP2,201516,28/11/15,Osasuna,Alcorcon,1,2,A,0,1,A
+SP2,201516,29/11/15,Albacete,Elche,1,0,H,0,0,D
+SP2,201516,29/11/15,Cordoba,Oviedo,2,1,H,2,1,H
+SP2,201516,29/11/15,Lugo,Valladolid,1,1,D,0,0,D
+SP2,201516,29/11/15,Mirandes,Gimnastic,0,1,A,0,0,D
+SP2,201516,29/11/15,Tenerife,Girona,1,1,D,1,1,D
+SP2,201516,29/11/15,Zaragoza,Ponferradina,2,0,H,2,0,H
+SP2,201516,05/12/15,Alcorcon,Lugo,1,1,D,0,1,A
+SP2,201516,05/12/15,Elche,Tenerife,0,0,D,0,0,D
+SP2,201516,05/12/15,Gimnastic,Almeria,2,2,D,2,1,H
+SP2,201516,05/12/15,Valladolid,Alaves,1,2,A,0,1,A
+SP2,201516,06/12/15,Girona,Cordoba,1,2,A,0,0,D
+SP2,201516,06/12/15,Huesca,Mirandes,1,2,A,0,1,A
+SP2,201516,06/12/15,Mallorca,Albacete,2,0,H,0,0,D
+SP2,201516,06/12/15,Numancia,Leganes,1,2,A,0,1,A
+SP2,201516,06/12/15,Oviedo,Llagostera,2,1,H,2,1,H
+SP2,201516,06/12/15,Ponferradina,Osasuna,3,0,H,2,0,H
+SP2,201516,07/12/15,Ath Bilbao B,Zaragoza,0,1,A,0,1,A
+SP2,201516,12/12/15,Alaves,Alcorcon,1,1,D,0,0,D
+SP2,201516,12/12/15,Cordoba,Llagostera,2,0,H,1,0,H
+SP2,201516,12/12/15,Girona,Elche,0,1,A,0,1,A
+SP2,201516,12/12/15,Lugo,Ponferradina,3,1,H,1,1,D
+SP2,201516,12/12/15,Tenerife,Mallorca,2,1,H,0,1,A
+SP2,201516,13/12/15,Albacete,Valladolid,0,1,A,0,1,A
+SP2,201516,13/12/15,Almeria,Huesca,1,2,A,0,2,A
+SP2,201516,13/12/15,Leganes,Gimnastic,1,0,H,1,0,H
+SP2,201516,13/12/15,Mirandes,Oviedo,1,2,A,1,0,H
+SP2,201516,13/12/15,Osasuna,Ath Bilbao B,1,1,D,0,1,A
+SP2,201516,13/12/15,Zaragoza,Numancia,2,2,D,1,0,H
+SP2,201516,18/12/15,Elche,Cordoba,2,1,H,2,1,H
+SP2,201516,19/12/15,Gimnastic,Zaragoza,3,1,H,1,0,H
+SP2,201516,19/12/15,Mallorca,Girona,1,1,D,1,0,H
+SP2,201516,19/12/15,Numancia,Osasuna,1,3,A,0,0,D
+SP2,201516,19/12/15,Ponferradina,Alaves,0,1,A,0,0,D
+SP2,201516,20/12/15,Alcorcon,Albacete,1,0,H,1,0,H
+SP2,201516,20/12/15,Huesca,Leganes,1,1,D,0,0,D
+SP2,201516,20/12/15,Llagostera,Mirandes,0,0,D,0,0,D
+SP2,201516,20/12/15,Oviedo,Almeria,1,0,H,1,0,H
+SP2,201516,20/12/15,Valladolid,Tenerife,4,1,H,2,1,H
+SP2,201516,21/12/15,Ath Bilbao B,Lugo,1,1,D,1,1,D
+SP2,201516,02/01/16,Alaves,Ath Bilbao B,3,0,H,2,0,H
+SP2,201516,02/01/16,Elche,Mallorca,1,1,D,1,0,H
+SP2,201516,02/01/16,Osasuna,Gimnastic,1,1,D,0,0,D
+SP2,201516,03/01/16,Albacete,Ponferradina,2,2,D,1,0,H
+SP2,201516,03/01/16,Almeria,Llagostera,2,1,H,0,0,D
+SP2,201516,03/01/16,Cordoba,Mirandes,1,2,A,0,1,A
+SP2,201516,03/01/16,Leganes,Oviedo,1,1,D,1,0,H
+SP2,201516,03/01/16,Lugo,Numancia,2,3,A,1,1,D
+SP2,201516,03/01/16,Zaragoza,Huesca,3,3,D,1,0,H
+SP2,201516,04/01/16,Girona,Valladolid,1,0,H,0,0,D
+SP2,201516,04/01/16,Tenerife,Alcorcon,1,2,A,0,2,A
+SP2,201516,09/01/16,Alcorcon,Girona,1,0,H,1,0,H
+SP2,201516,09/01/16,Ath Bilbao B,Albacete,0,1,A,0,0,D
+SP2,201516,09/01/16,Gimnastic,Lugo,1,2,A,0,0,D
+SP2,201516,09/01/16,Numancia,Alaves,0,1,A,0,0,D
+SP2,201516,09/01/16,Valladolid,Elche,1,1,D,0,0,D
+SP2,201516,10/01/16,Cordoba,Mallorca,3,1,H,2,0,H
+SP2,201516,10/01/16,Huesca,Osasuna,0,1,A,0,1,A
+SP2,201516,10/01/16,Llagostera,Leganes,0,1,A,0,1,A
+SP2,201516,10/01/16,Mirandes,Almeria,1,1,D,0,0,D
+SP2,201516,10/01/16,Oviedo,Zaragoza,1,0,H,1,0,H
+SP2,201516,10/01/16,Ponferradina,Tenerife,0,1,A,0,0,D
+SP2,201516,16/01/16,Albacete,Numancia,0,2,A,0,1,A
+SP2,201516,16/01/16,Elche,Alcorcon,2,0,H,1,0,H
+SP2,201516,16/01/16,Osasuna,Oviedo,0,0,D,0,0,D
+SP2,201516,16/01/16,Tenerife,Ath Bilbao B,2,0,H,2,0,H
+SP2,201516,16/01/16,Zaragoza,Llagostera,1,0,H,1,0,H
+SP2,201516,17/01/16,Alaves,Gimnastic,1,3,A,0,1,A
+SP2,201516,17/01/16,Almeria,Cordoba,0,1,A,0,0,D
+SP2,201516,17/01/16,Girona,Ponferradina,4,0,H,1,0,H
+SP2,201516,17/01/16,Leganes,Mirandes,4,0,H,3,0,H
+SP2,201516,17/01/16,Lugo,Huesca,1,1,D,1,0,H
+SP2,201516,17/01/16,Mallorca,Valladolid,0,1,A,0,0,D
+SP2,201516,23/01/16,Alaves,Huesca,1,0,H,1,0,H
+SP2,201516,23/01/16,Girona,Ath Bilbao B,2,1,H,1,1,D
+SP2,201516,23/01/16,Leganes,Almeria,2,1,H,2,0,H
+SP2,201516,23/01/16,Lugo,Oviedo,2,2,D,2,2,D
+SP2,201516,23/01/16,Mallorca,Alcorcon,1,0,H,0,0,D
+SP2,201516,24/01/16,Albacete,Gimnastic,1,1,D,0,0,D
+SP2,201516,24/01/16,Elche,Ponferradina,1,0,H,0,0,D
+SP2,201516,24/01/16,Osasuna,Llagostera,3,0,H,1,0,H
+SP2,201516,24/01/16,Tenerife,Numancia,0,0,D,0,0,D
+SP2,201516,24/01/16,Valladolid,Cordoba,2,0,H,2,0,H
+SP2,201516,24/01/16,Zaragoza,Mirandes,1,2,A,1,1,D
+SP2,201516,30/01/16,Alcorcon,Valladolid,0,0,D,0,0,D
+SP2,201516,30/01/16,Cordoba,Leganes,2,3,A,1,0,H
+SP2,201516,30/01/16,Huesca,Albacete,3,1,H,1,0,H
+SP2,201516,30/01/16,Llagostera,Lugo,0,0,D,0,0,D
+SP2,201516,30/01/16,Oviedo,Alaves,1,1,D,1,0,H
+SP2,201516,31/01/16,Almeria,Zaragoza,2,1,H,0,0,D
+SP2,201516,31/01/16,Ath Bilbao B,Elche,0,1,A,0,0,D
+SP2,201516,31/01/16,Gimnastic,Tenerife,2,1,H,2,0,H
+SP2,201516,31/01/16,Mirandes,Osasuna,4,0,H,0,0,D
+SP2,201516,31/01/16,Numancia,Girona,1,1,D,1,0,H
+SP2,201516,31/01/16,Ponferradina,Mallorca,0,2,A,0,0,D
+SP2,201516,06/02/16,Albacete,Oviedo,2,2,D,2,0,H
+SP2,201516,06/02/16,Elche,Numancia,0,0,D,0,0,D
+SP2,201516,06/02/16,Tenerife,Huesca,1,1,D,1,0,H
+SP2,201516,06/02/16,Valladolid,Ponferradina,0,0,D,0,0,D
+SP2,201516,06/02/16,Zaragoza,Leganes,1,0,H,0,0,D
+SP2,201516,07/02/16,Alaves,Llagostera,1,0,H,0,0,D
+SP2,201516,07/02/16,Alcorcon,Cordoba,3,3,D,2,2,D
+SP2,201516,07/02/16,Girona,Gimnastic,1,1,D,0,1,A
+SP2,201516,07/02/16,Lugo,Mirandes,1,4,A,0,1,A
+SP2,201516,07/02/16,Mallorca,Ath Bilbao B,2,3,A,1,1,D
+SP2,201516,07/02/16,Osasuna,Almeria,0,0,D,0,0,D
+SP2,201516,13/02/16,Almeria,Lugo,0,2,A,0,0,D
+SP2,201516,13/02/16,Ath Bilbao B,Valladolid,0,1,A,0,1,A
+SP2,201516,13/02/16,Gimnastic,Elche,1,0,H,1,0,H
+SP2,201516,13/02/16,Mirandes,Alaves,0,0,D,0,0,D
+SP2,201516,13/02/16,Ponferradina,Alcorcon,0,0,D,0,0,D
+SP2,201516,14/02/16,Cordoba,Zaragoza,0,2,A,0,1,A
+SP2,201516,14/02/16,Huesca,Girona,0,1,A,0,1,A
+SP2,201516,14/02/16,Leganes,Osasuna,2,0,H,1,0,H
+SP2,201516,14/02/16,Llagostera,Albacete,2,0,H,0,0,D
+SP2,201516,14/02/16,Numancia,Mallorca,2,0,H,1,0,H
+SP2,201516,14/02/16,Oviedo,Tenerife,1,0,H,1,0,H
+SP2,201516,20/02/16,Albacete,Mirandes,1,1,D,1,0,H
+SP2,201516,20/02/16,Alcorcon,Ath Bilbao B,1,0,H,0,0,D
+SP2,201516,20/02/16,Lugo,Leganes,1,2,A,1,1,D
+SP2,201516,20/02/16,Mallorca,Gimnastic,2,2,D,0,2,A
+SP2,201516,20/02/16,Ponferradina,Cordoba,1,3,A,0,2,A
+SP2,201516,21/02/16,Alaves,Almeria,1,1,D,0,1,A
+SP2,201516,21/02/16,Elche,Huesca,1,1,D,0,1,A
+SP2,201516,21/02/16,Girona,Oviedo,1,1,D,0,0,D
+SP2,201516,21/02/16,Osasuna,Zaragoza,1,1,D,0,1,A
+SP2,201516,21/02/16,Tenerife,Llagostera,3,1,H,2,1,H
+SP2,201516,21/02/16,Valladolid,Numancia,2,2,D,1,1,D
+SP2,201516,27/02/16,Ath Bilbao B,Ponferradina,4,2,H,2,1,H
+SP2,201516,27/02/16,Cordoba,Osasuna,0,1,A,0,0,D
+SP2,201516,27/02/16,Llagostera,Girona,0,1,A,0,0,D
+SP2,201516,27/02/16,Numancia,Alcorcon,1,1,D,1,0,H
+SP2,201516,28/02/16,Almeria,Albacete,1,0,H,0,0,D
+SP2,201516,28/02/16,Gimnastic,Valladolid,1,1,D,1,1,D
+SP2,201516,28/02/16,Leganes,Alaves,2,0,H,1,0,H
+SP2,201516,28/02/16,Mirandes,Tenerife,1,2,A,0,1,A
+SP2,201516,28/02/16,Oviedo,Elche,3,0,H,0,0,D
+SP2,201516,28/02/16,Zaragoza,Lugo,3,1,H,0,0,D
+SP2,201516,05/03/16,Ath Bilbao B,Cordoba,1,2,A,0,1,A
+SP2,201516,05/03/16,Elche,Llagostera,1,1,D,0,0,D
+SP2,201516,05/03/16,Girona,Mirandes,2,0,H,0,0,D
+SP2,201516,05/03/16,Lugo,Osasuna,2,0,H,0,0,D
+SP2,201516,05/03/16,Mallorca,Oviedo,1,0,H,0,0,D
+SP2,201516,06/03/16,Alaves,Zaragoza,0,0,D,0,0,D
+SP2,201516,06/03/16,Albacete,Leganes,0,3,A,0,2,A
+SP2,201516,06/03/16,Alcorcon,Gimnastic,1,1,D,0,0,D
+SP2,201516,06/03/16,Ponferradina,Numancia,1,0,H,0,0,D
+SP2,201516,06/03/16,Tenerife,Almeria,0,0,D,0,0,D
+SP2,201516,06/03/16,Valladolid,Huesca,0,1,A,0,1,A
+SP2,201516,12/03/16,Almeria,Girona,1,0,H,1,0,H
+SP2,201516,12/03/16,Mirandes,Elche,1,2,A,1,0,H
+SP2,201516,12/03/16,Numancia,Ath Bilbao B,3,2,H,1,1,D
+SP2,201516,12/03/16,Oviedo,Valladolid,2,4,A,1,3,A
+SP2,201516,12/03/16,Zaragoza,Albacete,1,0,H,0,0,D
+SP2,201516,13/03/16,Cordoba,Lugo,1,2,A,0,2,A
+SP2,201516,13/03/16,Gimnastic,Ponferradina,1,1,D,0,1,A
+SP2,201516,13/03/16,Huesca,Alcorcon,1,0,H,1,0,H
+SP2,201516,13/03/16,Leganes,Tenerife,0,1,A,0,0,D
+SP2,201516,13/03/16,Llagostera,Mallorca,3,0,H,1,0,H
+SP2,201516,13/03/16,Osasuna,Alaves,3,1,H,3,1,H
+SP2,201516,16/03/16,Huesca,Mallorca,1,2,A,0,2,A
+SP2,201516,19/03/16,Alaves,Lugo,0,0,D,0,0,D
+SP2,201516,19/03/16,Albacete,Osasuna,3,1,H,2,1,H
+SP2,201516,19/03/16,Alcorcon,Oviedo,1,0,H,0,0,D
+SP2,201516,19/03/16,Elche,Almeria,0,0,D,0,0,D
+SP2,201516,19/03/16,Valladolid,Llagostera,3,0,H,1,0,H
+SP2,201516,20/03/16,Ath Bilbao B,Gimnastic,0,4,A,0,1,A
+SP2,201516,20/03/16,Girona,Leganes,1,1,D,0,0,D
+SP2,201516,20/03/16,Mallorca,Mirandes,1,1,D,1,1,D
+SP2,201516,20/03/16,Numancia,Cordoba,1,1,D,1,1,D
+SP2,201516,20/03/16,Ponferradina,Huesca,2,1,H,1,0,H
+SP2,201516,20/03/16,Tenerife,Zaragoza,0,0,D,0,0,D
+SP2,201516,26/03/16,Gimnastic,Numancia,1,0,H,0,0,D
+SP2,201516,26/03/16,Huesca,Ath Bilbao B,1,2,A,0,0,D
+SP2,201516,26/03/16,Leganes,Elche,0,0,D,0,0,D
+SP2,201516,26/03/16,Osasuna,Tenerife,0,0,D,0,0,D
+SP2,201516,26/03/16,Oviedo,Ponferradina,3,0,H,2,0,H
+SP2,201516,27/03/16,Almeria,Mallorca,1,1,D,0,0,D
+SP2,201516,27/03/16,Cordoba,Alaves,1,2,A,0,0,D
+SP2,201516,27/03/16,Llagostera,Alcorcon,4,0,H,3,0,H
+SP2,201516,27/03/16,Lugo,Albacete,2,1,H,1,0,H
+SP2,201516,27/03/16,Mirandes,Valladolid,4,1,H,2,0,H
+SP2,201516,27/03/16,Zaragoza,Girona,0,3,A,0,2,A
+SP2,201516,02/04/16,Alcorcon,Mirandes,1,0,H,0,0,D
+SP2,201516,02/04/16,Elche,Zaragoza,2,1,H,1,1,D
+SP2,201516,02/04/16,Mallorca,Leganes,3,0,H,0,0,D
+SP2,201516,02/04/16,Ponferradina,Llagostera,1,0,H,0,0,D
+SP2,201516,03/04/16,Albacete,Alaves,0,1,A,0,0,D
+SP2,201516,03/04/16,Gimnastic,Cordoba,4,4,D,2,3,A
+SP2,201516,03/04/16,Girona,Osasuna,0,0,D,0,0,D
+SP2,201516,03/04/16,Numancia,Huesca,3,2,H,1,1,D
+SP2,201516,03/04/16,Tenerife,Lugo,1,0,H,0,0,D
+SP2,201516,03/04/16,Valladolid,Almeria,1,1,D,0,0,D
+SP2,201516,04/04/16,Ath Bilbao B,Oviedo,2,1,H,1,1,D
+SP2,201516,09/04/16,Almeria,Alcorcon,1,1,D,1,1,D
+SP2,201516,09/04/16,Leganes,Valladolid,4,0,H,2,0,H
+SP2,201516,09/04/16,Llagostera,Ath Bilbao B,2,1,H,0,0,D
+SP2,201516,09/04/16,Lugo,Girona,1,1,D,1,1,D
+SP2,201516,09/04/16,Mirandes,Ponferradina,1,0,H,1,0,H
+SP2,201516,10/04/16,Alaves,Tenerife,2,2,D,1,1,D
+SP2,201516,10/04/16,Cordoba,Albacete,2,3,A,0,1,A
+SP2,201516,10/04/16,Huesca,Gimnastic,2,0,H,1,0,H
+SP2,201516,10/04/16,Osasuna,Elche,0,0,D,0,0,D
+SP2,201516,10/04/16,Oviedo,Numancia,1,0,H,0,0,D
+SP2,201516,10/04/16,Zaragoza,Mallorca,2,1,H,1,1,D
+SP2,201516,16/04/16,Ath Bilbao B,Mirandes,1,1,D,0,0,D
+SP2,201516,16/04/16,Elche,Lugo,2,0,H,1,0,H
+SP2,201516,16/04/16,Girona,Alaves,1,0,H,1,0,H
+SP2,201516,16/04/16,Numancia,Llagostera,1,1,D,0,0,D
+SP2,201516,16/04/16,Valladolid,Zaragoza,1,2,A,1,1,D
+SP2,201516,17/04/16,Alcorcon,Leganes,2,0,H,1,0,H
+SP2,201516,17/04/16,Gimnastic,Oviedo,0,0,D,0,0,D
+SP2,201516,17/04/16,Huesca,Cordoba,0,2,A,0,1,A
+SP2,201516,17/04/16,Mallorca,Osasuna,1,1,D,1,0,H
+SP2,201516,17/04/16,Ponferradina,Almeria,1,3,A,0,2,A
+SP2,201516,17/04/16,Tenerife,Albacete,1,0,H,0,0,D
+SP2,201516,23/04/16,Alaves,Elche,0,0,D,0,0,D
+SP2,201516,23/04/16,Albacete,Girona,0,3,A,0,1,A
+SP2,201516,23/04/16,Leganes,Ponferradina,3,0,H,1,0,H
+SP2,201516,23/04/16,Llagostera,Gimnastic,1,1,D,0,0,D
+SP2,201516,23/04/16,Oviedo,Huesca,0,1,A,0,0,D
+SP2,201516,24/04/16,Almeria,Ath Bilbao B,3,2,H,1,1,D
+SP2,201516,24/04/16,Cordoba,Tenerife,0,0,D,0,0,D
+SP2,201516,24/04/16,Lugo,Mallorca,2,1,H,1,0,H
+SP2,201516,24/04/16,Mirandes,Numancia,0,2,A,0,2,A
+SP2,201516,24/04/16,Osasuna,Valladolid,1,0,H,1,0,H
+SP2,201516,24/04/16,Zaragoza,Alcorcon,3,1,H,2,1,H
+SP2,201516,30/04/16,Alcorcon,Osasuna,0,1,A,0,1,A
+SP2,201516,30/04/16,Huesca,Llagostera,3,1,H,3,0,H
+SP2,201516,30/04/16,Mallorca,Alaves,0,0,D,0,0,D
+SP2,201516,30/04/16,Numancia,Almeria,2,0,H,1,0,H
+SP2,201516,01/05/16,Elche,Albacete,1,1,D,0,0,D
+SP2,201516,01/05/16,Gimnastic,Mirandes,3,2,H,0,1,A
+SP2,201516,01/05/16,Girona,Tenerife,1,0,H,0,0,D
+SP2,201516,01/05/16,Oviedo,Cordoba,1,0,H,1,0,H
+SP2,201516,01/05/16,Ponferradina,Zaragoza,1,1,D,0,0,D
+SP2,201516,01/05/16,Valladolid,Lugo,1,1,D,0,0,D
+SP2,201516,02/05/16,Ath Bilbao B,Leganes,1,2,A,1,0,H
+SP2,201516,07/05/16,Almeria,Gimnastic,1,2,A,1,1,D
+SP2,201516,07/05/16,Llagostera,Oviedo,2,0,H,1,0,H
+SP2,201516,07/05/16,Lugo,Alcorcon,1,2,A,1,1,D
+SP2,201516,07/05/16,Osasuna,Ponferradina,0,0,D,0,0,D
+SP2,201516,07/05/16,Tenerife,Elche,1,1,D,0,0,D
+SP2,201516,08/05/16,Alaves,Valladolid,2,1,H,0,0,D
+SP2,201516,08/05/16,Albacete,Mallorca,1,0,H,0,0,D
+SP2,201516,08/05/16,Cordoba,Girona,1,0,H,0,0,D
+SP2,201516,08/05/16,Leganes,Numancia,2,2,D,0,1,A
+SP2,201516,08/05/16,Mirandes,Huesca,1,0,H,1,0,H
+SP2,201516,08/05/16,Zaragoza,Ath Bilbao B,2,0,H,1,0,H
+SP2,201516,14/05/16,Mallorca,Tenerife,1,0,H,0,0,D
+SP2,201516,14/05/16,Numancia,Zaragoza,2,2,D,1,2,A
+SP2,201516,14/05/16,Oviedo,Mirandes,4,1,H,1,0,H
+SP2,201516,14/05/16,Valladolid,Albacete,1,0,H,1,0,H
+SP2,201516,15/05/16,Alcorcon,Alaves,0,1,A,0,0,D
+SP2,201516,15/05/16,Ath Bilbao B,Osasuna,0,0,D,0,0,D
+SP2,201516,15/05/16,Elche,Girona,1,1,D,0,1,A
+SP2,201516,15/05/16,Gimnastic,Leganes,0,0,D,0,0,D
+SP2,201516,15/05/16,Huesca,Almeria,2,1,H,0,1,A
+SP2,201516,15/05/16,Llagostera,Cordoba,1,0,H,1,0,H
+SP2,201516,15/05/16,Ponferradina,Lugo,2,1,H,1,0,H
+SP2,201516,21/05/16,Albacete,Alcorcon,0,2,A,0,0,D
+SP2,201516,21/05/16,Cordoba,Elche,3,1,H,1,0,H
+SP2,201516,21/05/16,Girona,Mallorca,1,0,H,0,0,D
+SP2,201516,21/05/16,Leganes,Huesca,2,3,A,1,1,D
+SP2,201516,21/05/16,Tenerife,Valladolid,3,1,H,2,0,H
+SP2,201516,22/05/16,Alaves,Ponferradina,2,0,H,2,0,H
+SP2,201516,22/05/16,Almeria,Oviedo,3,1,H,0,0,D
+SP2,201516,22/05/16,Lugo,Ath Bilbao B,2,0,H,1,0,H
+SP2,201516,22/05/16,Mirandes,Llagostera,0,0,D,0,0,D
+SP2,201516,22/05/16,Osasuna,Numancia,3,2,H,1,2,A
+SP2,201516,22/05/16,Zaragoza,Gimnastic,0,1,A,0,0,D
+SP2,201516,24/05/16,Alcorcon,Tenerife,2,1,H,1,0,H
+SP2,201516,24/05/16,Mallorca,Elche,2,1,H,1,0,H
+SP2,201516,24/05/16,Valladolid,Girona,0,0,D,0,0,D
+SP2,201516,25/05/16,Gimnastic,Osasuna,1,0,H,0,0,D
+SP2,201516,25/05/16,Llagostera,Almeria,0,0,D,0,0,D
+SP2,201516,25/05/16,Mirandes,Cordoba,0,3,A,0,0,D
+SP2,201516,25/05/16,Numancia,Lugo,1,0,H,1,0,H
+SP2,201516,25/05/16,Ponferradina,Albacete,2,1,H,0,0,D
+SP2,201516,26/05/16,Ath Bilbao B,Alaves,2,3,A,0,2,A
+SP2,201516,26/05/16,Huesca,Zaragoza,1,1,D,0,1,A
+SP2,201516,26/05/16,Oviedo,Leganes,0,1,A,0,0,D
+SP2,201516,29/05/16,Alaves,Numancia,2,0,H,2,0,H
+SP2,201516,29/05/16,Albacete,Ath Bilbao B,2,1,H,0,0,D
+SP2,201516,29/05/16,Almeria,Mirandes,2,1,H,1,0,H
+SP2,201516,29/05/16,Elche,Valladolid,2,2,D,1,1,D
+SP2,201516,29/05/16,Girona,Alcorcon,2,0,H,1,0,H
+SP2,201516,29/05/16,Leganes,Llagostera,2,0,H,1,0,H
+SP2,201516,29/05/16,Lugo,Gimnastic,0,3,A,0,2,A
+SP2,201516,29/05/16,Mallorca,Cordoba,0,1,A,0,1,A
+SP2,201516,29/05/16,Osasuna,Huesca,2,3,A,1,2,A
+SP2,201516,29/05/16,Tenerife,Ponferradina,1,1,D,0,0,D
+SP2,201516,29/05/16,Zaragoza,Oviedo,1,0,H,1,0,H
+SP2,201516,04/06/16,Alcorcon ,Elche,4,1,H,2,0,H
+SP2,201516,04/06/16,Ath Bilbao B ,Tenerife,2,0,H,1,0,H
+SP2,201516,04/06/16,Cordoba ,Almeria,1,1,D,0,1,A
+SP2,201516,04/06/16,Gimnastic ,Alaves,1,1,D,0,0,D
+SP2,201516,04/06/16,Huesca ,Lugo,1,0,H,0,0,D
+SP2,201516,04/06/16,Llagostera ,Zaragoza,6,2,H,2,0,H
+SP2,201516,04/06/16,Mirandes ,Leganes,0,1,A,0,0,D
+SP2,201516,04/06/16,Numancia ,Albacete,2,0,H,0,0,D
+SP2,201516,04/06/16,Oviedo ,Osasuna,0,5,A,0,1,A
+SP2,201516,04/06/16,Ponferradina ,Girona,0,1,A,0,0,D
+SP2,201516,04/06/16,Valladolid ,Mallorca,1,3,A,1,2,A
+E0,201617,13/08/16,Burnley,Swansea,0,1,A,0,0,D
+E0,201617,13/08/16,Crystal Palace,West Brom,0,1,A,0,0,D
+E0,201617,13/08/16,Everton,Tottenham,1,1,D,1,0,H
+E0,201617,13/08/16,Hull,Leicester,2,1,H,1,0,H
+E0,201617,13/08/16,Man City,Sunderland,2,1,H,1,0,H
+E0,201617,13/08/16,Middlesbrough,Stoke,1,1,D,1,0,H
+E0,201617,13/08/16,Southampton,Watford,1,1,D,0,1,A
+E0,201617,14/08/16,Arsenal,Liverpool,3,4,A,1,1,D
+E0,201617,14/08/16,Bournemouth,Man United,1,3,A,0,1,A
+E0,201617,15/08/16,Chelsea,West Ham,2,1,H,0,0,D
+E0,201617,19/08/16,Man United,Southampton,2,0,H,1,0,H
+E0,201617,20/08/16,Burnley,Liverpool,2,0,H,2,0,H
+E0,201617,20/08/16,Leicester,Arsenal,0,0,D,0,0,D
+E0,201617,20/08/16,Stoke,Man City,1,4,A,0,2,A
+E0,201617,20/08/16,Swansea,Hull,0,2,A,0,0,D
+E0,201617,20/08/16,Tottenham,Crystal Palace,1,0,H,0,0,D
+E0,201617,20/08/16,Watford,Chelsea,1,2,A,0,0,D
+E0,201617,20/08/16,West Brom,Everton,1,2,A,1,1,D
+E0,201617,21/08/16,Sunderland,Middlesbrough,1,2,A,0,2,A
+E0,201617,21/08/16,West Ham,Bournemouth,1,0,H,0,0,D
+E0,201617,27/08/16,Chelsea,Burnley,3,0,H,2,0,H
+E0,201617,27/08/16,Crystal Palace,Bournemouth,1,1,D,0,1,A
+E0,201617,27/08/16,Everton,Stoke,1,0,H,0,0,D
+E0,201617,27/08/16,Hull,Man United,0,1,A,0,0,D
+E0,201617,27/08/16,Leicester,Swansea,2,1,H,1,0,H
+E0,201617,27/08/16,Southampton,Sunderland,1,1,D,0,0,D
+E0,201617,27/08/16,Tottenham,Liverpool,1,1,D,0,1,A
+E0,201617,27/08/16,Watford,Arsenal,1,3,A,0,3,A
+E0,201617,28/08/16,Man City,West Ham,3,1,H,2,0,H
+E0,201617,28/08/16,West Brom,Middlesbrough,0,0,D,0,0,D
+E0,201617,10/09/16,Arsenal,Southampton,2,1,H,1,1,D
+E0,201617,10/09/16,Bournemouth,West Brom,1,0,H,0,0,D
+E0,201617,10/09/16,Burnley,Hull,1,1,D,0,0,D
+E0,201617,10/09/16,Liverpool,Leicester,4,1,H,2,1,H
+E0,201617,10/09/16,Man United,Man City,1,2,A,1,2,A
+E0,201617,10/09/16,Middlesbrough,Crystal Palace,1,2,A,1,1,D
+E0,201617,10/09/16,Stoke,Tottenham,0,4,A,0,1,A
+E0,201617,10/09/16,West Ham,Watford,2,4,A,2,2,D
+E0,201617,11/09/16,Swansea,Chelsea,2,2,D,0,1,A
+E0,201617,12/09/16,Sunderland,Everton,0,3,A,0,0,D
+E0,201617,16/09/16,Chelsea,Liverpool,1,2,A,0,2,A
+E0,201617,17/09/16,Everton,Middlesbrough,3,1,H,3,1,H
+E0,201617,17/09/16,Hull,Arsenal,1,4,A,0,1,A
+E0,201617,17/09/16,Leicester,Burnley,3,0,H,1,0,H
+E0,201617,17/09/16,Man City,Bournemouth,4,0,H,2,0,H
+E0,201617,17/09/16,West Brom,West Ham,4,2,H,3,0,H
+E0,201617,18/09/16,Crystal Palace,Stoke,4,1,H,2,0,H
+E0,201617,18/09/16,Southampton,Swansea,1,0,H,0,0,D
+E0,201617,18/09/16,Tottenham,Sunderland,1,0,H,0,0,D
+E0,201617,18/09/16,Watford,Man United,3,1,H,1,0,H
+E0,201617,24/09/16,Arsenal,Chelsea,3,0,H,3,0,H
+E0,201617,24/09/16,Bournemouth,Everton,1,0,H,1,0,H
+E0,201617,24/09/16,Liverpool,Hull,5,1,H,3,0,H
+E0,201617,24/09/16,Man United,Leicester,4,1,H,4,0,H
+E0,201617,24/09/16,Middlesbrough,Tottenham,1,2,A,0,2,A
+E0,201617,24/09/16,Stoke,West Brom,1,1,D,0,0,D
+E0,201617,24/09/16,Sunderland,Crystal Palace,2,3,A,1,0,H
+E0,201617,24/09/16,Swansea,Man City,1,3,A,1,1,D
+E0,201617,25/09/16,West Ham,Southampton,0,3,A,0,1,A
+E0,201617,26/09/16,Burnley,Watford,2,0,H,1,0,H
+E0,201617,30/09/16,Everton,Crystal Palace,1,1,D,1,0,H
+E0,201617,01/10/16,Hull,Chelsea,0,2,A,0,0,D
+E0,201617,01/10/16,Sunderland,West Brom,1,1,D,0,1,A
+E0,201617,01/10/16,Swansea,Liverpool,1,2,A,1,0,H
+E0,201617,01/10/16,Watford,Bournemouth,2,2,D,0,1,A
+E0,201617,01/10/16,West Ham,Middlesbrough,1,1,D,0,0,D
+E0,201617,02/10/16,Burnley,Arsenal,0,1,A,0,0,D
+E0,201617,02/10/16,Leicester,Southampton,0,0,D,0,0,D
+E0,201617,02/10/16,Man United,Stoke,1,1,D,0,0,D
+E0,201617,02/10/16,Tottenham,Man City,2,0,H,2,0,H
+E0,201617,15/10/16,Arsenal,Swansea,3,2,H,2,1,H
+E0,201617,15/10/16,Bournemouth,Hull,6,1,H,3,1,H
+E0,201617,15/10/16,Chelsea,Leicester,3,0,H,2,0,H
+E0,201617,15/10/16,Crystal Palace,West Ham,0,1,A,0,1,A
+E0,201617,15/10/16,Man City,Everton,1,1,D,0,0,D
+E0,201617,15/10/16,Stoke,Sunderland,2,0,H,2,0,H
+E0,201617,15/10/16,West Brom,Tottenham,1,1,D,0,0,D
+E0,201617,16/10/16,Middlesbrough,Watford,0,1,A,0,0,D
+E0,201617,16/10/16,Southampton,Burnley,3,1,H,0,0,D
+E0,201617,17/10/16,Liverpool,Man United,0,0,D,0,0,D
+E0,201617,22/10/16,Arsenal,Middlesbrough,0,0,D,0,0,D
+E0,201617,22/10/16,Bournemouth,Tottenham,0,0,D,0,0,D
+E0,201617,22/10/16,Burnley,Everton,2,1,H,1,0,H
+E0,201617,22/10/16,Hull,Stoke,0,2,A,0,1,A
+E0,201617,22/10/16,Leicester,Crystal Palace,3,1,H,1,0,H
+E0,201617,22/10/16,Liverpool,West Brom,2,1,H,2,0,H
+E0,201617,22/10/16,Swansea,Watford,0,0,D,0,0,D
+E0,201617,22/10/16,West Ham,Sunderland,1,0,H,0,0,D
+E0,201617,23/10/16,Chelsea,Man United,4,0,H,2,0,H
+E0,201617,23/10/16,Man City,Southampton,1,1,D,0,1,A
+E0,201617,29/10/16,Crystal Palace,Liverpool,2,4,A,2,3,A
+E0,201617,29/10/16,Man United,Burnley,0,0,D,0,0,D
+E0,201617,29/10/16,Middlesbrough,Bournemouth,2,0,H,1,0,H
+E0,201617,29/10/16,Sunderland,Arsenal,1,4,A,0,1,A
+E0,201617,29/10/16,Tottenham,Leicester,1,1,D,1,0,H
+E0,201617,29/10/16,Watford,Hull,1,0,H,0,0,D
+E0,201617,29/10/16,West Brom,Man City,0,4,A,0,2,A
+E0,201617,30/10/16,Everton,West Ham,2,0,H,0,0,D
+E0,201617,30/10/16,Southampton,Chelsea,0,2,A,0,1,A
+E0,201617,31/10/16,Stoke,Swansea,3,1,H,1,1,D
+E0,201617,05/11/16,Bournemouth,Sunderland,1,2,A,1,1,D
+E0,201617,05/11/16,Burnley,Crystal Palace,3,2,H,2,0,H
+E0,201617,05/11/16,Chelsea,Everton,5,0,H,3,0,H
+E0,201617,05/11/16,Man City,Middlesbrough,1,1,D,1,0,H
+E0,201617,05/11/16,West Ham,Stoke,1,1,D,0,0,D
+E0,201617,06/11/16,Arsenal,Tottenham,1,1,D,1,0,H
+E0,201617,06/11/16,Hull,Southampton,2,1,H,0,1,A
+E0,201617,06/11/16,Leicester,West Brom,1,2,A,0,0,D
+E0,201617,06/11/16,Liverpool,Watford,6,1,H,3,0,H
+E0,201617,06/11/16,Swansea,Man United,1,3,A,0,3,A
+E0,201617,19/11/16,Crystal Palace,Man City,1,2,A,0,1,A
+E0,201617,19/11/16,Everton,Swansea,1,1,D,0,1,A
+E0,201617,19/11/16,Man United,Arsenal,1,1,D,0,0,D
+E0,201617,19/11/16,Southampton,Liverpool,0,0,D,0,0,D
+E0,201617,19/11/16,Stoke,Bournemouth,0,1,A,0,1,A
+E0,201617,19/11/16,Sunderland,Hull,3,0,H,1,0,H
+E0,201617,19/11/16,Tottenham,West Ham,3,2,H,0,1,A
+E0,201617,19/11/16,Watford,Leicester,2,1,H,2,1,H
+E0,201617,20/11/16,Middlesbrough,Chelsea,0,1,A,0,1,A
+E0,201617,21/11/16,West Brom,Burnley,4,0,H,3,0,H
+E0,201617,26/11/16,Burnley,Man City,1,2,A,1,1,D
+E0,201617,26/11/16,Chelsea,Tottenham,2,1,H,1,1,D
+E0,201617,26/11/16,Hull,West Brom,1,1,D,0,1,A
+E0,201617,26/11/16,Leicester,Middlesbrough,2,2,D,1,1,D
+E0,201617,26/11/16,Liverpool,Sunderland,2,0,H,0,0,D
+E0,201617,26/11/16,Swansea,Crystal Palace,5,4,H,1,1,D
+E0,201617,27/11/16,Arsenal,Bournemouth,3,1,H,1,1,D
+E0,201617,27/11/16,Man United,West Ham,1,1,D,1,1,D
+E0,201617,27/11/16,Southampton,Everton,1,0,H,1,0,H
+E0,201617,27/11/16,Watford,Stoke,0,1,A,0,1,A
+E0,201617,03/12/16,Crystal Palace,Southampton,3,0,H,2,0,H
+E0,201617,03/12/16,Man City,Chelsea,1,3,A,1,0,H
+E0,201617,03/12/16,Stoke,Burnley,2,0,H,2,0,H
+E0,201617,03/12/16,Sunderland,Leicester,2,1,H,0,0,D
+E0,201617,03/12/16,Tottenham,Swansea,5,0,H,2,0,H
+E0,201617,03/12/16,West Brom,Watford,3,1,H,2,0,H
+E0,201617,03/12/16,West Ham,Arsenal,1,5,A,0,1,A
+E0,201617,04/12/16,Bournemouth,Liverpool,4,3,H,0,2,A
+E0,201617,04/12/16,Everton,Man United,1,1,D,0,1,A
+E0,201617,05/12/16,Middlesbrough,Hull,1,0,H,0,0,D
+E0,201617,10/12/16,Arsenal,Stoke,3,1,H,1,1,D
+E0,201617,10/12/16,Burnley,Bournemouth,3,2,H,2,1,H
+E0,201617,10/12/16,Hull,Crystal Palace,3,3,D,1,0,H
+E0,201617,10/12/16,Leicester,Man City,4,2,H,3,0,H
+E0,201617,10/12/16,Swansea,Sunderland,3,0,H,0,0,D
+E0,201617,10/12/16,Watford,Everton,3,2,H,1,1,D
+E0,201617,11/12/16,Chelsea,West Brom,1,0,H,0,0,D
+E0,201617,11/12/16,Liverpool,West Ham,2,2,D,1,2,A
+E0,201617,11/12/16,Man United,Tottenham,1,0,H,1,0,H
+E0,201617,11/12/16,Southampton,Middlesbrough,1,0,H,0,0,D
+E0,201617,13/12/16,Bournemouth,Leicester,1,0,H,1,0,H
+E0,201617,13/12/16,Everton,Arsenal,2,1,H,1,1,D
+E0,201617,14/12/16,Crystal Palace,Man United,1,2,A,0,1,A
+E0,201617,14/12/16,Man City,Watford,2,0,H,1,0,H
+E0,201617,14/12/16,Middlesbrough,Liverpool,0,3,A,0,1,A
+E0,201617,14/12/16,Stoke,Southampton,0,0,D,0,0,D
+E0,201617,14/12/16,Sunderland,Chelsea,0,1,A,0,1,A
+E0,201617,14/12/16,Tottenham,Hull,3,0,H,1,0,H
+E0,201617,14/12/16,West Brom,Swansea,3,1,H,0,0,D
+E0,201617,14/12/16,West Ham,Burnley,1,0,H,1,0,H
+E0,201617,17/12/16,Crystal Palace,Chelsea,0,1,A,0,1,A
+E0,201617,17/12/16,Middlesbrough,Swansea,3,0,H,2,0,H
+E0,201617,17/12/16,Stoke,Leicester,2,2,D,2,0,H
+E0,201617,17/12/16,Sunderland,Watford,1,0,H,0,0,D
+E0,201617,17/12/16,West Brom,Man United,0,2,A,0,1,A
+E0,201617,17/12/16,West Ham,Hull,1,0,H,0,0,D
+E0,201617,18/12/16,Bournemouth,Southampton,1,3,A,1,1,D
+E0,201617,18/12/16,Man City,Arsenal,2,1,H,0,1,A
+E0,201617,18/12/16,Tottenham,Burnley,2,1,H,1,1,D
+E0,201617,19/12/16,Everton,Liverpool,0,1,A,0,0,D
+E0,201617,26/12/16,Arsenal,West Brom,1,0,H,0,0,D
+E0,201617,26/12/16,Burnley,Middlesbrough,1,0,H,0,0,D
+E0,201617,26/12/16,Chelsea,Bournemouth,3,0,H,1,0,H
+E0,201617,26/12/16,Hull,Man City,0,3,A,0,0,D
+E0,201617,26/12/16,Leicester,Everton,0,2,A,0,0,D
+E0,201617,26/12/16,Man United,Sunderland,3,1,H,1,0,H
+E0,201617,26/12/16,Swansea,West Ham,1,4,A,0,1,A
+E0,201617,26/12/16,Watford,Crystal Palace,1,1,D,0,1,A
+E0,201617,27/12/16,Liverpool,Stoke,4,1,H,2,1,H
+E0,201617,28/12/16,Southampton,Tottenham,1,4,A,1,1,D
+E0,201617,30/12/16,Hull,Everton,2,2,D,1,1,D
+E0,201617,31/12/16,Burnley,Sunderland,4,1,H,1,0,H
+E0,201617,31/12/16,Chelsea,Stoke,4,2,H,1,0,H
+E0,201617,31/12/16,Leicester,West Ham,1,0,H,1,0,H
+E0,201617,31/12/16,Liverpool,Man City,1,0,H,1,0,H
+E0,201617,31/12/16,Man United,Middlesbrough,2,1,H,0,0,D
+E0,201617,31/12/16,Southampton,West Brom,1,2,A,1,1,D
+E0,201617,31/12/16,Swansea,Bournemouth,0,3,A,0,2,A
+E0,201617,01/01/17,Arsenal,Crystal Palace,2,0,H,1,0,H
+E0,201617,01/01/17,Watford,Tottenham,1,4,A,0,3,A
+E0,201617,02/01/17,Everton,Southampton,3,0,H,0,0,D
+E0,201617,02/01/17,Man City,Burnley,2,1,H,0,0,D
+E0,201617,02/01/17,Middlesbrough,Leicester,0,0,D,0,0,D
+E0,201617,02/01/17,Sunderland,Liverpool,2,2,D,1,1,D
+E0,201617,02/01/17,West Brom,Hull,3,1,H,0,1,A
+E0,201617,02/01/17,West Ham,Man United,0,2,A,0,0,D
+E0,201617,03/01/17,Bournemouth,Arsenal,3,3,D,2,0,H
+E0,201617,03/01/17,Crystal Palace,Swansea,1,2,A,0,1,A
+E0,201617,03/01/17,Stoke,Watford,2,0,H,1,0,H
+E0,201617,04/01/17,Tottenham,Chelsea,2,0,H,1,0,H
+E0,201617,14/01/17,Burnley,Southampton,1,0,H,0,0,D
+E0,201617,14/01/17,Hull,Bournemouth,3,1,H,1,1,D
+E0,201617,14/01/17,Leicester,Chelsea,0,3,A,0,1,A
+E0,201617,14/01/17,Sunderland,Stoke,1,3,A,1,3,A
+E0,201617,14/01/17,Swansea,Arsenal,0,4,A,0,1,A
+E0,201617,14/01/17,Tottenham,West Brom,4,0,H,2,0,H
+E0,201617,14/01/17,Watford,Middlesbrough,0,0,D,0,0,D
+E0,201617,14/01/17,West Ham,Crystal Palace,3,0,H,0,0,D
+E0,201617,15/01/17,Everton,Man City,4,0,H,1,0,H
+E0,201617,15/01/17,Man United,Liverpool,1,1,D,0,1,A
+E0,201617,21/01/17,Bournemouth,Watford,2,2,D,0,1,A
+E0,201617,21/01/17,Crystal Palace,Everton,0,1,A,0,0,D
+E0,201617,21/01/17,Liverpool,Swansea,2,3,A,0,0,D
+E0,201617,21/01/17,Man City,Tottenham,2,2,D,0,0,D
+E0,201617,21/01/17,Middlesbrough,West Ham,1,3,A,1,2,A
+E0,201617,21/01/17,Stoke,Man United,1,1,D,1,0,H
+E0,201617,21/01/17,West Brom,Sunderland,2,0,H,2,0,H
+E0,201617,22/01/17,Arsenal,Burnley,2,1,H,0,0,D
+E0,201617,22/01/17,Chelsea,Hull,2,0,H,1,0,H
+E0,201617,22/01/17,Southampton,Leicester,3,0,H,2,0,H
+E0,201617,31/01/17,Arsenal,Watford,1,2,A,0,2,A
+E0,201617,31/01/17,Bournemouth,Crystal Palace,0,2,A,0,0,D
+E0,201617,31/01/17,Burnley,Leicester,1,0,H,0,0,D
+E0,201617,31/01/17,Liverpool,Chelsea,1,1,D,0,1,A
+E0,201617,31/01/17,Middlesbrough,West Brom,1,1,D,1,1,D
+E0,201617,31/01/17,Sunderland,Tottenham,0,0,D,0,0,D
+E0,201617,31/01/17,Swansea,Southampton,2,1,H,1,0,H
+E0,201617,01/02/17,Man United,Hull,0,0,D,0,0,D
+E0,201617,01/02/17,Stoke,Everton,1,1,D,1,1,D
+E0,201617,01/02/17,West Ham,Man City,0,4,A,0,3,A
+E0,201617,04/02/17,Chelsea,Arsenal,3,1,H,1,0,H
+E0,201617,04/02/17,Crystal Palace,Sunderland,0,4,A,0,4,A
+E0,201617,04/02/17,Everton,Bournemouth,6,3,H,3,0,H
+E0,201617,04/02/17,Hull,Liverpool,2,0,H,1,0,H
+E0,201617,04/02/17,Southampton,West Ham,1,3,A,1,2,A
+E0,201617,04/02/17,Tottenham,Middlesbrough,1,0,H,0,0,D
+E0,201617,04/02/17,Watford,Burnley,2,1,H,2,0,H
+E0,201617,04/02/17,West Brom,Stoke,1,0,H,1,0,H
+E0,201617,05/02/17,Leicester,Man United,0,3,A,0,2,A
+E0,201617,05/02/17,Man City,Swansea,2,1,H,1,0,H
+E0,201617,11/02/17,Arsenal,Hull,2,0,H,1,0,H
+E0,201617,11/02/17,Liverpool,Tottenham,2,0,H,2,0,H
+E0,201617,11/02/17,Man United,Watford,2,0,H,1,0,H
+E0,201617,11/02/17,Middlesbrough,Everton,0,0,D,0,0,D
+E0,201617,11/02/17,Stoke,Crystal Palace,1,0,H,0,0,D
+E0,201617,11/02/17,Sunderland,Southampton,0,4,A,0,2,A
+E0,201617,11/02/17,West Ham,West Brom,2,2,D,0,1,A
+E0,201617,12/02/17,Burnley,Chelsea,1,1,D,1,1,D
+E0,201617,12/02/17,Swansea,Leicester,2,0,H,2,0,H
+E0,201617,13/02/17,Bournemouth,Man City,0,2,A,0,1,A
+E0,201617,25/02/17,Chelsea,Swansea,3,1,H,1,1,D
+E0,201617,25/02/17,Crystal Palace,Middlesbrough,1,0,H,1,0,H
+E0,201617,25/02/17,Everton,Sunderland,2,0,H,1,0,H
+E0,201617,25/02/17,Hull,Burnley,1,1,D,0,0,D
+E0,201617,25/02/17,Watford,West Ham,1,1,D,1,0,H
+E0,201617,25/02/17,West Brom,Bournemouth,2,1,H,2,1,H
+E0,201617,26/02/17,Tottenham,Stoke,4,0,H,4,0,H
+E0,201617,27/02/17,Leicester,Liverpool,3,1,H,2,0,H
+E0,201617,04/03/17,Leicester,Hull,3,1,H,1,1,D
+E0,201617,04/03/17,Liverpool,Arsenal,3,1,H,2,0,H
+E0,201617,04/03/17,Man United,Bournemouth,1,1,D,1,1,D
+E0,201617,04/03/17,Stoke,Middlesbrough,2,0,H,2,0,H
+E0,201617,04/03/17,Swansea,Burnley,3,2,H,1,1,D
+E0,201617,04/03/17,Watford,Southampton,3,4,A,1,2,A
+E0,201617,04/03/17,West Brom,Crystal Palace,0,2,A,0,0,D
+E0,201617,05/03/17,Sunderland,Man City,0,2,A,0,1,A
+E0,201617,05/03/17,Tottenham,Everton,3,2,H,1,0,H
+E0,201617,06/03/17,West Ham,Chelsea,1,2,A,0,1,A
+E0,201617,08/03/17,Man City,Stoke,0,0,D,0,0,D
+E0,201617,11/03/17,Bournemouth,West Ham,3,2,H,1,1,D
+E0,201617,11/03/17,Everton,West Brom,3,0,H,2,0,H
+E0,201617,11/03/17,Hull,Swansea,2,1,H,0,0,D
+E0,201617,12/03/17,Liverpool,Burnley,2,1,H,1,1,D
+E0,201617,18/03/17,Bournemouth,Swansea,2,0,H,1,0,H
+E0,201617,18/03/17,Crystal Palace,Watford,1,0,H,0,0,D
+E0,201617,18/03/17,Everton,Hull,4,0,H,1,0,H
+E0,201617,18/03/17,Stoke,Chelsea,1,2,A,1,1,D
+E0,201617,18/03/17,Sunderland,Burnley,0,0,D,0,0,D
+E0,201617,18/03/17,West Brom,Arsenal,3,1,H,1,1,D
+E0,201617,18/03/17,West Ham,Leicester,2,3,A,1,3,A
+E0,201617,19/03/17,Man City,Liverpool,1,1,D,0,0,D
+E0,201617,19/03/17,Middlesbrough,Man United,1,3,A,0,1,A
+E0,201617,19/03/17,Tottenham,Southampton,2,1,H,2,0,H
+E0,201617,01/04/17,Burnley,Tottenham,0,2,A,0,0,D
+E0,201617,01/04/17,Chelsea,Crystal Palace,1,2,A,1,2,A
+E0,201617,01/04/17,Hull,West Ham,2,1,H,0,1,A
+E0,201617,01/04/17,Leicester,Stoke,2,0,H,1,0,H
+E0,201617,01/04/17,Liverpool,Everton,3,1,H,2,1,H
+E0,201617,01/04/17,Man United,West Brom,0,0,D,0,0,D
+E0,201617,01/04/17,Southampton,Bournemouth,0,0,D,0,0,D
+E0,201617,01/04/17,Watford,Sunderland,1,0,H,0,0,D
+E0,201617,02/04/17,Arsenal,Man City,2,2,D,1,2,A
+E0,201617,02/04/17,Swansea,Middlesbrough,0,0,D,0,0,D
+E0,201617,04/04/17,Burnley,Stoke,1,0,H,0,0,D
+E0,201617,04/04/17,Leicester,Sunderland,2,0,H,0,0,D
+E0,201617,04/04/17,Man United,Everton,1,1,D,0,1,A
+E0,201617,04/04/17,Watford,West Brom,2,0,H,1,0,H
+E0,201617,05/04/17,Arsenal,West Ham,3,0,H,0,0,D
+E0,201617,05/04/17,Chelsea,Man City,2,1,H,2,1,H
+E0,201617,05/04/17,Hull,Middlesbrough,4,2,H,3,2,H
+E0,201617,05/04/17,Liverpool,Bournemouth,2,2,D,1,1,D
+E0,201617,05/04/17,Southampton,Crystal Palace,3,1,H,1,1,D
+E0,201617,05/04/17,Swansea,Tottenham,1,3,A,1,0,H
+E0,201617,08/04/17,Bournemouth,Chelsea,1,3,A,1,2,A
+E0,201617,08/04/17,Man City,Hull,3,1,H,1,0,H
+E0,201617,08/04/17,Middlesbrough,Burnley,0,0,D,0,0,D
+E0,201617,08/04/17,Stoke,Liverpool,1,2,A,1,0,H
+E0,201617,08/04/17,Tottenham,Watford,4,0,H,3,0,H
+E0,201617,08/04/17,West Brom,Southampton,0,1,A,0,1,A
+E0,201617,08/04/17,West Ham,Swansea,1,0,H,1,0,H
+E0,201617,09/04/17,Everton,Leicester,4,2,H,3,2,H
+E0,201617,09/04/17,Sunderland,Man United,0,3,A,0,1,A
+E0,201617,10/04/17,Crystal Palace,Arsenal,3,0,H,1,0,H
+E0,201617,15/04/17,Crystal Palace,Leicester,2,2,D,0,1,A
+E0,201617,15/04/17,Everton,Burnley,3,1,H,0,0,D
+E0,201617,15/04/17,Southampton,Man City,0,3,A,0,0,D
+E0,201617,15/04/17,Stoke,Hull,3,1,H,1,0,H
+E0,201617,15/04/17,Sunderland,West Ham,2,2,D,1,1,D
+E0,201617,15/04/17,Tottenham,Bournemouth,4,0,H,2,0,H
+E0,201617,15/04/17,Watford,Swansea,1,0,H,1,0,H
+E0,201617,16/04/17,Man United,Chelsea,2,0,H,1,0,H
+E0,201617,16/04/17,West Brom,Liverpool,0,1,A,0,1,A
+E0,201617,17/04/17,Middlesbrough,Arsenal,1,2,A,0,1,A
+E0,201617,22/04/17,Bournemouth,Middlesbrough,4,0,H,2,0,H
+E0,201617,22/04/17,Hull,Watford,2,0,H,0,0,D
+E0,201617,22/04/17,Swansea,Stoke,2,0,H,1,0,H
+E0,201617,22/04/17,West Ham,Everton,0,0,D,0,0,D
+E0,201617,23/04/17,Burnley,Man United,0,2,A,0,2,A
+E0,201617,23/04/17,Liverpool,Crystal Palace,1,2,A,1,1,D
+E0,201617,25/04/17,Chelsea,Southampton,4,2,H,2,1,H
+E0,201617,26/04/17,Arsenal,Leicester,1,0,H,0,0,D
+E0,201617,26/04/17,Crystal Palace,Tottenham,0,1,A,0,0,D
+E0,201617,26/04/17,Middlesbrough,Sunderland,1,0,H,1,0,H
+E0,201617,27/04/17,Man City,Man United,0,0,D,0,0,D
+E0,201617,29/04/17,Crystal Palace,Burnley,0,2,A,0,1,A
+E0,201617,29/04/17,Southampton,Hull,0,0,D,0,0,D
+E0,201617,29/04/17,Stoke,West Ham,0,0,D,0,0,D
+E0,201617,29/04/17,Sunderland,Bournemouth,0,1,A,0,0,D
+E0,201617,29/04/17,West Brom,Leicester,0,1,A,0,1,A
+E0,201617,30/04/17,Everton,Chelsea,0,3,A,0,0,D
+E0,201617,30/04/17,Man United,Swansea,1,1,D,1,0,H
+E0,201617,30/04/17,Middlesbrough,Man City,2,2,D,1,0,H
+E0,201617,30/04/17,Tottenham,Arsenal,2,0,H,0,0,D
+E0,201617,01/05/17,Watford,Liverpool,0,1,A,0,1,A
+E0,201617,05/05/17,West Ham,Tottenham,1,0,H,0,0,D
+E0,201617,06/05/17,Bournemouth,Stoke,2,2,D,0,1,A
+E0,201617,06/05/17,Burnley,West Brom,2,2,D,0,0,D
+E0,201617,06/05/17,Hull,Sunderland,0,2,A,0,0,D
+E0,201617,06/05/17,Leicester,Watford,3,0,H,1,0,H
+E0,201617,06/05/17,Man City,Crystal Palace,5,0,H,1,0,H
+E0,201617,06/05/17,Swansea,Everton,1,0,H,1,0,H
+E0,201617,07/05/17,Arsenal,Man United,2,0,H,0,0,D
+E0,201617,07/05/17,Liverpool,Southampton,0,0,D,0,0,D
+E0,201617,08/05/17,Chelsea,Middlesbrough,3,0,H,2,0,H
+E0,201617,10/05/17,Southampton,Arsenal,0,2,A,0,0,D
+E0,201617,12/05/17,Everton,Watford,1,0,H,0,0,D
+E0,201617,12/05/17,West Brom,Chelsea,0,1,A,0,0,D
+E0,201617,13/05/17,Bournemouth,Burnley,2,1,H,1,0,H
+E0,201617,13/05/17,Man City,Leicester,2,1,H,2,1,H
+E0,201617,13/05/17,Middlesbrough,Southampton,1,2,A,0,1,A
+E0,201617,13/05/17,Stoke,Arsenal,1,4,A,0,1,A
+E0,201617,13/05/17,Sunderland,Swansea,0,2,A,0,2,A
+E0,201617,14/05/17,Crystal Palace,Hull,4,0,H,2,0,H
+E0,201617,14/05/17,Tottenham,Man United,2,1,H,1,0,H
+E0,201617,14/05/17,West Ham,Liverpool,0,4,A,0,1,A
+E0,201617,15/05/17,Chelsea,Watford,4,3,H,2,1,H
+E0,201617,16/05/17,Arsenal,Sunderland,2,0,H,0,0,D
+E0,201617,16/05/17,Man City,West Brom,3,1,H,2,0,H
+E0,201617,17/05/17,Southampton,Man United,0,0,D,0,0,D
+E0,201617,18/05/17,Leicester,Tottenham,1,6,A,0,2,A
+E0,201617,21/05/17,Arsenal,Everton,3,1,H,2,0,H
+E0,201617,21/05/17,Burnley,West Ham,1,2,A,1,1,D
+E0,201617,21/05/17,Chelsea,Sunderland,5,1,H,1,1,D
+E0,201617,21/05/17,Hull,Tottenham,1,7,A,0,3,A
+E0,201617,21/05/17,Leicester,Bournemouth,1,1,D,0,1,A
+E0,201617,21/05/17,Liverpool,Middlesbrough,3,0,H,1,0,H
+E0,201617,21/05/17,Man United,Crystal Palace,2,0,H,2,0,H
+E0,201617,21/05/17,Southampton,Stoke,0,1,A,0,0,D
+E0,201617,21/05/17,Swansea,West Brom,2,1,H,0,1,A
+E0,201617,21/05/17,Watford,Man City,0,5,A,0,4,A
+D1,201617,26/08/16,Bayern Munich,Werder Bremen,6,0,H,2,0,H
+D1,201617,27/08/16,Augsburg,Wolfsburg,0,2,A,0,1,A
+D1,201617,27/08/16,Dortmund,Mainz,2,1,H,1,0,H
+D1,201617,27/08/16,Ein Frankfurt,Schalke 04,1,0,H,1,0,H
+D1,201617,27/08/16,FC Koln,Darmstadt,2,0,H,1,0,H
+D1,201617,27/08/16,Hamburg,Ingolstadt,1,1,D,1,0,H
+D1,201617,27/08/16,M'gladbach,Leverkusen,2,1,H,1,0,H
+D1,201617,28/08/16,Hertha,Freiburg,2,1,H,0,0,D
+D1,201617,28/08/16,Hoffenheim,RB Leipzig,2,2,D,0,0,D
+D1,201617,09/09/16,Schalke 04,Bayern Munich,0,2,A,0,0,D
+D1,201617,10/09/16,Darmstadt,Ein Frankfurt,1,0,H,0,0,D
+D1,201617,10/09/16,Freiburg,M'gladbach,3,1,H,0,1,A
+D1,201617,10/09/16,Ingolstadt,Hertha,0,2,A,0,1,A
+D1,201617,10/09/16,Leverkusen,Hamburg,3,1,H,0,0,D
+D1,201617,10/09/16,RB Leipzig,Dortmund,1,0,H,0,0,D
+D1,201617,10/09/16,Wolfsburg,FC Koln,0,0,D,0,0,D
+D1,201617,11/09/16,Mainz,Hoffenheim,4,4,D,4,1,H
+D1,201617,11/09/16,Werder Bremen,Augsburg,1,2,A,1,0,H
+D1,201617,16/09/16,FC Koln,Freiburg,3,0,H,3,0,H
+D1,201617,17/09/16,Bayern Munich,Ingolstadt,3,1,H,1,1,D
+D1,201617,17/09/16,Dortmund,Darmstadt,6,0,H,1,0,H
+D1,201617,17/09/16,Ein Frankfurt,Leverkusen,2,1,H,0,0,D
+D1,201617,17/09/16,Hamburg,RB Leipzig,0,4,A,0,0,D
+D1,201617,17/09/16,Hoffenheim,Wolfsburg,0,0,D,0,0,D
+D1,201617,17/09/16,M'gladbach,Werder Bremen,4,1,H,4,0,H
+D1,201617,18/09/16,Augsburg,Mainz,1,3,A,0,1,A
+D1,201617,18/09/16,Hertha,Schalke 04,2,0,H,0,0,D
+D1,201617,20/09/16,Darmstadt,Hoffenheim,1,1,D,0,0,D
+D1,201617,20/09/16,Freiburg,Hamburg,1,0,H,0,0,D
+D1,201617,20/09/16,Ingolstadt,Ein Frankfurt,0,2,A,0,1,A
+D1,201617,20/09/16,Wolfsburg,Dortmund,1,5,A,0,2,A
+D1,201617,21/09/16,Bayern Munich,Hertha,3,0,H,1,0,H
+D1,201617,21/09/16,Leverkusen,Augsburg,0,0,D,0,0,D
+D1,201617,21/09/16,RB Leipzig,M'gladbach,1,1,D,1,0,H
+D1,201617,21/09/16,Schalke 04,FC Koln,1,3,A,1,1,D
+D1,201617,21/09/16,Werder Bremen,Mainz,1,2,A,1,0,H
+D1,201617,23/09/16,Dortmund,Freiburg,3,1,H,1,0,H
+D1,201617,24/09/16,Augsburg,Darmstadt,1,0,H,0,0,D
+D1,201617,24/09/16,Ein Frankfurt,Hertha,3,3,D,2,1,H
+D1,201617,24/09/16,Hamburg,Bayern Munich,0,1,A,0,0,D
+D1,201617,24/09/16,Mainz,Leverkusen,2,3,A,2,1,H
+D1,201617,24/09/16,M'gladbach,Ingolstadt,2,0,H,1,0,H
+D1,201617,24/09/16,Werder Bremen,Wolfsburg,2,1,H,0,0,D
+D1,201617,25/09/16,FC Koln,RB Leipzig,1,1,D,1,1,D
+D1,201617,25/09/16,Hoffenheim,Schalke 04,2,1,H,2,1,H
+D1,201617,30/09/16,RB Leipzig,Augsburg,2,1,H,1,1,D
+D1,201617,01/10/16,Bayern Munich,FC Koln,1,1,D,1,0,H
+D1,201617,01/10/16,Darmstadt,Werder Bremen,2,2,D,1,0,H
+D1,201617,01/10/16,Freiburg,Ein Frankfurt,1,0,H,1,0,H
+D1,201617,01/10/16,Hertha,Hamburg,2,0,H,1,0,H
+D1,201617,01/10/16,Ingolstadt,Hoffenheim,1,2,A,0,2,A
+D1,201617,01/10/16,Leverkusen,Dortmund,2,0,H,1,0,H
+D1,201617,02/10/16,Schalke 04,M'gladbach,4,0,H,0,0,D
+D1,201617,02/10/16,Wolfsburg,Mainz,0,0,D,0,0,D
+D1,201617,14/10/16,Dortmund,Hertha,1,1,D,0,0,D
+D1,201617,15/10/16,Augsburg,Schalke 04,1,1,D,0,0,D
+D1,201617,15/10/16,Ein Frankfurt,Bayern Munich,2,2,D,1,1,D
+D1,201617,15/10/16,FC Koln,Ingolstadt,2,1,H,2,0,H
+D1,201617,15/10/16,Hoffenheim,Freiburg,2,1,H,1,0,H
+D1,201617,15/10/16,M'gladbach,Hamburg,0,0,D,0,0,D
+D1,201617,15/10/16,Werder Bremen,Leverkusen,2,1,H,1,1,D
+D1,201617,16/10/16,Mainz,Darmstadt,2,1,H,1,0,H
+D1,201617,16/10/16,Wolfsburg,RB Leipzig,0,1,A,0,0,D
+D1,201617,21/10/16,Hamburg,Ein Frankfurt,0,3,A,0,1,A
+D1,201617,22/10/16,Bayern Munich,M'gladbach,2,0,H,2,0,H
+D1,201617,22/10/16,Darmstadt,Wolfsburg,3,1,H,1,0,H
+D1,201617,22/10/16,Freiburg,Augsburg,2,1,H,0,0,D
+D1,201617,22/10/16,Hertha,FC Koln,2,1,H,1,0,H
+D1,201617,22/10/16,Ingolstadt,Dortmund,3,3,D,2,0,H
+D1,201617,22/10/16,Leverkusen,Hoffenheim,0,3,A,0,1,A
+D1,201617,23/10/16,RB Leipzig,Werder Bremen,3,1,H,1,0,H
+D1,201617,23/10/16,Schalke 04,Mainz,3,0,H,1,0,H
+D1,201617,28/10/16,M'gladbach,Ein Frankfurt,0,0,D,0,0,D
+D1,201617,29/10/16,Augsburg,Bayern Munich,1,3,A,0,2,A
+D1,201617,29/10/16,Darmstadt,RB Leipzig,0,2,A,0,0,D
+D1,201617,29/10/16,Dortmund,Schalke 04,0,0,D,0,0,D
+D1,201617,29/10/16,Mainz,Ingolstadt,2,0,H,0,0,D
+D1,201617,29/10/16,Werder Bremen,Freiburg,1,3,A,0,2,A
+D1,201617,29/10/16,Wolfsburg,Leverkusen,1,2,A,1,0,H
+D1,201617,30/10/16,FC Koln,Hamburg,3,0,H,0,0,D
+D1,201617,30/10/16,Hoffenheim,Hertha,1,0,H,1,0,H
+D1,201617,04/11/16,Hertha,M'gladbach,3,0,H,2,0,H
+D1,201617,05/11/16,Bayern Munich,Hoffenheim,1,1,D,1,1,D
+D1,201617,05/11/16,Ein Frankfurt,FC Koln,1,0,H,1,0,H
+D1,201617,05/11/16,Freiburg,Wolfsburg,0,3,A,0,1,A
+D1,201617,05/11/16,Hamburg,Dortmund,2,5,A,0,3,A
+D1,201617,05/11/16,Ingolstadt,Augsburg,0,2,A,0,0,D
+D1,201617,05/11/16,Leverkusen,Darmstadt,3,2,H,1,0,H
+D1,201617,06/11/16,RB Leipzig,Mainz,3,1,H,3,0,H
+D1,201617,06/11/16,Schalke 04,Werder Bremen,3,1,H,2,1,H
+D1,201617,18/11/16,Leverkusen,RB Leipzig,2,3,A,2,1,H
+D1,201617,19/11/16,Augsburg,Hertha,0,0,D,0,0,D
+D1,201617,19/11/16,Darmstadt,Ingolstadt,0,1,A,0,0,D
+D1,201617,19/11/16,Dortmund,Bayern Munich,1,0,H,1,0,H
+D1,201617,19/11/16,Mainz,Freiburg,4,2,H,2,0,H
+D1,201617,19/11/16,M'gladbach,FC Koln,1,2,A,1,0,H
+D1,201617,19/11/16,Wolfsburg,Schalke 04,0,1,A,0,0,D
+D1,201617,20/11/16,Hoffenheim,Hamburg,2,2,D,1,1,D
+D1,201617,20/11/16,Werder Bremen,Ein Frankfurt,1,2,A,1,0,H
+D1,201617,25/11/16,Freiburg,RB Leipzig,1,4,A,1,3,A
+D1,201617,26/11/16,Bayern Munich,Leverkusen,2,1,H,1,1,D
+D1,201617,26/11/16,Ein Frankfurt,Dortmund,2,1,H,0,0,D
+D1,201617,26/11/16,FC Koln,Augsburg,0,0,D,0,0,D
+D1,201617,26/11/16,Hamburg,Werder Bremen,2,2,D,2,2,D
+D1,201617,26/11/16,Ingolstadt,Wolfsburg,1,1,D,1,0,H
+D1,201617,26/11/16,M'gladbach,Hoffenheim,1,1,D,1,0,H
+D1,201617,27/11/16,Hertha,Mainz,2,1,H,1,1,D
+D1,201617,27/11/16,Schalke 04,Darmstadt,3,1,H,1,1,D
+D1,201617,02/12/16,Mainz,Bayern Munich,1,3,A,1,2,A
+D1,201617,03/12/16,Dortmund,M'gladbach,4,1,H,2,1,H
+D1,201617,03/12/16,Hoffenheim,FC Koln,4,0,H,2,0,H
+D1,201617,03/12/16,Leverkusen,Freiburg,1,1,D,0,1,A
+D1,201617,03/12/16,RB Leipzig,Schalke 04,2,1,H,1,1,D
+D1,201617,03/12/16,Werder Bremen,Ingolstadt,2,1,H,1,0,H
+D1,201617,03/12/16,Wolfsburg,Hertha,2,3,A,2,1,H
+D1,201617,04/12/16,Augsburg,Ein Frankfurt,1,1,D,1,1,D
+D1,201617,04/12/16,Darmstadt,Hamburg,0,2,A,0,1,A
+D1,201617,09/12/16,Ein Frankfurt,Hoffenheim,0,0,D,0,0,D
+D1,201617,10/12/16,Bayern Munich,Wolfsburg,5,0,H,2,0,H
+D1,201617,10/12/16,FC Koln,Dortmund,1,1,D,1,0,H
+D1,201617,10/12/16,Freiburg,Darmstadt,1,0,H,0,0,D
+D1,201617,10/12/16,Hamburg,Augsburg,1,0,H,0,0,D
+D1,201617,10/12/16,Hertha,Werder Bremen,0,1,A,0,1,A
+D1,201617,10/12/16,Ingolstadt,RB Leipzig,1,0,H,1,0,H
+D1,201617,11/12/16,M'gladbach,Mainz,1,0,H,0,0,D
+D1,201617,11/12/16,Schalke 04,Leverkusen,0,1,A,0,0,D
+D1,201617,16/12/16,Hoffenheim,Dortmund,2,2,D,2,1,H
+D1,201617,17/12/16,Augsburg,M'gladbach,1,0,H,0,0,D
+D1,201617,17/12/16,Mainz,Hamburg,3,1,H,1,1,D
+D1,201617,17/12/16,RB Leipzig,Hertha,2,0,H,1,0,H
+D1,201617,17/12/16,Schalke 04,Freiburg,1,1,D,0,0,D
+D1,201617,17/12/16,Werder Bremen,FC Koln,1,1,D,1,1,D
+D1,201617,17/12/16,Wolfsburg,Ein Frankfurt,1,0,H,1,0,H
+D1,201617,18/12/16,Darmstadt,Bayern Munich,0,1,A,0,0,D
+D1,201617,18/12/16,Leverkusen,Ingolstadt,1,2,A,0,1,A
+D1,201617,20/12/16,Dortmund,Augsburg,1,1,D,0,1,A
+D1,201617,20/12/16,Ein Frankfurt,Mainz,3,0,H,1,0,H
+D1,201617,20/12/16,Hamburg,Schalke 04,2,1,H,0,0,D
+D1,201617,20/12/16,M'gladbach,Wolfsburg,1,2,A,0,1,A
+D1,201617,21/12/16,Bayern Munich,RB Leipzig,3,0,H,3,0,H
+D1,201617,21/12/16,FC Koln,Leverkusen,1,1,D,1,1,D
+D1,201617,21/12/16,Hertha,Darmstadt,2,0,H,0,0,D
+D1,201617,21/12/16,Hoffenheim,Werder Bremen,1,1,D,1,0,H
+D1,201617,21/12/16,Ingolstadt,Freiburg,1,2,A,0,2,A
+D1,201617,20/01/17,Freiburg,Bayern Munich,1,2,A,1,1,D
+D1,201617,21/01/17,Augsburg,Hoffenheim,0,2,A,0,0,D
+D1,201617,21/01/17,Darmstadt,M'gladbach,0,0,D,0,0,D
+D1,201617,21/01/17,RB Leipzig,Ein Frankfurt,3,0,H,2,0,H
+D1,201617,21/01/17,Schalke 04,Ingolstadt,1,0,H,0,0,D
+D1,201617,21/01/17,Werder Bremen,Dortmund,1,2,A,0,1,A
+D1,201617,21/01/17,Wolfsburg,Hamburg,1,0,H,0,0,D
+D1,201617,22/01/17,Leverkusen,Hertha,3,1,H,2,1,H
+D1,201617,22/01/17,Mainz,FC Koln,0,0,D,0,0,D
+D1,201617,27/01/17,Schalke 04,Ein Frankfurt,0,1,A,0,1,A
+D1,201617,28/01/17,Darmstadt,FC Koln,1,6,A,0,3,A
+D1,201617,28/01/17,Ingolstadt,Hamburg,3,1,H,2,0,H
+D1,201617,28/01/17,Leverkusen,M'gladbach,2,3,A,2,0,H
+D1,201617,28/01/17,RB Leipzig,Hoffenheim,2,1,H,1,1,D
+D1,201617,28/01/17,Werder Bremen,Bayern Munich,1,2,A,0,2,A
+D1,201617,28/01/17,Wolfsburg,Augsburg,1,2,A,1,1,D
+D1,201617,29/01/17,Freiburg,Hertha,2,1,H,1,0,H
+D1,201617,29/01/17,Mainz,Dortmund,1,1,D,0,1,A
+D1,201617,03/02/17,Hamburg,Leverkusen,1,0,H,0,0,D
+D1,201617,04/02/17,Bayern Munich,Schalke 04,1,1,D,1,1,D
+D1,201617,04/02/17,Dortmund,RB Leipzig,1,0,H,1,0,H
+D1,201617,04/02/17,FC Koln,Wolfsburg,1,0,H,0,0,D
+D1,201617,04/02/17,Hertha,Ingolstadt,1,0,H,1,0,H
+D1,201617,04/02/17,Hoffenheim,Mainz,4,0,H,1,0,H
+D1,201617,04/02/17,M'gladbach,Freiburg,3,0,H,0,0,D
+D1,201617,05/02/17,Augsburg,Werder Bremen,3,2,H,1,1,D
+D1,201617,05/02/17,Ein Frankfurt,Darmstadt,2,0,H,0,0,D
+D1,201617,10/02/17,Mainz,Augsburg,2,0,H,1,0,H
+D1,201617,11/02/17,Darmstadt,Dortmund,2,1,H,1,1,D
+D1,201617,11/02/17,Ingolstadt,Bayern Munich,0,2,A,0,0,D
+D1,201617,11/02/17,Leverkusen,Ein Frankfurt,3,0,H,1,0,H
+D1,201617,11/02/17,RB Leipzig,Hamburg,0,3,A,0,2,A
+D1,201617,11/02/17,Schalke 04,Hertha,2,0,H,1,0,H
+D1,201617,11/02/17,Werder Bremen,M'gladbach,0,1,A,0,1,A
+D1,201617,12/02/17,Freiburg,FC Koln,2,1,H,1,1,D
+D1,201617,12/02/17,Wolfsburg,Hoffenheim,2,1,H,0,1,A
+D1,201617,17/02/17,Augsburg,Leverkusen,1,3,A,0,2,A
+D1,201617,18/02/17,Dortmund,Wolfsburg,3,0,H,1,0,H
+D1,201617,18/02/17,Ein Frankfurt,Ingolstadt,0,2,A,0,1,A
+D1,201617,18/02/17,Hamburg,Freiburg,2,2,D,1,1,D
+D1,201617,18/02/17,Hertha,Bayern Munich,1,1,D,1,0,H
+D1,201617,18/02/17,Hoffenheim,Darmstadt,2,0,H,0,0,D
+D1,201617,18/02/17,Mainz,Werder Bremen,0,2,A,0,2,A
+D1,201617,19/02/17,FC Koln,Schalke 04,1,1,D,1,1,D
+D1,201617,19/02/17,M'gladbach,RB Leipzig,1,2,A,0,1,A
+D1,201617,24/02/17,Wolfsburg,Werder Bremen,1,2,A,1,2,A
+D1,201617,25/02/17,Bayern Munich,Hamburg,8,0,H,3,0,H
+D1,201617,25/02/17,Darmstadt,Augsburg,1,2,A,0,0,D
+D1,201617,25/02/17,Freiburg,Dortmund,0,3,A,0,1,A
+D1,201617,25/02/17,Hertha,Ein Frankfurt,2,0,H,0,0,D
+D1,201617,25/02/17,Leverkusen,Mainz,0,2,A,0,2,A
+D1,201617,25/02/17,RB Leipzig,FC Koln,3,1,H,2,0,H
+D1,201617,26/02/17,Ingolstadt,M'gladbach,0,2,A,0,0,D
+D1,201617,26/02/17,Schalke 04,Hoffenheim,1,1,D,1,0,H
+D1,201617,03/03/17,Augsburg,RB Leipzig,2,2,D,1,1,D
+D1,201617,04/03/17,Dortmund,Leverkusen,6,2,H,2,0,H
+D1,201617,04/03/17,FC Koln,Bayern Munich,0,3,A,0,1,A
+D1,201617,04/03/17,Hoffenheim,Ingolstadt,5,2,H,1,1,D
+D1,201617,04/03/17,Mainz,Wolfsburg,1,1,D,1,1,D
+D1,201617,04/03/17,M'gladbach,Schalke 04,4,2,H,1,1,D
+D1,201617,04/03/17,Werder Bremen,Darmstadt,2,0,H,0,0,D
+D1,201617,05/03/17,Ein Frankfurt,Freiburg,1,2,A,1,1,D
+D1,201617,05/03/17,Hamburg,Hertha,1,0,H,0,0,D
+D1,201617,10/03/17,Leverkusen,Werder Bremen,1,1,D,1,0,H
+D1,201617,11/03/17,Bayern Munich,Ein Frankfurt,3,0,H,2,0,H
+D1,201617,11/03/17,Darmstadt,Mainz,2,1,H,2,1,H
+D1,201617,11/03/17,Freiburg,Hoffenheim,1,1,D,0,0,D
+D1,201617,11/03/17,Hertha,Dortmund,2,1,H,1,0,H
+D1,201617,11/03/17,Ingolstadt,FC Koln,2,2,D,1,1,D
+D1,201617,11/03/17,RB Leipzig,Wolfsburg,0,1,A,0,1,A
+D1,201617,12/03/17,Hamburg,M'gladbach,2,1,H,1,1,D
+D1,201617,12/03/17,Schalke 04,Augsburg,3,0,H,3,0,H
+D1,201617,17/03/17,Dortmund,Ingolstadt,1,0,H,1,0,H
+D1,201617,18/03/17,Augsburg,Freiburg,1,1,D,1,1,D
+D1,201617,18/03/17,Ein Frankfurt,Hamburg,0,0,D,0,0,D
+D1,201617,18/03/17,FC Koln,Hertha,4,2,H,3,0,H
+D1,201617,18/03/17,Hoffenheim,Leverkusen,1,0,H,0,0,D
+D1,201617,18/03/17,Werder Bremen,RB Leipzig,3,0,H,1,0,H
+D1,201617,18/03/17,Wolfsburg,Darmstadt,1,0,H,1,0,H
+D1,201617,19/03/17,Mainz,Schalke 04,0,1,A,0,0,D
+D1,201617,19/03/17,M'gladbach,Bayern Munich,0,1,A,0,0,D
+D1,201617,31/03/17,Hertha,Hoffenheim,1,3,A,1,1,D
+D1,201617,01/04/17,Bayern Munich,Augsburg,6,0,H,2,0,H
+D1,201617,01/04/17,Ein Frankfurt,M'gladbach,0,0,D,0,0,D
+D1,201617,01/04/17,Freiburg,Werder Bremen,2,5,A,0,2,A
+D1,201617,01/04/17,Hamburg,FC Koln,2,1,H,1,1,D
+D1,201617,01/04/17,RB Leipzig,Darmstadt,4,0,H,1,0,H
+D1,201617,01/04/17,Schalke 04,Dortmund,1,1,D,0,0,D
+D1,201617,02/04/17,Ingolstadt,Mainz,2,1,H,1,0,H
+D1,201617,02/04/17,Leverkusen,Wolfsburg,3,3,D,1,0,H
+D1,201617,04/04/17,Dortmund,Hamburg,3,0,H,1,0,H
+D1,201617,04/04/17,FC Koln,Ein Frankfurt,1,0,H,0,0,D
+D1,201617,04/04/17,Hoffenheim,Bayern Munich,1,0,H,1,0,H
+D1,201617,04/04/17,Werder Bremen,Schalke 04,3,0,H,1,0,H
+D1,201617,05/04/17,Augsburg,Ingolstadt,2,3,A,0,2,A
+D1,201617,05/04/17,Darmstadt,Leverkusen,0,2,A,0,1,A
+D1,201617,05/04/17,Mainz,RB Leipzig,2,3,A,0,0,D
+D1,201617,05/04/17,M'gladbach,Hertha,1,0,H,1,0,H
+D1,201617,05/04/17,Wolfsburg,Freiburg,0,1,A,0,0,D
+D1,201617,07/04/17,Ein Frankfurt,Werder Bremen,2,2,D,0,2,A
+D1,201617,08/04/17,Bayern Munich,Dortmund,4,1,H,2,1,H
+D1,201617,08/04/17,FC Koln,M'gladbach,2,3,A,1,1,D
+D1,201617,08/04/17,Freiburg,Mainz,1,0,H,0,0,D
+D1,201617,08/04/17,Hamburg,Hoffenheim,2,1,H,1,1,D
+D1,201617,08/04/17,RB Leipzig,Leverkusen,1,0,H,0,0,D
+D1,201617,08/04/17,Schalke 04,Wolfsburg,4,1,H,2,0,H
+D1,201617,09/04/17,Hertha,Augsburg,2,0,H,2,0,H
+D1,201617,09/04/17,Ingolstadt,Darmstadt,3,2,H,1,2,A
+D1,201617,15/04/17,Augsburg,FC Koln,2,1,H,2,0,H
+D1,201617,15/04/17,Dortmund,Ein Frankfurt,3,1,H,2,1,H
+D1,201617,15/04/17,Hoffenheim,M'gladbach,5,3,H,2,2,D
+D1,201617,15/04/17,Leverkusen,Bayern Munich,0,0,D,0,0,D
+D1,201617,15/04/17,Mainz,Hertha,1,0,H,1,0,H
+D1,201617,15/04/17,RB Leipzig,Freiburg,4,0,H,2,0,H
+D1,201617,15/04/17,Wolfsburg,Ingolstadt,3,0,H,1,0,H
+D1,201617,16/04/17,Darmstadt,Schalke 04,2,1,H,1,0,H
+D1,201617,16/04/17,Werder Bremen,Hamburg,2,1,H,1,1,D
+D1,201617,21/04/17,FC Koln,Hoffenheim,1,1,D,0,0,D
+D1,201617,22/04/17,Bayern Munich,Mainz,2,2,D,1,2,A
+D1,201617,22/04/17,Ein Frankfurt,Augsburg,3,1,H,0,1,A
+D1,201617,22/04/17,Hamburg,Darmstadt,1,2,A,0,0,D
+D1,201617,22/04/17,Hertha,Wolfsburg,1,0,H,0,0,D
+D1,201617,22/04/17,Ingolstadt,Werder Bremen,2,4,A,1,1,D
+D1,201617,22/04/17,M'gladbach,Dortmund,2,3,A,1,1,D
+D1,201617,23/04/17,Freiburg,Leverkusen,2,1,H,1,0,H
+D1,201617,23/04/17,Schalke 04,RB Leipzig,1,1,D,0,1,A
+D1,201617,28/04/17,Leverkusen,Schalke 04,1,4,A,0,3,A
+D1,201617,29/04/17,Darmstadt,Freiburg,3,0,H,2,0,H
+D1,201617,29/04/17,Dortmund,FC Koln,0,0,D,0,0,D
+D1,201617,29/04/17,Mainz,M'gladbach,1,2,A,0,1,A
+D1,201617,29/04/17,RB Leipzig,Ingolstadt,0,0,D,0,0,D
+D1,201617,29/04/17,Werder Bremen,Hertha,2,0,H,2,0,H
+D1,201617,29/04/17,Wolfsburg,Bayern Munich,0,6,A,0,3,A
+D1,201617,30/04/17,Augsburg,Hamburg,4,0,H,2,0,H
+D1,201617,30/04/17,Hoffenheim,Ein Frankfurt,1,0,H,0,0,D
+D1,201617,05/05/17,FC Koln,Werder Bremen,4,3,H,3,2,H
+D1,201617,06/05/17,Bayern Munich,Darmstadt,1,0,H,1,0,H
+D1,201617,06/05/17,Dortmund,Hoffenheim,2,1,H,1,0,H
+D1,201617,06/05/17,Ein Frankfurt,Wolfsburg,0,2,A,0,0,D
+D1,201617,06/05/17,Hertha,RB Leipzig,1,4,A,0,1,A
+D1,201617,06/05/17,Ingolstadt,Leverkusen,1,1,D,0,0,D
+D1,201617,06/05/17,M'gladbach,Augsburg,1,1,D,0,0,D
+D1,201617,07/05/17,Freiburg,Schalke 04,2,0,H,2,0,H
+D1,201617,07/05/17,Hamburg,Mainz,0,0,D,0,0,D
+D1,201617,13/05/17,Augsburg,Dortmund,1,1,D,1,1,D
+D1,201617,13/05/17,Darmstadt,Hertha,0,2,A,0,2,A
+D1,201617,13/05/17,Freiburg,Ingolstadt,1,1,D,1,1,D
+D1,201617,13/05/17,Leverkusen,FC Koln,2,2,D,0,1,A
+D1,201617,13/05/17,Mainz,Ein Frankfurt,4,2,H,0,1,A
+D1,201617,13/05/17,RB Leipzig,Bayern Munich,4,5,A,2,1,H
+D1,201617,13/05/17,Schalke 04,Hamburg,1,1,D,1,0,H
+D1,201617,13/05/17,Werder Bremen,Hoffenheim,3,5,A,0,3,A
+D1,201617,13/05/17,Wolfsburg,M'gladbach,1,1,D,0,1,A
+D1,201617,20/05/17,Bayern Munich,Freiburg,4,1,H,1,0,H
+D1,201617,20/05/17,Dortmund,Werder Bremen,4,3,H,2,1,H
+D1,201617,20/05/17,Ein Frankfurt,RB Leipzig,2,2,D,0,1,A
+D1,201617,20/05/17,FC Koln,Mainz,2,0,H,1,0,H
+D1,201617,20/05/17,Hamburg,Wolfsburg,2,1,H,1,1,D
+D1,201617,20/05/17,Hertha,Leverkusen,2,6,A,0,3,A
+D1,201617,20/05/17,Hoffenheim,Augsburg,0,0,D,0,0,D
+D1,201617,20/05/17,Ingolstadt,Schalke 04,1,1,D,1,1,D
+D1,201617,20/05/17,M'gladbach,Darmstadt,2,2,D,0,0,D
