@@ -20,7 +20,7 @@ defmodule Football.Mixfile do
   def application do
     [
       mod: {Football.Application, []},
-      extra_applications: [:logger, :runtime_tools]
+      extra_applications: [:logger, :runtime_tools, :exprotobuf]
     ]
   end
 
@@ -42,7 +42,8 @@ defmodule Football.Mixfile do
       {:gettext, "~> 0.11"},
       {:cowboy, "~> 1.0"},
       {:ex_machina, "~> 2.2", only: :test},
-      {:csv, "~> 1.2.4"}
+      {:csv, "~> 1.2.4"},
+      {:exprotobuf, "~> 1.2.9"}
     ]
   end
 
