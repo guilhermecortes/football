@@ -25,5 +25,6 @@ defmodule FootballWeb.Router do
 
     get "/leagues", LeaguesController, :index
     get "/leagues/:division/:season", LeaguesController, :show
+    get "/protobuff/:division/:season", ProtobuffsController, :index
   end
 end
