@@ -43,7 +43,8 @@ defmodule Football.Mixfile do
       {:cowboy, "~> 1.0"},
       {:ex_machina, "~> 2.2", only: :test},
       {:csv, "~> 1.2.4"},
-      {:exprotobuf, "~> 1.2.9"}
+      {:exprotobuf, "~> 1.2.9"},
+      {:httpoison, "~> 1.0"}
     ]
   end
 
