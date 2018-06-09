@@ -101,10 +101,18 @@ Step 5: Run the server
 ```
 docker-compose up
 ```
-You can access the `localhost` and see the server up and running.
+You can access the `http://localhost` and see the server up and running.
 The requests are being distributed by the three configured servers.
 You can see the servers running by accessing: `http://localhost:1936/`
 (login: admin / password: admin) under the section `http-backend`.
+
+Right now we have only one server up. To scale it up to 3 we need
+execute run this command (open a new tab):
+```
+docker-compose scale web=3
+```
+Wait a few seconds and you will have 3 servers up and running on
+your console. You could also check the `http://localhost:1936/`.
 
 ## Tests
 
@@ -124,7 +132,7 @@ mix test
   * https://medium.com/@cristiano.codelab/dockerizing-a-phoenix-application-4e62e7888ae8
 
 
-## Learn more
+### Learn more
 
   * Official website: http://www.phoenixframework.org/
   * Guides: http://phoenixframework.org/docs/overview
