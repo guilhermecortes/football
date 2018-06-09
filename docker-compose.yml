@@ -1,0 +1,49 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    env_file: .env
+  web:
+    image: web
+    build: .
+    env_file: .env
+    command: mix phx.server
+    expose:
+      - 4000
+    volumes:
+      - .:/opt
+    depends_on:
+      - db
+  web2:
+    image: web
+    build: .
+    env_file: .env
+    command: mix phx.server
+    expose:
+      - 4000
+    volumes:
+      - .:/opt
+    depends_on:
+      - db
+  web3:
+    image: web
+    build: .
+    env_file: .env
+    command: mix phx.server
+    expose:
+      - 4000
+    volumes:
+      - .:/opt
+    depends_on:
+      - db
+  haproxy:
+    image: eeacms/haproxy
+    depends_on:
+    - web
+    ports:
+    - 80:5000
+    - 1936:1936
+    environment:
+      BACKENDS: web:4000 web2:4000 web3:4000
+      DNS_ENABLED: 'true'
+      LOG_LEVEL: info
