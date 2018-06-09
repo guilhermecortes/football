@@ -9,7 +9,7 @@ To start your Phoenix server:
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ## Populate the database
-The given file `data.csv` was added to this project, and it's
+The file `data.csv` was added to this project, and it's
 available to populate the database using the `seeds`.
 To populate the database you need to run this command:
 ```
@@ -21,9 +21,10 @@ to see the available divisions and seasons.
 
 ## API
 ### JSON
-  * http://localhost:4000/api/leagues - will return a pair with keys
-  `division` and `season` showing the available leagues/seasons that
-  you can fetch more details.
+  * http://localhost:4000/api/leagues
+    - will return a pair with keys `division` and `season`
+    showing the available leagues/seasons that you can
+    fetch more details.
     - The result will be something like:
     ```
       {
@@ -34,8 +35,9 @@ to see the available divisions and seasons.
         ]
       }
     ```
-  * http://localhost:4000/api/leagues/:division/:season - will return
-  all the information available for the specific league and season requested.
+  * http://localhost:4000/api/leagues/:division/:season
+    - will return all the information available for the
+    specific league and season requested.
     - Example request: `http://localhost:4000/api/leagues/SP1/201617`
     - The result will be something like:
     ```
@@ -60,7 +62,7 @@ to see the available divisions and seasons.
     ```
 
 ### Protocol Buffers
-To make a request to the protocol buffers you should open your terminal
+To make a request using protocol buffers you should open your terminal
 `iex -S mix` and send this request as example:
 ```
 Football.Client.get("SP1", "201617")
@@ -69,6 +71,7 @@ The `client` will trigger a request to
 http://localhost:4000/api/protobuff/#{division}/#{season}
   * "division" is the first parameter ("SP1");
   * and "season" is the second parameter ("201617");
+
 Once the request is triggered, the `ProtobuffsController` will handle it,
 enconding and decoding the data.
 
@@ -77,34 +80,31 @@ Right now it's working only with one object. I'm having issues to encode
 a list of items.
 
 ## Docker
-Step 1: Build the image
+**Step 1**: Build the image
 ```
 docker build -t football .
 ```
 
-Step 2: Access the interactive console
+**Step 2** (not necessary): Access the interactive console
 ```
 docker run football
 ```
 
-Step 3: Build the docker-compose
+**Step 3**: Build the docker-compose
 ```
 docker-compose build
 ```
 
-Step 4: Run the migration
+**Step 4**: Run the migration
 ```
 docker-compose run web mix ecto.migrate
 ```
 
-Step 5: Run the server
+**Step 5**: Run the server
 ```
 docker-compose up
 ```
 You can access the `http://localhost` and see the server up and running.
-The requests are being distributed by the three configured servers.
-You can see the servers running by accessing: `http://localhost:1936/`
-(login: admin / password: admin) under the section `http-backend`.
 
 Right now we have only one server up. To scale it up to 3 we need
 execute run this command (open a new tab):
@@ -112,7 +112,11 @@ execute run this command (open a new tab):
 docker-compose scale web=3
 ```
 Wait a few seconds and you will have 3 servers up and running on
-your console. You could also check the `http://localhost:1936/`.
+your console.
+
+The requests are being distributed by the three configured servers.
+You can see the servers running by accessing: `http://localhost:1936/`
+(login: admin / password: admin) under the section `http-backend`.
 
 ## Tests
 
