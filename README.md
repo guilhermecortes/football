@@ -1,27 +1,72 @@
 # Football
-To start your Phoenix server:
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
-  * Install Node.js dependencies with `cd assets && npm install`
-  * Start Phoenix endpoint with `mix phx.server`
+## Docker/docker-compose
+**Step 1**: Add the `.env` file
+It should have these variables:
+```
+POSTGRES_PASSWORD=1234
+POSTGRES_USER=football
+POSTGRES_DB=football
+POSTGRES_HOST=db
+```
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+**Step 2**: Build docker the image
+```
+docker build -t football .
+```
 
-## Populate the database
+**Step 3**: Build the docker-compose
+```
+docker-compose build
+```
+
+**Step 4**: Install the dependencies
+```
+docker-compose run web mix deps.get
+```
+
+**Step 5**: Run the migration
+(it might take a few seconds because it'll compile the app)
+```
+docker-compose run web mix ecto.migrate
+```
+
+**Step 6**: Populating the database
 The file `data.csv` was added to this project, and it's
 available to populate the database using the `seeds`.
 To populate the database you need to run this command:
 ```
-mix run priv/repo/seeds.exs
+docker-compose run web mix run priv/repo/seeds.exs
 ```
-So now you can start the server again and check the
-[`localhost:4000/api/leagues`](http://localhost:4000/api/leagues)
-to see the available divisions and seasons.
+
+**Step 7**: Run the server
+```
+docker-compose up
+```
+You can access the `http://localhost/api/leagues` to see the data.
+
+**Step 8**: Scaling the app
+Right now we have only one server up. To scale it up to 3 we need
+to run this command (open a new tab):
+```
+docker-compose scale web=3
+```
+Wait a few minutes and you will have 3 servers up and running on
+your console.
+
+The requests are being distributed by the three configured servers.
+You can see the servers running by accessing: `http://localhost:1936/`
+(login: admin / password: admin) under the section `http-backend`.
+
+
+Accessing the interactive console:
+```
+docker-compose run web iex -S mix
+```
 
 ## API
 ### JSON
-  * http://localhost:4000/api/leagues
+  * http://localhost/api/leagues
     - will return a pair with keys `division` and `season`
     showing the available leagues/seasons that you can
     fetch more details.
@@ -35,10 +80,10 @@ to see the available divisions and seasons.
         ]
       }
     ```
-  * http://localhost:4000/api/leagues/:division/:season
+  * http://localhost/api/leagues/:division/:season
     - will return all the information available for the
     specific league and season requested.
-    - Example request: `http://localhost:4000/api/leagues/SP1/201617`
+    - Example request: `http://localhost/api/leagues/SP1/201617`
     - The result will be something like:
     ```
       {
@@ -62,8 +107,18 @@ to see the available divisions and seasons.
     ```
 
 ### Protocol Buffers
-To make a request using protocol buffers you should open your terminal
-`iex -S mix` and send this request as example:
+(The protocol buffer is working only without the docker.
+So you need to follow the steps in the section below
+"starting the phoenix server locally", following the
+"Populating the database without docker" so you can
+have data to fetch).
+To make a request using protocol buffers you should
+have your server running, open a new tab, and open
+the interactive console:
+```
+iex -S mix
+```
+Inside the console you can send a request like this example:
 ```
 Football.Client.get("SP1", "201617")
 ```
@@ -79,44 +134,23 @@ enconding and decoding the data.
 Right now it's working only with one object. I'm having issues to encode
 a list of items.
 
-## Docker
-**Step 1**: Build the image
-```
-docker build -t football .
-```
+## Starting the phoenix server locally
+To start your Phoenix server:
 
-**Step 2** (not necessary): Access the interactive console
-```
-docker run football
-```
+  * Install dependencies with `mix deps.get`
+  * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
+  * Install Node.js dependencies with `cd assets && npm install`
+  * Start Phoenix endpoint with `mix phx.server`
 
-**Step 3**: Build the docker-compose
-```
-docker-compose build
-```
+Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-**Step 4**: Run the migration
+## Populating the database without docker
 ```
-docker-compose run web mix ecto.migrate
+mix run priv/repo/seeds.exs
 ```
-
-**Step 5**: Run the server
-```
-docker-compose up
-```
-You can access the `http://localhost` and see the server up and running.
-
-Right now we have only one server up. To scale it up to 3 we need
-execute run this command (open a new tab):
-```
-docker-compose scale web=3
-```
-Wait a few seconds and you will have 3 servers up and running on
-your console.
-
-The requests are being distributed by the three configured servers.
-You can see the servers running by accessing: `http://localhost:1936/`
-(login: admin / password: admin) under the section `http-backend`.
+So now you can start the server again and check the
+[`localhost:4000/api/leagues`](http://localhost:4000/api/leagues)
+to see the available divisions and seasons.
 
 ## Tests
 
