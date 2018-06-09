@@ -1,11 +1,15 @@
 defmodule FootballWeb.ProtobuffsController do
+  @moduledoc """
+  The `Protobuffs` module is responsible to handle the protocol buffer request.
+  """
+
   use FootballWeb, :controller
   import Ecto.Query
 
   def index(conn, %{"division" => division, "season" => season}) do
     # results = Football.Result.result_by(division, season)
     # protobuffs = Football.Protobufs.ResultResponse.new(result: results)
-    # Got stuck here trying to encode the list \/
+    # ========== Got stuck here trying to encode the list \/
     # Football.Protobufs.ResultResponse.encode(result: protobuffs)
     # Because of that, I decided to use only one record, encode it and return it.
 

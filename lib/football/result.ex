@@ -1,4 +1,9 @@
 defmodule Football.Result do
+  @moduledoc """
+  The `Result` module is responsible to store all
+  fields obtained from the `data.csv` file.
+  """
+
   use Ecto.Schema
   import Ecto.Changeset
   import Ecto.Query

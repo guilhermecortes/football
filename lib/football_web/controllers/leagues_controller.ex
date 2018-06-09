@@ -1,4 +1,7 @@
 defmodule FootballWeb.LeaguesController do
+  @moduledoc """
+  The `LeaguesController` module is responsible to handle the JSON requests.
+  """
   use FootballWeb, :controller
 
   def index(conn, _params) do
