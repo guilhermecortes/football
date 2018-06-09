@@ -4,6 +4,7 @@ defmodule Football.Client do
 
   def get(division, season) do
     Logger.info fn -> "Encoded message" end
+    # Not sure why the request didn't work with the docker setup.
     res = HTTPoison.get!("http://localhost:4000/api/protobuff/#{division}/#{season}")
     IO.puts "*********************************************"
     IO.inspect(res.body)
