@@ -34,11 +34,17 @@ defmodule Football.Result do
     |> validate_required([:division, :season, :game_date, :home_team, :away_team, :fthg, :ftag, :ftr, :hthg, :htag, :htr])
   end
 
+  @doc """
+  Returns available leagues and seasons.
+  """
   def available_leagues do
     query = from(result in Result, distinct: [result.division, result.season])
     query |> Repo.all
   end
 
+  @doc """
+  Returns all results based on given division and season.
+  """
   def result_by(division, season) do
     query = from(result in Result, where: result.season == ^season and result.division == ^division)
 
