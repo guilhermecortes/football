@@ -1,7 +1,8 @@
 # Football
 
 ## Docker/docker-compose
-**Step 1**: Add the `.env` file
+**Step 1**: Add the `.env` file.
+
 It should have these variables:
 ```
 POSTGRES_PASSWORD=1234
@@ -10,28 +11,29 @@ POSTGRES_DB=football
 POSTGRES_HOST=db
 ```
 
-**Step 2**: Build docker the image
+**Step 2**: Build the docker image.
 ```
 docker build -t football .
 ```
 
-**Step 3**: Build the docker-compose
+**Step 3**: Build the docker-compose.
 ```
 docker-compose build
 ```
 
-**Step 4**: Install the dependencies
+**Step 4**: Install the dependencies.
 ```
 docker-compose run web mix deps.get
 ```
 
-**Step 5**: Run the migration
+**Step 5**: Run the migration.
 (it might take a few seconds because it'll compile the app)
 ```
 docker-compose run web mix ecto.migrate
 ```
 
-**Step 6**: Populating the database
+**Step 6**: Populating the database.
+
 The file `data.csv` was added to this project, and it's
 available to populate the database using the `seeds`.
 To populate the database you need to run this command:
@@ -39,13 +41,14 @@ To populate the database you need to run this command:
 docker-compose run web mix run priv/repo/seeds.exs
 ```
 
-**Step 7**: Run the server
+**Step 7**: Run the server.
 ```
 docker-compose up
 ```
 You can access the `http://localhost/api/leagues` to see the data.
 
-**Step 8**: Scaling the app
+**Step 8**: Scaling the app.
+
 Right now we have only one server up. To scale it up to 3 we need
 to run this command (open a new tab):
 ```
